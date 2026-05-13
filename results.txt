@@ -1,0 +1,324 @@
+
+=== RSI 53 →  MATCHES ===
+Scan Time: 2026-05-13 18:54 UTC
+---------------------------------------------
+ARPAUSDT   | RSI: 53.49 | Live RSI: 52.17
+ATMUSDT    | RSI: 53.3 | Live RSI: 55.91
+DEXEUSDT   | RSI: 53.9 | Live RSI: 24.67
+CITYUSDT   | RSI: 58.45 | Live RSI: 53.97
+HIGHUSDT   | RSI: 54.42 | Live RSI: 61.9
+MANTAUSDT  | RSI: 55.75 | Live RSI: 53.25
+BBUSDT     | RSI: 56.9 | Live RSI: 65.66
+BFUSDUSDT  | RSI: 55.32 | Live RSI: 50.0
+EULUSDT    | RSI: 53.83 | Live RSI: 50.55
+ATUSDT     | RSI: 54.06 | Live RSI: 65.74
+---------------------------------------------
+Total Matches: 10
+
+=======
+
+
+=== RSI 53 →  MATCHES ===
+Scan Time: 2026-05-13 18:55 UTC
+---------------------------------------------
+ARPAUSDT   | RSI: 53.49
+ATMUSDT    | RSI: 53.3
+DEXEUSDT   | RSI: 53.9
+CITYUSDT   | RSI: 58.45
+HIGHUSDT   | RSI: 54.42
+MANTAUSDT  | RSI: 55.75
+BBUSDT     | RSI: 56.9
+BFUSDUSDT  | RSI: 55.32
+EULUSDT    | RSI: 53.83
+ATUSDT     | RSI: 54.06
+---------------------------------------------
+Total Matches: 10
+
+=======
+
+
+=== RSI 53 →  MATCHES ===
+Scan Time: 2026-05-13 19:01 UTC
+---------------------------------------------
+ARPAUSDT   | RSI: 53.49 | Live RSI: 56.69
+ATMUSDT    | RSI: 53.3 | Live RSI: 55.91
+RIFUSDT    | RSI: 53.37 | Live RSI: 55.8
+CFXUSDT    | RSI: 58.08 | Live RSI: 54.11
+BERAUSDT   | RSI: 56.3 | Live RSI: 50.0
+KAITOUSDT  | RSI: 53.88 | Live RSI: 60.23
+LINEAUSDT  | RSI: 54.07 | Live RSI: 45.4
+---------------------------------------------
+Total Matches: 7
+
+=======
+
+
+=== RSI 53 →  MATCHES ===
+Scan Time: 2026-05-13 19:09 UTC
+---------------------------------------------
+RIFUSDT    | RSI: 53.37 | Live RSI: 57.04
+CFXUSDT    | RSI: 58.08 | Live RSI: 54.11
+BERAUSDT   | RSI: 56.3 | Live RSI: 49.33
+KAITOUSDT  | RSI: 53.88 | Live RSI: 58.94
+LINEAUSDT  | RSI: 54.07 | Live RSI: 43.6
+---------------------------------------------
+Total Matches: 5
+
+=======
+
+
+=== RSI 53 →  MATCHES ===
+Scan Time: 2026-05-13 19:16 UTC
+---------------------------------------------
+RIFUSDT    | RSI: 53.37 | Live RSI: 58.78
+CFXUSDT    | RSI: 58.08 | Live RSI: 54.0
+BERAUSDT   | RSI: 56.3 | Live RSI: 50.0
+KAITOUSDT  | RSI: 53.88 | Live RSI: 56.92
+LINEAUSDT  | RSI: 54.07 | Live RSI: 43.14
+---------------------------------------------
+Total Matches: 5
+
+=======
+
+
+=== RSI 53 →  MATCHES ===
+Scan Time: 2026-05-13 19:19 UTC
+---------------------------------------------
+RIFUSDT    | RSI: 53.37
+CFXUSDT    | RSI: 58.08
+BERAUSDT   | RSI: 56.3
+KAITOUSDT  | RSI: 53.88
+LINEAUSDT  | RSI: 54.07
+---------------------------------------------
+Total Matches: 5
+
+=======
+
+
+=== RSI 53 →  MATCHES ===
+Scan Time: 2026-05-13 19:23 UTC
+---------------------------------------------
+RIFUSDT    | RSI: 53.37 | Live RSI: 58.22
+CFXUSDT    | RSI: 58.08 | Live RSI: 54.7
+BERAUSDT   | RSI: 56.3 | Live RSI: 49.33
+KAITOUSDT  | RSI: 53.88 | Live RSI: 55.45
+LINEAUSDT  | RSI: 54.07 | Live RSI: 40.54
+---------------------------------------------
+Total Matches: 5
+
+=======
+
+
+=== RSI 53 →  MATCHES ===
+Scan Time: 2026-05-13 19:31 UTC
+---------------------------------------------
+RIFUSDT    | RSI: 53.37 | Live RSI: 58.5
+CFXUSDT    | RSI: 58.08 | Live RSI: 55.6
+BERAUSDT   | RSI: 56.3 | Live RSI: 50.67
+KAITOUSDT  | RSI: 53.88 | Live RSI: 54.79
+LINEAUSDT  | RSI: 54.07 | Live RSI: 40.74
+---------------------------------------------
+Total Matches: 5
+
+=======
+
+
+=== RSI 53 →  MATCHES ===
+Scan Time: 2026-05-13 19:38 UTC
+---------------------------------------------
+RIFUSDT    | RSI: 53.37 | Live RSI: 57.93
+CFXUSDT    | RSI: 58.08 | Live RSI: 56.36
+BERAUSDT   | RSI: 56.3 | Live RSI: 51.32
+KAITOUSDT  | RSI: 53.88 | Live RSI: 55.54
+LINEAUSDT  | RSI: 54.07 | Live RSI: 42.16
+---------------------------------------------
+Total Matches: 5
+
+=======
+
+
+=== RSI 53 →  MATCHES ===
+Scan Time: 2026-05-13 19:43 UTC
+---------------------------------------------
+RIFUSDT    | RSI: 53.37
+CFXUSDT    | RSI: 58.08
+BERAUSDT   | RSI: 56.3
+KAITOUSDT  | RSI: 53.88
+LINEAUSDT  | RSI: 54.07
+---------------------------------------------
+Total Matches: 5
+
+=======
+
+
+=== RSI 53 →  MATCHES ===
+Scan Time: 2026-05-13 19:45 UTC
+---------------------------------------------
+RIFUSDT    | RSI: 53.37 | Live RSI: 57.04
+CFXUSDT    | RSI: 58.08 | Live RSI: 56.79
+BERAUSDT   | RSI: 56.3 | Live RSI: 51.32
+KAITOUSDT  | RSI: 53.88 | Live RSI: 55.29
+LINEAUSDT  | RSI: 54.07 | Live RSI: 42.01
+---------------------------------------------
+Total Matches: 5
+
+=======
+
+
+=== RSI 53 →  MATCHES ===
+Scan Time: 2026-05-13 19:52 UTC
+---------------------------------------------
+RIFUSDT    | RSI: 53.37 | Live RSI: 56.74
+CFXUSDT    | RSI: 58.08 | Live RSI: 55.72
+BERAUSDT   | RSI: 56.3 | Live RSI: 51.95
+KAITOUSDT  | RSI: 53.88 | Live RSI: 53.59
+LINEAUSDT  | RSI: 54.07 | Live RSI: 40.33
+---------------------------------------------
+Total Matches: 5
+
+=======
+
+
+=== RSI 53 →  MATCHES ===
+Scan Time: 2026-05-13 20:00 UTC
+---------------------------------------------
+RIFUSDT    | RSI: 53.37 | Live RSI: 67.23
+CFXUSDT    | RSI: 58.08 | Live RSI: 56.26
+BERAUSDT   | RSI: 56.3 | Live RSI: 52.5
+KAITOUSDT  | RSI: 53.88 | Live RSI: 52.87
+LINEAUSDT  | RSI: 54.07 | Live RSI: 45.13
+---------------------------------------------
+Total Matches: 5
+
+=======
+
+
+=== RSI 53 →  MATCHES ===
+Scan Time: 2026-05-13 20:06 UTC
+---------------------------------------------
+QNTUSDT    | RSI: 55.47
+BABYUSDT   | RSI: 53.0
+---------------------------------------------
+Total Matches: 2
+
+=======
+
+
+=== RSI 53 →  MATCHES ===
+Scan Time: 2026-05-13 20:07 UTC
+---------------------------------------------
+QNTUSDT    | RSI: 55.47 | Live RSI: 51.99
+BABYUSDT   | RSI: 53.0 | Live RSI: 47.41
+---------------------------------------------
+Total Matches: 2
+
+=======
+
+
+=== RSI 53 →  MATCHES ===
+Scan Time: 2026-05-13 20:14 UTC
+---------------------------------------------
+QNTUSDT    | RSI: 55.47 | Live RSI: 51.01
+BABYUSDT   | RSI: 53.0 | Live RSI: 45.83
+---------------------------------------------
+Total Matches: 2
+
+=======
+
+
+=== RSI 53 →  MATCHES ===
+Scan Time: 2026-05-13 20:22 UTC
+---------------------------------------------
+QNTUSDT    | RSI: 55.47 | Live RSI: 53.35
+BABYUSDT   | RSI: 53.0 | Live RSI: 44.9
+---------------------------------------------
+Total Matches: 2
+
+=======
+
+
+=== RSI 53 →  MATCHES ===
+Scan Time: 2026-05-13 20:29 UTC
+---------------------------------------------
+QNTUSDT    | RSI: 55.47 | Live RSI: 48.64
+BABYUSDT   | RSI: 53.0 | Live RSI: 44.72
+---------------------------------------------
+Total Matches: 2
+
+=======
+
+
+=== RSI 53 →  MATCHES ===
+Scan Time: 2026-05-13 20:30 UTC
+---------------------------------------------
+QNTUSDT    | RSI: 55.47
+BABYUSDT   | RSI: 53.0
+---------------------------------------------
+Total Matches: 2
+
+=======
+
+
+=== RSI 53 →  MATCHES ===
+Scan Time: 2026-05-13 20:36 UTC
+---------------------------------------------
+QNTUSDT    | RSI: 55.47 | Live RSI: 52.99
+BABYUSDT   | RSI: 53.0 | Live RSI: 44.72
+---------------------------------------------
+Total Matches: 2
+
+=======
+
+
+=== RSI 53 →  MATCHES ===
+Scan Time: 2026-05-13 20:43 UTC
+---------------------------------------------
+QNTUSDT    | RSI: 55.47 | Live RSI: 51.47
+BABYUSDT   | RSI: 53.0 | Live RSI: 44.18
+---------------------------------------------
+Total Matches: 2
+
+=======
+
+
+=== RSI 53 →  MATCHES ===
+Scan Time: 2026-05-13 20:51 UTC
+---------------------------------------------
+QNTUSDT    | RSI: 55.47 | Live RSI: 49.18
+BABYUSDT   | RSI: 53.0 | Live RSI: 43.65
+---------------------------------------------
+Total Matches: 2
+
+=======
+
+
+=== RSI 53 →  MATCHES ===
+Scan Time: 2026-05-13 20:58 UTC
+---------------------------------------------
+QNTUSDT    | RSI: 55.47 | Live RSI: 49.25
+BABYUSDT   | RSI: 53.0 | Live RSI: 44.35
+---------------------------------------------
+Total Matches: 2
+
+=======
+
+
+=== RSI 53 →  MATCHES ===
+Scan Time: 2026-05-13 21:05 UTC
+---------------------------------------------
+RADUSDT    | RSI: 59.73 | Live RSI: 60.76
+---------------------------------------------
+Total Matches: 1
+
+=======
+
+
+=== RSI 53 →  MATCHES ===
+Scan Time: 2026-05-13 21:12 UTC
+---------------------------------------------
+RADUSDT    | RSI: 59.73 | Live RSI: 65.06
+---------------------------------------------
+Total Matches: 1
+
+=======
+
