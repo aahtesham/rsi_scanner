@@ -322,3 +322,33 @@ Total Matches: 1
 
 =======
 
+
+=== RSI 53 →  MATCHES ===
+Scan Time: 2026-05-13 21:20 UTC
+---------------------------------------------
+RADUSDT    | RSI: 59.73 | Live RSI: 60.0
+---------------------------------------------
+Total Matches: 1
+
+=======
+
+
+=== RSI 53 →  MATCHES ===
+Scan Time: 2026-05-13 21:27 UTC
+---------------------------------------------
+RADUSDT    | RSI: 59.73 | Live RSI: 54.55
+---------------------------------------------
+Total Matches: 1
+
+=======
+
+
+=== MATCHES === 2026-05-13 21:29 UTC
+DCRUSDT      | 1h RSI: 49.18 → 50.12 | Live RSI: 55.91
+EURIUSDT     | 1h RSI: 39.22 → 40.37 | Live RSI: 55.36
+CGPTUSDT     | 1h RSI: 42.46 → 43.57 | Live RSI: 56.83
+SOLVUSDT     | 1h RSI: 45.97 → 48.51 | Live RSI: 55.1
+KAITOUSDT    | 1h RSI: 49.19 → 49.28 | Live RSI: 51.07
+NXPCUSDT     | 1h RSI: 48.67 → 52.18 | Live RSI: 52.37
+Total: 6
+
