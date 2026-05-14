@@ -26,6 +26,10 @@ CANDLE_LIMIT = 100
 session = requests.Session()
 
 
+last_alert_time = {}
+ALERT_COOLDOWN = 1800   # 30 minutes (in seconds)
+
+
 # -------------------------------
 # Get all symbols
 # -------------------------------
@@ -80,30 +84,72 @@ def calculate_rsi(df):
 # Calculate Live RSI
 # -------------------------------
 
-def get_live_rsi(symbol, interval="1h", period=14):
-    data = session.get(
-        f"https://api.binance.com/api/v3/klines?symbol={symbol}&interval={interval}&limit=100"
-    ).json()
+# def get_live_rsi(symbol, interval="1h", period=14):
+#     data = session.get(
+#         f"https://api.binance.com/api/v3/klines?symbol={symbol}&interval={interval}&limit=100"
+#     ).json()
 
-    closes = [float(x[4]) for x in data]
+#     closes = [float(x[4]) for x in data]
 
-    # live price
-    current_price = float(
-        session.get(f"https://api.binance.com/api/v3/ticker/price?symbol={symbol}").json()["price"]
-    )
+#     # live price
+#     current_price = float(
+#         session.get(f"https://api.binance.com/api/v3/ticker/price?symbol={symbol}").json()["price"]
+#     )
 
-    closes[-1] = current_price
+#     closes[-1] = current_price
 
-    s = pd.Series(closes)
-    delta = s.diff()
-    gain = (delta.where(delta > 0, 0)).rolling(period).mean()
-    loss = (-delta.where(delta < 0, 0)).rolling(period).mean()
+#     s = pd.Series(closes)
+#     delta = s.diff()
+#     gain = (delta.where(delta > 0, 0)).rolling(period).mean()
+#     loss = (-delta.where(delta < 0, 0)).rolling(period).mean()
 
-    rs = gain / loss
-    rsi = 100 - (100 / (1 + rs))
+#     rs = gain / loss
+#     rsi = 100 - (100 / (1 + rs))
 
-    return round(rsi.iloc[-1], 2)
+#     return round(rsi.iloc[-1], 2)
 
+# def get_live_rsi(symbol, interval="1h", period=14):
+#     try:
+#         data = session.get(
+#             f"{B_API}/api/v3/klines?symbol={symbol}&interval={interval}&limit=100",
+#             timeout=10
+#         ).json()
+
+#         closes = [float(x[4]) for x in data]
+
+#         current_price = float(
+#             session.get(f"{B_API}/api/v3/ticker/price?symbol={symbol}", timeout=5).json()["price"]
+#         )
+
+#         # ✅ correct approach (same timeframe)
+#         closes[-1] = current_price
+
+#         df = pd.DataFrame({"close": closes})
+#         rsi = calculate_rsi(df)
+
+#         return round(rsi.iloc[-1], 2)
+
+#     except Exception as e:
+#         logger.error(f"Live RSI error: {e}")
+#         return None
+    
+def get_live_rsi(symbol, interval="1h"):
+    try:
+        data = session.get(
+            f"{B_API}/api/v3/klines?symbol={symbol}&interval={interval}&limit=100",
+            timeout=10
+        ).json()
+
+        closes = [float(x[4]) for x in data]
+
+        df = pd.DataFrame({"close": closes})
+        rsi = calculate_rsi(df)
+
+        return round(rsi.iloc[-1], 2)
+
+    except Exception as e:
+        logger.error(f"Live RSI error: {e}")
+        return None
 # -------------------------------
 # Main scan logic
 # -------------------------------
@@ -111,17 +157,16 @@ def scan():
     logger.info("Starting scan cycle")
     symbols = get_all_usdt_symbols()
     matches = []
+    seen = set()
 
     for idx, symbol in enumerate(symbols, start=1):
         try:
             # ✅ STEP 1: Check live RSI first (fast filter)
             live_rsi = get_live_rsi(symbol)
 
-            # ✅ STEP 2: Only proceed if live RSI is in the 54-57 zone
-            if not (51 <= live_rsi <= 57):
-                continue  # skip immediately, no heavy work
-
-            logger.info(f"[{idx}] {symbol} live RSI={live_rsi} → checking 1h closed candles...")
+            # ✅ STEP 2: Only proceed if live RSI is in the 53-60 zone
+            if live_rsi is None or not (53 <= live_rsi <= 60):
+                continue # skip immediately, no heavy work
 
             # ✅ STEP 3: Now do the heavy work
             klines = get_klines(symbol)
@@ -134,14 +179,40 @@ def scan():
                 "taker_base", "taker_quote", "ignore"
             ])
             df["close"] = df["close"].astype(float)
+            df["volume"] = df["volume"].astype(float)
 
-            rsi        = calculate_rsi(df)
+            
+           
+            # ✅ better volume filter
+            if df["volume"].tail(10).mean() < 50000:
+                continue
+
+
+            rsi = calculate_rsi(df)
             rsi_closed = rsi.iloc[-2]   # last fully closed 1h candle
             rsi_prev   = rsi.iloc[-3]   # one before that
 
-            # ✅ STEP 4: Confirm 1h RSI was below 53 (crossing happened inside live candle)
-            if rsi_closed < 53 and rsi_prev < rsi_closed:
-                logger.info(f"MATCH: {symbol} | 1h RSI: {rsi_prev:.2f}→{rsi_closed:.2f} | Live: {live_rsi}")
+
+            # ✅ (momentum strength filter)
+            if (rsi_closed - rsi_prev) < 1:
+                continue
+
+            # ✅ STEP 4: Confirm 1h RSI was below 52 (crossing happened inside live candle)
+            # ✅ clean condition
+            if rsi_prev < rsi_closed < 51:
+                
+                current_time = time.time()
+
+                # ✅ skip if already alerted recently
+                if symbol in last_alert_time:
+                    if current_time - last_alert_time[symbol] < ALERT_COOLDOWN:
+                        continue
+
+                # ✅ store alert time
+                last_alert_time[symbol] = current_time
+
+                logger.info(f"MATCH: {symbol} | {rsi_prev:.2f} → {rsi_closed:.2f} | Live: {live_rsi}")
+
                 matches.append({
                     "symbol"    : symbol,
                     "rsi_prev"  : round(rsi_prev, 2),
@@ -151,6 +222,8 @@ def scan():
 
         except Exception as e:
             logger.error(f"Error processing {symbol}: {e}")
+        
+        time.sleep(0.05)
 
     # Print results
     if matches:
@@ -184,7 +257,7 @@ if __name__ == "__main__":
     logger.info(" Scanner started")
 
     while True:
-        logger.info("Running 1 Hour RSI scanner")
+        logger.info("Running 1 hour with Live RSI scanner")
         scan()
-        logger.info("Sleeping for 1 hour \n")
+        logger.info("Sleeping for 5 minutes \n")
         time.sleep(300)
