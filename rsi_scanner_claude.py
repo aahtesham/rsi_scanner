@@ -7,6 +7,8 @@ from datetime import datetime, timezone
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from requests.adapters import HTTPAdapter
 
+
+
 logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s | %(levelname)s | %(message)s",
@@ -63,9 +65,12 @@ def get_live_rsi(symbol, klines, period=14):
 # -------------------------------
 # Process each symbol
 # -------------------------------
+# Track last alerted RSI value per symbol (not time)
+last_alert_rsi = {}
+RSI_CHANGE_THRESHOLD = 3  # only re-alert if live RSI moved 3+ points since last alert
+
 def process_symbol(symbol):
     try:
-        # Step 1: fetch klines
         url = f"{B_API}/api/v3/klines?symbol={symbol}&interval=1h&limit=100"
         klines = session.get(url, timeout=10).json()
 
@@ -80,37 +85,33 @@ def process_symbol(symbol):
         df["close"] = df["close"].astype(float)
         df["volume"] = df["volume"].astype(float)
 
-        # Step 2: volume filter
         if df["volume"].tail(10).mean() < 50000:
             return None
 
-        # Step 3: closed candle RSI (no live price yet)
         rsi        = RSIIndicator(df["close"], window=14).rsi()
-        rsi_closed = rsi.iloc[-2]   # ✅ last fully closed candle
-        rsi_prev   = rsi.iloc[-3]   # one before
+        rsi_closed = rsi.iloc[-2]
+        rsi_prev   = rsi.iloc[-3]
 
-        # Step 4: closed candles must show RSI rising but still below 53
         if not (rsi_prev < rsi_closed < 53):
             return None
 
-        if (rsi_closed - rsi_prev) < 1:     # must be rising by at least 1 point
+        if (rsi_closed - rsi_prev) < 1:
             return None
 
-        # Step 5: NOW get true live RSI (ticker price injected)
         live_rsi = get_live_rsi(symbol, klines)
         if live_rsi is None:
             return None
 
-        # Step 6: live RSI must have crossed above 53 into 53-60 zone
         if not (53 < live_rsi <= 60):
             return None
 
-        # Step 7: cooldown check
-        now = time.time()
-        if symbol in last_alert_time:
-            if now - last_alert_time[symbol] < ALERT_COOLDOWN:
-                return None
-        last_alert_time[symbol] = now
+        # ✅ RSI-based cooldown instead of time-based
+        if symbol in last_alert_rsi:
+            last_rsi = last_alert_rsi[symbol]
+            if abs(live_rsi - last_rsi) < RSI_CHANGE_THRESHOLD:
+                return None   # RSI hasn't moved enough, skip
+
+        last_alert_rsi[symbol] = live_rsi  # update with current live RSI
 
         return {
             "symbol"    : symbol,
@@ -170,11 +171,14 @@ def scan():
     else:
         print("No matches found.\n")
 
+    for m in matches:
+     open_trade(m["symbol"])  
+
 # -------------------------------
 # MAIN LOOP
 # -------------------------------
 if __name__ == "__main__":
-    logger.info("Scanner started")
+    logger.info("Scanner started With Claude Logic")
     while True:
         scan()
         logger.info("Sleeping 2.5 minutes...\n")

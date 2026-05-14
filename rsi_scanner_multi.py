@@ -182,7 +182,7 @@ def scan():
 # MAIN LOOP
 # -------------------------------
 if __name__ == "__main__":
-    logger.info("Scanner started")
+    logger.info("Scanner started with Copiolot Logic")
 
     while True:
         scan()
