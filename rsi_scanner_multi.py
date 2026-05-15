@@ -5,15 +5,8 @@ import logging
 from ta.momentum import RSIIndicator
 from datetime import datetime, timezone
 from concurrent.futures import ThreadPoolExecutor, as_completed
-
-# ✅ increase connection pool
 from requests.adapters import HTTPAdapter
 
-
-
-# -------------------------------
-# LOGGING CONFIGURATION
-# -------------------------------
 logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s | %(levelname)s | %(message)s",
@@ -21,18 +14,12 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-# -------------------------------
-# CONFIGURATION
-# -------------------------------
 B_API = "https://api.binance.com"
 session = requests.Session()
-
 adapter = HTTPAdapter(pool_connections=50, pool_maxsize=50)
 session.mount("https://", adapter)
 session.mount("http://", adapter)
 
-
-# cooldown tracking
 last_alert_time = {}
 ALERT_COOLDOWN = 1800  # 30 min
 
@@ -41,30 +28,44 @@ ALERT_COOLDOWN = 1800  # 30 min
 # -------------------------------
 def get_all_usdt_symbols():
     url = f"{B_API}/api/v3/exchangeInfo"
-    response = session.get(url, timeout=10)
-    response.raise_for_status()
-
-    data = response.json()
-
+    r = session.get(url, timeout=10)
+    r.raise_for_status()
     return [
         s["symbol"]
-        for s in data["symbols"]
+        for s in r.json()["symbols"]
         if s["quoteAsset"] == "USDT" and s["status"] == "TRADING"
     ]
 
 # -------------------------------
-# RSI Calculation
+# True live RSI using ticker price
 # -------------------------------
-def calculate_rsi(df):
-    indicator = RSIIndicator(df["close"], window=14)
-    return indicator.rsi()
+def get_live_rsi(symbol, klines, period=14):
+    """Inject real-time ticker price into last candle, then recalculate RSI."""
+    try:
+        ticker = session.get(
+            f"{B_API}/api/v3/ticker/price?symbol={symbol}", timeout=5
+        ).json()
+        current_price = float(ticker["price"])
+    except Exception:
+        return None
+
+    closes = [float(x[4]) for x in klines]
+    closes[-1] = current_price          # ✅ replace forming candle with live price
+
+    s = pd.Series(closes)
+    delta = s.diff()
+    gain = delta.where(delta > 0, 0).rolling(period).mean()
+    loss = (-delta.where(delta < 0, 0)).rolling(period).mean()
+    rs = gain / loss
+    rsi = 100 - (100 / (1 + rs))
+    return round(rsi.iloc[-1], 2)
 
 # -------------------------------
-# Process each symbol (THREAD)
+# Process each symbol
 # -------------------------------
 def process_symbol(symbol):
     try:
-        # ✅ SINGLE API CALL
+        # Step 1: fetch klines
         url = f"{B_API}/api/v3/klines?symbol={symbol}&interval=1h&limit=100"
         klines = session.get(url, timeout=10).json()
 
@@ -76,93 +77,84 @@ def process_symbol(symbol):
             "volume", "close_time", "qav", "trades",
             "taker_base", "taker_quote", "ignore"
         ])
-
         df["close"] = df["close"].astype(float)
         df["volume"] = df["volume"].astype(float)
 
-        # ✅ volume filter
+        # Step 2: volume filter
         if df["volume"].tail(10).mean() < 50000:
             return None
 
-        rsi = calculate_rsi(df)
+        # Step 3: closed candle RSI (no live price yet)
+        rsi        = RSIIndicator(df["close"], window=14).rsi()
+        rsi_closed = rsi.iloc[-2]   # ✅ last fully closed candle
+        rsi_prev   = rsi.iloc[-3]   # one before
 
-        live_rsi   = rsi.iloc[-1]
-        rsi_closed = rsi.iloc[-2]
-        rsi_prev   = rsi.iloc[-3]
-
-        # ✅ RSI filters
-        if not (53 <= live_rsi <= 60):
+        # Step 4: closed candles must show RSI rising but still below 53
+        if not (rsi_prev < rsi_closed < 53):
             return None
 
-        if (rsi_closed - rsi_prev) < 1:
+        if (rsi_closed - rsi_prev) < 1:     # must be rising by at least 1 point
             return None
 
-        if not (rsi_prev < rsi_closed < 52):
+        # Step 5: NOW get true live RSI (ticker price injected)
+        live_rsi = get_live_rsi(symbol, klines)
+        if live_rsi is None:
             return None
 
-        # ✅ cooldown control
-        current_time = time.time()
+        # Step 6: live RSI must have crossed above 53 into 53-60 zone
+        if not (52 < live_rsi <= 60):
+            return None
+
+        # Step 7: cooldown check
+        now = time.time()
         if symbol in last_alert_time:
-            if current_time - last_alert_time[symbol] < ALERT_COOLDOWN:
+            if now - last_alert_time[symbol] < ALERT_COOLDOWN:
                 return None
-
-        last_alert_time[symbol] = current_time
+        last_alert_time[symbol] = now
 
         return {
-            "symbol": symbol,
-            "rsi_prev": round(rsi_prev, 2),
+            "symbol"    : symbol,
+            "rsi_prev"  : round(rsi_prev, 2),
             "rsi_closed": round(rsi_closed, 2),
-            "live_rsi": round(live_rsi, 2),
+            "live_rsi"  : round(live_rsi, 2),
         }
 
     except Exception as e:
         logger.error(f"{symbol} error: {e}")
-
-    return None
+        return None
 
 # -------------------------------
-# Main Scan Function
+# Main Scan
 # -------------------------------
 def scan():
     logger.info("Starting scan cycle")
-
     symbols = get_all_usdt_symbols()
     matches = []
-
-    start_time = time.time()
+    start   = time.time()
 
     with ThreadPoolExecutor(max_workers=10) as executor:
-        futures = [executor.submit(process_symbol, symbol) for symbol in symbols]
-
+        futures = [executor.submit(process_symbol, s) for s in symbols]
         for future in as_completed(futures):
             result = future.result()
-
             if result:
                 logger.info(
                     f"MATCH: {result['symbol']} | "
-                    f"{result['rsi_prev']} → {result['rsi_closed']} | "
+                    f"1h: {result['rsi_prev']} → {result['rsi_closed']} | "
                     f"Live: {result['live_rsi']}"
                 )
                 matches.append(result)
 
-    end_time = time.time()
+    print(f"\nScan done in {round(time.time() - start, 2)}s")
 
-    print(f"\nScan completed in {round(end_time - start_time, 2)} seconds")
-
-    # -------------------------------
-    # Print Results
-    # -------------------------------
     if matches:
         print(f"\n=== MATCHES === {datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')}")
         print("-" * 55)
-
         for m in matches:
             print(
                 f"{m['symbol']:<12} | "
                 f"1h RSI: {m['rsi_prev']} → {m['rsi_closed']} | "
                 f"Live RSI: {m['live_rsi']}"
             )
-
         print("-" * 55)
         print(f"Total: {len(matches)}\n")
 
@@ -182,9 +174,8 @@ def scan():
 # MAIN LOOP
 # -------------------------------
 if __name__ == "__main__":
-    logger.info("Scanner started with Copiolot Logic")
-
+    logger.info("Scanner started")
     while True:
         scan()
-        logger.info("Sleeping for 2.5 minutes...\n")
+        logger.info("Sleeping 2.5 minutes...\n")
         time.sleep(150)

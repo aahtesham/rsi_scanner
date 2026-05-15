@@ -1,170 +1,702 @@
 
-=== MATCHES === 2026-05-14 15:46 UTC
-CTSIUSDT     | 1h RSI: 40.46 → 50.64 | Live RSI: 54.21
-GMTUSDT      | 1h RSI: 40.14 → 50.3 | Live RSI: 53.48
-ALTUSDT      | 1h RSI: 35.6 → 49.13 | Live RSI: 53.63
-ZKCUSDT      | 1h RSI: 39.04 → 48.71 | Live RSI: 53.48
-Total: 4
-
-
-=== MATCHES === 2026-05-14 15:46 UTC
-ICXUSDT      | 1h RSI: 42.15 → 52.92 | Live RSI: 55.56
-HOTUSDT      | 1h RSI: 49.11 → 52.37 | Live RSI: 56.25
-ZRXUSDT      | 1h RSI: 40.74 → 50.84 | Live RSI: 53.19
-BATUSDT      | 1h RSI: 42.86 → 52.02 | Live RSI: 57.33
-WINUSDT      | 1h RSI: 35.33 → 49.51 | Live RSI: 54.95
-CHRUSDT      | 1h RSI: 40.47 → 44.67 | Live RSI: 59.21
-LUNAUSDT     | 1h RSI: 41.17 → 50.03 | Live RSI: 56.0
-BELUSDT      | 1h RSI: 40.99 → 51.05 | Live RSI: 59.34
-CELOUSDT     | 1h RSI: 44.66 → 50.39 | Live RSI: 56.42
-TKOUSDT      | 1h RSI: 43.77 → 51.59 | Live RSI: 57.89
-PHAUSDT      | 1h RSI: 43.99 → 51.02 | Live RSI: 58.97
-RAYUSDT      | 1h RSI: 40.75 → 52.97 | Live RSI: 59.21
-RAREUSDT     | 1h RSI: 40.59 → 51.59 | Live RSI: 56.25
-FIDAUSDT     | 1h RSI: 41.17 → 49.95 | Live RSI: 54.07
-AMPUSDT      | 1h RSI: 46.27 → 51.3 | Live RSI: 57.97
-ASTRUSDT     | 1h RSI: 42.26 → 52.81 | Live RSI: 56.14
-OPUSDT       | 1h RSI: 36.63 → 50.42 | Live RSI: 55.3
-MAVUSDT      | 1h RSI: 39.89 → 51.14 | Live RSI: 56.13
-SEIUSDT      | 1h RSI: 41.74 → 52.29 | Live RSI: 54.67
-BEAMXUSDT    | 1h RSI: 41.28 → 50.13 | Live RSI: 53.27
-BLURUSDT     | 1h RSI: 39.49 → 47.24 | Live RSI: 53.68
-TONUSDT      | 1h RSI: 42.83 → 50.66 | Live RSI: 57.14
-LISTAUSDT    | 1h RSI: 42.49 → 48.57 | Live RSI: 59.18
-HMSTRUSDT    | 1h RSI: 50.46 → 51.69 | Live RSI: 54.75
-USUALUSDT    | 1h RSI: 39.55 → 51.63 | Live RSI: 54.17
-LAYERUSDT    | 1h RSI: 43.75 → 48.8 | Live RSI: 55.0
-SHELLUSDT    | 1h RSI: 44.98 → 50.92 | Live RSI: 58.18
-BMTUSDT      | 1h RSI: 42.0 → 50.11 | Live RSI: 55.41
-BROCCOLI714USDT | 1h RSI: 40.92 → 49.65 | Live RSI: 54.74
-MUBARAKUSDT  | 1h RSI: 41.86 → 46.65 | Live RSI: 54.75
-ERAUSDT      | 1h RSI: 36.29 → 52.0 | Live RSI: 56.76
-CUSDT        | 1h RSI: 44.04 → 50.24 | Live RSI: 56.99
-DOLOUSDT     | 1h RSI: 40.83 → 51.15 | Live RSI: 55.7
-OPENUSDT     | 1h RSI: 45.53 → 48.86 | Live RSI: 53.85
-ZKCUSDT      | 1h RSI: 39.04 → 48.71 | Live RSI: 55.22
-HEMIUSDT     | 1h RSI: 46.43 → 48.8 | Live RSI: 57.87
-SOMIUSDT     | 1h RSI: 39.29 → 48.97 | Live RSI: 58.06
-MIRAUSDT     | 1h RSI: 42.16 → 49.74 | Live RSI: 56.34
-YBUSDT       | 1h RSI: 44.36 → 45.62 | Live RSI: 60.0
-ZBTUSDT      | 1h RSI: 44.08 → 48.4 | Live RSI: 55.47
-KITEUSDT     | 1h RSI: 48.47 → 52.03 | Live RSI: 55.5
-SENTUSDT     | 1h RSI: 41.72 → 51.9 | Live RSI: 57.39
-ZKPUSDT      | 1h RSI: 44.0 → 52.49 | Live RSI: 57.89
-KATUSDT      | 1h RSI: 42.94 → 49.62 | Live RSI: 54.35
-Total: 44
-
-
-=== MATCHES === 2026-05-14 15:49 UTC
-SIGNUSDT     | 1h RSI: 46.42 → 50.91 | Live RSI: 54.02
-ATUSDT       | 1h RSI: 45.15 → 47.29 | Live RSI: 53.19
-Total: 2
-
-
-=== MATCHES === 2026-05-14 15:49 UTC
-SPKUSDT      | 1h RSI: 43.88 → 49.82 | Live RSI: 53.74
-ROBOUSDT     | 1h RSI: 43.71 → 51.89 | Live RSI: 59.21
-Total: 2
-
-
-=== MATCHES === 2026-05-14 15:52 UTC
-SCRTUSDT     | 1h RSI: 33.47 → 44.31 | Live RSI: 53.49
-TNSRUSDT     | 1h RSI: 40.64 → 48.22 | Live RSI: 53.55
-Total: 2
-
-
-=== MATCHES === 2026-05-14 15:52 UTC
-CTSIUSDT     | 1h RSI: 40.46 → 50.64 | Live RSI: 53.54
-TNSRUSDT     | 1h RSI: 40.64 → 48.22 | Live RSI: 53.33
-GUSDT        | 1h RSI: 35.39 → 45.31 | Live RSI: 54.05
-HAEDALUSDT   | 1h RSI: 41.76 → 49.06 | Live RSI: 53.05
-KMNOUSDT     | 1h RSI: 36.8 → 50.3 | Live RSI: 53.7
-ASTERUSDT    | 1h RSI: 45.89 → 52.77 | Live RSI: 53.66
+=== MATCHES === 2026-05-14 19:35 UTC
+MBLUSDT      | 1h RSI: 49.5 → 51.11 | Live RSI: 56.25
+MBOXUSDT     | 1h RSI: 42.95 → 45.6 | Live RSI: 58.33
+PHBUSDT      | 1h RSI: 43.61 → 45.24 | Live RSI: 55.88
+KMNOUSDT     | 1h RSI: 49.01 → 52.52 | Live RSI: 56.49
+LAYERUSDT    | 1h RSI: 48.28 → 51.14 | Live RSI: 58.14
+KATUSDT      | 1h RSI: 47.84 → 50.82 | Live RSI: 54.41
 Total: 6
 
 
-=== MATCHES === 2026-05-14 15:54 UTC
-WINUSDT      | 1h RSI: 35.33 → 49.51 | Live RSI: 56.05
-AMPUSDT      | 1h RSI: 46.27 → 51.3 | Live RSI: 53.08
-API3USDT     | 1h RSI: 39.65 → 48.74 | Live RSI: 53.06
-PENDLEUSDT   | 1h RSI: 48.57 → 51.93 | Live RSI: 53.25
-AEVOUSDT     | 1h RSI: 42.48 → 51.67 | Live RSI: 53.28
-USUALUSDT    | 1h RSI: 39.55 → 51.63 | Live RSI: 53.51
-HEIUSDT      | 1h RSI: 42.46 → 49.78 | Live RSI: 53.28
-BROCCOLI714USDT | 1h RSI: 40.92 → 49.65 | Live RSI: 54.37
-CUSDT        | 1h RSI: 44.04 → 50.24 | Live RSI: 53.28
-Total: 9
-
-
-=== MATCHES === 2026-05-14 15:55 UTC
-ICXUSDT      | 1h RSI: 42.15 → 52.92 | Live RSI: 58.62
-WINUSDT      | 1h RSI: 35.33 → 49.51 | Live RSI: 59.02
-IOTXUSDT     | 1h RSI: 36.54 → 44.54 | Live RSI: 53.06
-AUDIOUSDT    | 1h RSI: 43.96 → 51.28 | Live RSI: 54.02
-GLMRUSDT     | 1h RSI: 26.05 → 39.52 | Live RSI: 54.55
-IQUSDT       | 1h RSI: 43.46 → 52.15 | Live RSI: 54.29
-AEVOUSDT     | 1h RSI: 42.48 → 51.67 | Live RSI: 53.57
-CETUSUSDT    | 1h RSI: 39.52 → 44.11 | Live RSI: 53.06
-HEIUSDT      | 1h RSI: 42.46 → 49.78 | Live RSI: 53.01
-SPKUSDT      | 1h RSI: 43.88 → 49.82 | Live RSI: 56.88
-Total: 10
-
-
-=== MATCHES === 2026-05-14 15:57 UTC
-GUSDT        | 1h RSI: 35.39 → 45.31 | Live RSI: 54.36
-Total: 1
-
-
-=== MATCHES === 2026-05-14 15:58 UTC
-CELOUSDT     | 1h RSI: 44.66 → 50.39 | Live RSI: 59.47
-NFPUSDT      | 1h RSI: 43.22 → 45.68 | Live RSI: 53.49
-ALTUSDT      | 1h RSI: 35.6 → 49.13 | Live RSI: 54.93
-ZKCUSDT      | 1h RSI: 39.04 → 48.71 | Live RSI: 59.46
-MMTUSDT      | 1h RSI: 36.4 → 49.67 | Live RSI: 53.7
-Total: 5
-
-
-=== MATCHES === 2026-05-14 16:00 UTC
-ZRXUSDT      | 1h RSI: 50.84 → 52.3 | Live RSI: 59.34
-SUNUSDT      | 1h RSI: 49.14 → 50.21 | Live RSI: 53.33
-PHBUSDT      | 1h RSI: 45.68 → 50.14 | Live RSI: 58.06
-VICUSDT      | 1h RSI: 46.51 → 50.49 | Live RSI: 53.07
-CATIUSDT     | 1h RSI: 46.89 → 51.52 | Live RSI: 57.14
-INITUSDT     | 1h RSI: 47.69 → 50.21 | Live RSI: 53.62
-HOLOUSDT     | 1h RSI: 37.04 → 38.25 | Live RSI: 57.14
-UUSDT        | 1h RSI: 46.05 → 51.1 | Live RSI: 60.0
-FOGOUSDT     | 1h RSI: 47.59 → 50.15 | Live RSI: 54.11
-Total: 9
-
-
-=== MATCHES === 2026-05-14 16:03 UTC
-CHRUSDT      | 1h RSI: 44.67 → 50.46 | Live RSI: 55.95
-PYTHUSDT     | 1h RSI: 50.33 → 52.07 | Live RSI: 58.49
+=== MATCHES === 2026-05-14 20:37 UTC
+SUNUSDT      | 1h RSI: 44.32 → 45.61 | Live RSI: 55.1
+ROBOUSDT     | 1h RSI: 47.44 → 51.45 | Live RSI: 55.89
 Total: 2
 
 
-=== MATCHES === 2026-05-14 16:07 UTC
-IOTXUSDT     | 1h RSI: 44.54 → 51.16 | Live RSI: 53.19
-CHRUSDT      | 1h RSI: 44.67 → 50.46 | Live RSI: 55.95
-VTHOUSDT     | 1h RSI: 50.37 → 52.14 | Live RSI: 55.26
-LUNAUSDT     | 1h RSI: 50.03 → 51.98 | Live RSI: 56.86
-PHBUSDT      | 1h RSI: 45.68 → 50.14 | Live RSI: 58.06
-VICUSDT      | 1h RSI: 46.51 → 50.49 | Live RSI: 53.98
-BLURUSDT     | 1h RSI: 47.24 → 49.37 | Live RSI: 57.25
-NFPUSDT      | 1h RSI: 45.68 → 50.65 | Live RSI: 53.13
-RONINUSDT    | 1h RSI: 46.91 → 52.35 | Live RSI: 53.13
-CATIUSDT     | 1h RSI: 46.89 → 51.52 | Live RSI: 56.34
-CETUSUSDT    | 1h RSI: 44.11 → 49.34 | Live RSI: 54.9
-HEIUSDT      | 1h RSI: 49.78 → 52.17 | Live RSI: 55.7
-MUBARAKUSDT  | 1h RSI: 46.65 → 51.79 | Live RSI: 54.89
-INITUSDT     | 1h RSI: 47.69 → 50.21 | Live RSI: 54.93
-CUSDT        | 1h RSI: 50.24 → 52.79 | Live RSI: 55.56
-SOMIUSDT     | 1h RSI: 48.97 → 51.44 | Live RSI: 58.6
-OPENUSDT     | 1h RSI: 48.85 → 50.84 | Live RSI: 54.39
-HOLOUSDT     | 1h RSI: 37.04 → 38.25 | Live RSI: 57.61
-MMTUSDT      | 1h RSI: 49.66 → 51.48 | Live RSI: 54.81
-UUSDT        | 1h RSI: 46.05 → 51.1 | Live RSI: 55.56
-FOGOUSDT     | 1h RSI: 47.59 → 50.15 | Live RSI: 53.42
-KATUSDT      | 1h RSI: 49.61 → 50.65 | Live RSI: 54.95
-Total: 22
+=== MATCHES === 2026-05-14 21:16 UTC
+CTSIUSDT     | 1h RSI: 48.78 → 51.27 | Live RSI: 59.84
+SUNUSDT      | 1h RSI: 45.62 → 46.94 | Live RSI: 54.35
+REZUSDT      | 1h RSI: 39.97 → 42.89 | Live RSI: 55.96
+SOLVUSDT     | 1h RSI: 40.34 → 43.22 | Live RSI: 55.81
+KAITOUSDT    | 1h RSI: 43.33 → 51.83 | Live RSI: 55.62
+OPENUSDT     | 1h RSI: 45.19 → 48.69 | Live RSI: 54.04
+Total: 6
+
+
+=== MATCHES === 2026-05-14 21:33 UTC
+ALLOUSDT     | 1h RSI: 45.93 → 49.79 | Live RSI: 54.05
+Total: 1
+
+
+=== MATCHES === 2026-05-14 21:47 UTC
+CTSIUSDT     | 1h RSI: 48.78 → 51.27 | Live RSI: 59.13
+SUNUSDT      | 1h RSI: 45.62 → 46.94 | Live RSI: 52.08
+REZUSDT      | 1h RSI: 39.97 → 42.89 | Live RSI: 56.48
+SOLVUSDT     | 1h RSI: 40.34 → 43.22 | Live RSI: 55.81
+KAITOUSDT    | 1h RSI: 43.33 → 51.83 | Live RSI: 57.73
+OPENUSDT     | 1h RSI: 45.19 → 48.69 | Live RSI: 56.05
+Total: 6
+
+
+=== MATCHES === 2026-05-14 22:01 UTC
+HIVEUSDT     | 1h RSI: 49.49 → 51.75 | Live RSI: 56.41
+DGBUSDT      | 1h RSI: 49.72 → 51.69 | Live RSI: 56.0
+FIDAUSDT     | 1h RSI: 48.4 → 49.59 | Live RSI: 58.22
+SAGAUSDT     | 1h RSI: 46.06 → 48.84 | Live RSI: 58.43
+ZROUSDT      | 1h RSI: 45.72 → 48.49 | Live RSI: 59.26
+DUSDT        | 1h RSI: 41.78 → 45.84 | Live RSI: 58.71
+ONDOUSDT     | 1h RSI: 48.64 → 51.71 | Live RSI: 56.95
+HOMEUSDT     | 1h RSI: 42.6 → 48.8 | Live RSI: 55.41
+SKYUSDT      | 1h RSI: 44.1 → 47.77 | Live RSI: 52.3
+Total: 9
+
+
+=== MATCHES === 2026-05-14 22:03 UTC
+PHAUSDT      | 1h RSI: 49.74 → 51.19 | Live RSI: 57.58
+Total: 1
+
+
+=== MATCHES === 2026-05-14 22:06 UTC
+NEARUSDT     | 1h RSI: 47.86 → 48.91 | Live RSI: 52.24
+Total: 1
+
+
+=== MATCHES === 2026-05-14 22:09 UTC
+RONINUSDT    | 1h RSI: 41.48 → 47.45 | Live RSI: 52.08
+Total: 1
+
+
+=== MATCHES === 2026-05-14 22:23 UTC
+JASMYUSDT    | 1h RSI: 49.76 → 51.43 | Live RSI: 60.0
+Total: 1
+
+
+=== MATCHES === 2026-05-14 22:31 UTC
+DGBUSDT      | 1h RSI: 49.72 → 51.69 | Live RSI: 57.69
+FIDAUSDT     | 1h RSI: 48.4 → 49.59 | Live RSI: 59.87
+SAGAUSDT     | 1h RSI: 46.06 → 48.84 | Live RSI: 56.47
+ZROUSDT      | 1h RSI: 45.72 → 48.49 | Live RSI: 58.18
+DUSDT        | 1h RSI: 41.78 → 45.84 | Live RSI: 57.79
+ONDOUSDT     | 1h RSI: 48.64 → 51.71 | Live RSI: 57.82
+HOMEUSDT     | 1h RSI: 42.6 → 48.8 | Live RSI: 54.48
+Total: 7
+
+
+=== MATCHES === 2026-05-14 22:34 UTC
+HIVEUSDT     | 1h RSI: 49.49 → 51.75 | Live RSI: 52.38
+PHAUSDT      | 1h RSI: 49.74 → 51.19 | Live RSI: 57.58
+Total: 2
+
+
+=== MATCHES === 2026-05-14 22:37 UTC
+NEARUSDT     | 1h RSI: 47.86 → 48.91 | Live RSI: 53.28
+Total: 1
+
+
+=== MATCHES === 2026-05-14 22:40 UTC
+FFUSDT       | 1h RSI: 45.44 → 48.22 | Live RSI: 52.95
+Total: 1
+
+
+=== MATCHES === 2026-05-14 22:53 UTC
+JSTUSDT      | 1h RSI: 47.8 → 50.76 | Live RSI: 53.25
+JASMYUSDT    | 1h RSI: 49.76 → 51.43 | Live RSI: 59.02
+Total: 2
+
+
+=== MATCHES === 2026-05-14 23:02 UTC
+MBLUSDT      | 1h RSI: 46.0 → 47.03 | Live RSI: 56.76
+ROSEUSDT     | 1h RSI: 49.65 → 50.89 | Live RSI: 59.41
+PYTHUSDT     | 1h RSI: 45.45 → 46.58 | Live RSI: 57.78
+WUSDT        | 1h RSI: 45.53 → 48.93 | Live RSI: 58.82
+PUMPUSDT     | 1h RSI: 46.01 → 47.48 | Live RSI: 56.1
+METUSDT      | 1h RSI: 47.75 → 49.86 | Live RSI: 57.81
+Total: 6
+
+
+=== MATCHES === 2026-05-14 23:05 UTC
+SNXUSDT      | 1h RSI: 46.9 → 48.87 | Live RSI: 59.26
+ALLOUSDT     | 1h RSI: 48.87 → 52.72 | Live RSI: 59.46
+ATUSDT       | 1h RSI: 46.07 → 47.43 | Live RSI: 52.17
+Total: 3
+
+
+=== MATCHES === 2026-05-14 23:10 UTC
+NEARUSDT     | 1h RSI: 48.93 → 50.72 | Live RSI: 60.0
+1000CATUSDT  | 1h RSI: 45.11 → 50.78 | Live RSI: 59.09
+HEIUSDT      | 1h RSI: 46.66 → 48.92 | Live RSI: 55.74
+Total: 3
+
+
+=== MATCHES === 2026-05-14 23:18 UTC
+STGUSDT      | 1h RSI: 36.32 → 42.8 | Live RSI: 53.0
+Total: 1
+
+
+=== MATCHES === 2026-05-14 23:27 UTC
+HAEDALUSDT   | 1h RSI: 47.5 → 52.6 | Live RSI: 56.69
+Total: 1
+
+
+=== MATCHES === 2026-05-14 23:32 UTC
+PYTHUSDT     | 1h RSI: 45.45 → 46.58 | Live RSI: 56.52
+WUSDT        | 1h RSI: 45.53 → 48.93 | Live RSI: 58.82
+PUMPUSDT     | 1h RSI: 46.01 → 47.48 | Live RSI: 57.28
+METUSDT      | 1h RSI: 47.75 → 49.86 | Live RSI: 58.73
+Total: 4
+
+
+=== MATCHES === 2026-05-14 23:35 UTC
+MBLUSDT      | 1h RSI: 46.0 → 47.03 | Live RSI: 55.26
+SNXUSDT      | 1h RSI: 46.9 → 48.87 | Live RSI: 57.14
+ROSEUSDT     | 1h RSI: 49.65 → 50.89 | Live RSI: 59.41
+ATUSDT       | 1h RSI: 46.07 → 47.43 | Live RSI: 52.17
+Total: 4
+
+
+=== MATCHES === 2026-05-14 23:41 UTC
+1000CATUSDT  | 1h RSI: 45.11 → 50.78 | Live RSI: 59.09
+HEIUSDT      | 1h RSI: 46.66 → 48.92 | Live RSI: 55.74
+Total: 2
+
+
+=== MATCHES === 2026-05-14 23:43 UTC
+NEARUSDT     | 1h RSI: 48.93 → 50.72 | Live RSI: 60.0
+Total: 1
+
+
+=== MATCHES === 2026-05-14 23:46 UTC
+PSGUSDT      | 1h RSI: 42.52 → 44.98 | Live RSI: 54.17
+ALLOUSDT     | 1h RSI: 48.87 → 52.72 | Live RSI: 55.0
+Total: 2
+
+
+=== MATCHES === 2026-05-14 23:49 UTC
+STGUSDT      | 1h RSI: 36.32 → 42.8 | Live RSI: 54.05
+Total: 1
+
+
+=== MATCHES === 2026-05-14 23:57 UTC
+HAEDALUSDT   | 1h RSI: 47.5 → 52.6 | Live RSI: 60.0
+Total: 1
+
+
+=== MATCHES === 2026-05-15 00:00 UTC
+BATUSDT      | 1h RSI: 48.18 → 50.73 | Live RSI: 58.62
+Total: 1
+
+
+=== MATCHES === 2026-05-15 00:06 UTC
+MUBARAKUSDT  | 1h RSI: 43.58 → 46.58 | Live RSI: 53.39
+Total: 1
+
+
+=== MATCHES === 2026-05-15 00:20 UTC
+STGUSDT      | 1h RSI: 42.8 → 48.2 | Live RSI: 52.11
+Total: 1
+
+
+=== MATCHES === 2026-05-15 00:22 UTC
+TSTUSDT      | 1h RSI: 44.07 → 46.67 | Live RSI: 52.15
+Total: 1
+
+
+=== MATCHES === 2026-05-15 00:36 UTC
+MUBARAKUSDT  | 1h RSI: 43.58 → 46.58 | Live RSI: 59.26
+Total: 1
+
+
+=== MATCHES === 2026-05-15 00:50 UTC
+STGUSDT      | 1h RSI: 42.8 → 48.2 | Live RSI: 54.05
+Total: 1
+
+
+=== MATCHES === 2026-05-15 01:02 UTC
+CELRUSDT     | 1h RSI: 44.09 → 47.72 | Live RSI: 57.98
+ONEUSDT      | 1h RSI: 38.88 → 44.9 | Live RSI: 55.56
+LSKUSDT      | 1h RSI: 43.0 → 46.8 | Live RSI: 52.63
+SNXUSDT      | 1h RSI: 43.63 → 47.65 | Live RSI: 59.26
+DGBUSDT      | 1h RSI: 47.38 → 49.64 | Live RSI: 52.63
+DIAUSDT      | 1h RSI: 43.43 → 49.25 | Live RSI: 59.91
+BELUSDT      | 1h RSI: 42.72 → 48.6 | Live RSI: 52.87
+CELOUSDT     | 1h RSI: 43.41 → 45.61 | Live RSI: 58.22
+DODOUSDT     | 1h RSI: 48.78 → 50.95 | Live RSI: 56.34
+TKOUSDT      | 1h RSI: 38.41 → 49.63 | Live RSI: 56.52
+SCRTUSDT     | 1h RSI: 39.48 → 42.03 | Live RSI: 58.76
+OPUSDT       | 1h RSI: 42.68 → 46.01 | Live RSI: 58.97
+LUNCUSDT     | 1h RSI: 38.68 → 41.22 | Live RSI: 52.53
+SYNUSDT      | 1h RSI: 42.95 → 47.19 | Live RSI: 58.82
+EDUUSDT      | 1h RSI: 39.4 → 43.99 | Live RSI: 53.12
+SUIUSDT      | 1h RSI: 40.07 → 44.13 | Live RSI: 53.5
+VANRYUSDT    | 1h RSI: 45.74 → 48.77 | Live RSI: 59.46
+ETHFIUSDT    | 1h RSI: 42.54 → 45.94 | Live RSI: 57.45
+HMSTRUSDT    | 1h RSI: 41.01 → 46.31 | Live RSI: 60.0
+CATIUSDT     | 1h RSI: 37.5 → 44.38 | Live RSI: 55.0
+CETUSUSDT    | 1h RSI: 40.95 → 45.22 | Live RSI: 59.35
+TRUMPUSDT    | 1h RSI: 45.51 → 48.02 | Live RSI: 58.46
+SHELLUSDT    | 1h RSI: 43.23 → 48.31 | Live RSI: 57.89
+TUTUSDT      | 1h RSI: 46.18 → 50.73 | Live RSI: 57.94
+ONDOUSDT     | 1h RSI: 46.67 → 49.4 | Live RSI: 58.05
+INITUSDT     | 1h RSI: 34.98 → 47.0 | Live RSI: 55.41
+SOPHUSDT     | 1h RSI: 42.85 → 45.83 | Live RSI: 57.53
+XPLUSDT      | 1h RSI: 49.39 → 50.43 | Live RSI: 59.0
+FFUSDT       | 1h RSI: 45.05 → 50.89 | Live RSI: 55.36
+METUSDT      | 1h RSI: 47.44 → 50.74 | Live RSI: 58.93
+ATUSDT       | 1h RSI: 45.57 → 47.76 | Live RSI: 53.52
+MANTRAUSDT   | 1h RSI: 41.46 → 44.06 | Live RSI: 56.86
+Total: 32
+
+
+=== MATCHES === 2026-05-15 01:04 UTC
+PHAUSDT      | 1h RSI: 42.89 → 47.63 | Live RSI: 58.82
+PYTHUSDT     | 1h RSI: 41.06 → 42.29 | Live RSI: 59.52
+BARDUSDT     | 1h RSI: 47.79 → 48.81 | Live RSI: 58.62
+Total: 3
+
+
+=== MATCHES === 2026-05-15 01:07 UTC
+RSRUSDT      | 1h RSI: 48.24 → 50.06 | Live RSI: 59.54
+SUSHIUSDT    | 1h RSI: 42.95 → 44.61 | Live RSI: 59.49
+LAUSDT       | 1h RSI: 39.42 → 43.87 | Live RSI: 55.95
+ZKPUSDT      | 1h RSI: 43.83 → 48.25 | Live RSI: 57.14
+KATUSDT      | 1h RSI: 42.46 → 45.46 | Live RSI: 58.62
+Total: 5
+
+
+=== MATCHES === 2026-05-15 01:10 UTC
+CHRUSDT      | 1h RSI: 44.72 → 46.89 | Live RSI: 59.15
+USTCUSDT     | 1h RSI: 43.75 → 52.5 | Live RSI: 59.42
+AEVOUSDT     | 1h RSI: 41.64 → 48.19 | Live RSI: 59.09
+MEUSDT       | 1h RSI: 46.13 → 47.36 | Live RSI: 59.49
+Total: 4
+
+
+=== MATCHES === 2026-05-15 01:13 UTC
+JOEUSDT      | 1h RSI: 46.57 → 48.8 | Live RSI: 58.82
+Total: 1
+
+
+=== MATCHES === 2026-05-15 01:16 UTC
+CFGUSDT      | 1h RSI: 47.08 → 50.1 | Live RSI: 52.22
+Total: 1
+
+
+=== MATCHES === 2026-05-15 01:22 UTC
+STGUSDT      | 1h RSI: 48.19 → 52.51 | Live RSI: 58.45
+Total: 1
+
+
+=== MATCHES === 2026-05-15 01:27 UTC
+CTSIUSDT     | 1h RSI: 43.18 → 47.69 | Live RSI: 59.68
+ZAMAUSDT     | 1h RSI: 48.43 → 49.63 | Live RSI: 60.0
+Total: 2
+
+
+=== MATCHES === 2026-05-15 01:30 UTC
+ONTUSDT      | 1h RSI: 47.84 → 50.79 | Live RSI: 58.5
+MANAUSDT     | 1h RSI: 44.37 → 49.35 | Live RSI: 59.68
+ARBUSDT      | 1h RSI: 43.96 → 45.05 | Live RSI: 58.88
+PIXELUSDT    | 1h RSI: 43.46 → 47.98 | Live RSI: 59.65
+PUMPUSDT     | 1h RSI: 46.38 → 52.25 | Live RSI: 59.35
+EDENUSDT     | 1h RSI: 45.6 → 48.36 | Live RSI: 60.0
+ALLOUSDT     | 1h RSI: 47.86 → 51.69 | Live RSI: 59.52
+Total: 7
+
+
+=== MATCHES === 2026-05-15 01:33 UTC
+CELRUSDT     | 1h RSI: 44.09 → 47.72 | Live RSI: 53.75
+ONEUSDT      | 1h RSI: 38.88 → 44.9 | Live RSI: 52.94
+ANKRUSDT     | 1h RSI: 47.19 → 50.34 | Live RSI: 59.38
+LSKUSDT      | 1h RSI: 43.0 → 46.8 | Live RSI: 52.63
+DGBUSDT      | 1h RSI: 47.38 → 49.64 | Live RSI: 52.63
+SNXUSDT      | 1h RSI: 43.63 → 47.65 | Live RSI: 57.69
+DIAUSDT      | 1h RSI: 43.43 → 49.25 | Live RSI: 57.34
+CELOUSDT     | 1h RSI: 43.41 → 45.61 | Live RSI: 57.66
+DODOUSDT     | 1h RSI: 48.78 → 50.95 | Live RSI: 55.27
+ALICEUSDT    | 1h RSI: 48.39 → 50.44 | Live RSI: 58.06
+TKOUSDT      | 1h RSI: 38.41 → 49.63 | Live RSI: 55.71
+SLPUSDT      | 1h RSI: 48.46 → 51.07 | Live RSI: 58.73
+FIDAUSDT     | 1h RSI: 47.38 → 50.1 | Live RSI: 59.56
+SCRTUSDT     | 1h RSI: 39.48 → 42.03 | Live RSI: 54.81
+OPUSDT       | 1h RSI: 42.68 → 46.01 | Live RSI: 54.33
+MAGICUSDT    | 1h RSI: 50.28 → 51.69 | Live RSI: 56.98
+SYNUSDT      | 1h RSI: 42.95 → 47.19 | Live RSI: 57.14
+FLOKIUSDT    | 1h RSI: 49.83 → 51.77 | Live RSI: 60.0
+WLDUSDT      | 1h RSI: 47.44 → 49.93 | Live RSI: 59.82
+MEMEUSDT     | 1h RSI: 48.2 → 51.03 | Live RSI: 58.33
+VANRYUSDT    | 1h RSI: 45.74 → 48.77 | Live RSI: 55.27
+ALTUSDT      | 1h RSI: 42.07 → 45.74 | Live RSI: 59.7
+ETHFIUSDT    | 1h RSI: 42.54 → 45.94 | Live RSI: 54.17
+TNSRUSDT     | 1h RSI: 42.04 → 46.67 | Live RSI: 59.37
+GUSDT        | 1h RSI: 45.0 → 46.94 | Live RSI: 58.62
+ZROUSDT      | 1h RSI: 42.71 → 48.49 | Live RSI: 58.18
+HMSTRUSDT    | 1h RSI: 41.01 → 46.31 | Live RSI: 54.95
+CETUSUSDT    | 1h RSI: 40.95 → 45.22 | Live RSI: 52.59
+USUALUSDT    | 1h RSI: 44.91 → 46.55 | Live RSI: 58.91
+TRUMPUSDT    | 1h RSI: 45.51 → 48.02 | Live RSI: 52.83
+SHELLUSDT    | 1h RSI: 43.23 → 48.31 | Live RSI: 53.66
+TUTUSDT      | 1h RSI: 46.18 → 50.73 | Live RSI: 56.36
+ONDOUSDT     | 1h RSI: 46.67 → 49.4 | Live RSI: 57.61
+WCTUSDT      | 1h RSI: 46.65 → 48.7 | Live RSI: 56.86
+INITUSDT     | 1h RSI: 34.98 → 47.0 | Live RSI: 52.63
+SOPHUSDT     | 1h RSI: 42.85 → 45.83 | Live RSI: 53.16
+XPLUSDT      | 1h RSI: 49.39 → 50.43 | Live RSI: 56.19
+FFUSDT       | 1h RSI: 45.05 → 50.89 | Live RSI: 52.51
+METUSDT      | 1h RSI: 47.44 → 50.74 | Live RSI: 52.8
+ATUSDT       | 1h RSI: 45.57 → 47.76 | Live RSI: 55.41
+Total: 40
+
+
+=== MATCHES === 2026-05-15 01:36 UTC
+OGNUSDT      | 1h RSI: 45.22 → 48.64 | Live RSI: 59.49
+PHAUSDT      | 1h RSI: 42.89 → 47.63 | Live RSI: 57.14
+QUICKUSDT    | 1h RSI: 44.01 → 48.87 | Live RSI: 59.18
+PYTHUSDT     | 1h RSI: 41.06 → 42.29 | Live RSI: 55.56
+1000CATUSDT  | 1h RSI: 45.68 → 48.46 | Live RSI: 60.0
+BARDUSDT     | 1h RSI: 47.79 → 48.81 | Live RSI: 57.43
+MANTRAUSDT   | 1h RSI: 41.46 → 44.06 | Live RSI: 52.73
+Total: 7
+
+
+=== MATCHES === 2026-05-15 01:39 UTC
+SUSHIUSDT    | 1h RSI: 42.95 → 44.61 | Live RSI: 56.97
+BELUSDT      | 1h RSI: 42.72 → 48.6 | Live RSI: 52.27
+TLMUSDT      | 1h RSI: 50.41 → 52.08 | Live RSI: 52.58
+ZKPUSDT      | 1h RSI: 43.83 → 48.25 | Live RSI: 57.14
+Total: 4
+
+
+=== MATCHES === 2026-05-15 01:42 UTC
+USTCUSDT     | 1h RSI: 43.75 → 52.5 | Live RSI: 59.42
+AEVOUSDT     | 1h RSI: 41.64 → 48.19 | Live RSI: 59.09
+KATUSDT      | 1h RSI: 42.46 → 45.46 | Live RSI: 59.65
+Total: 3
+
+
+=== MATCHES === 2026-05-15 01:45 UTC
+NFPUSDT      | 1h RSI: 40.61 → 42.29 | Live RSI: 53.33
+Total: 1
+
+
+=== MATCHES === 2026-05-15 01:53 UTC
+SOLUSDT      | 1h RSI: 49.27 → 51.93 | Live RSI: 58.86
+RSRUSDT      | 1h RSI: 48.24 → 50.06 | Live RSI: 59.88
+STGUSDT      | 1h RSI: 48.19 → 52.51 | Live RSI: 55.66
+JUPUSDT      | 1h RSI: 48.71 → 52.87 | Live RSI: 59.46
+STRKUSDT     | 1h RSI: 45.45 → 48.48 | Live RSI: 54.29
+ZKCUSDT      | 1h RSI: 44.39 → 49.03 | Live RSI: 59.37
+Total: 6
+
+
+=== MATCHES === 2026-05-15 01:56 UTC
+ALGOUSDT     | 1h RSI: 45.84 → 52.2 | Live RSI: 60.0
+Total: 1
+
+
+=== MATCHES === 2026-05-15 01:59 UTC
+THETAUSDT    | 1h RSI: 46.8 → 49.15 | Live RSI: 60.0
+CTSIUSDT     | 1h RSI: 43.18 → 47.69 | Live RSI: 58.53
+ZAMAUSDT     | 1h RSI: 48.43 → 49.63 | Live RSI: 52.27
+Total: 3
+
+
+=== MATCHES === 2026-05-15 02:02 UTC
+VICUSDT      | 1h RSI: 48.24 → 52.22 | Live RSI: 56.34
+MEUSDT       | 1h RSI: 47.36 → 49.24 | Live RSI: 57.75
+PARTIUSDT    | 1h RSI: 43.16 → 45.41 | Live RSI: 55.93
+SPKUSDT      | 1h RSI: 47.25 → 48.88 | Live RSI: 56.92
+ESPUSDT      | 1h RSI: 50.5 → 52.69 | Live RSI: 57.4
+Total: 5
+
+
+=== MATCHES === 2026-05-15 02:04 UTC
+ONEUSDT      | 1h RSI: 44.9 → 47.68 | Live RSI: 55.56
+Total: 1
+
+
+=== MATCHES === 2026-05-15 02:07 UTC
+SNXUSDT      | 1h RSI: 47.65 → 49.59 | Live RSI: 54.17
+BREVUSDT     | 1h RSI: 48.0 → 52.98 | Live RSI: 59.6
+Total: 2
+
+
+=== MATCHES === 2026-05-15 02:15 UTC
+NFPUSDT      | 1h RSI: 42.29 → 44.0 | Live RSI: 54.69
+BERAUSDT     | 1h RSI: 48.86 → 51.57 | Live RSI: 60.0
+Total: 2
+
+
+=== MATCHES === 2026-05-15 02:18 UTC
+VTHOUSDT     | 1h RSI: 42.65 → 44.17 | Live RSI: 57.58
+Total: 1
+
+
+=== MATCHES === 2026-05-15 02:24 UTC
+PSGUSDT      | 1h RSI: 47.5 → 50.5 | Live RSI: 52.22
+Total: 1
+
+
+=== MATCHES === 2026-05-15 02:29 UTC
+QKCUSDT      | 1h RSI: 38.18 → 45.41 | Live RSI: 52.23
+Total: 1
+
+
+=== MATCHES === 2026-05-15 02:32 UTC
+PARTIUSDT    | 1h RSI: 43.16 → 45.41 | Live RSI: 54.1
+ESPUSDT      | 1h RSI: 50.5 → 52.69 | Live RSI: 52.55
+Total: 2
+
+
+=== MATCHES === 2026-05-15 02:35 UTC
+ONEUSDT      | 1h RSI: 44.9 → 47.68 | Live RSI: 52.94
+VICUSDT      | 1h RSI: 48.24 → 52.22 | Live RSI: 53.33
+Total: 2
+
+
+=== MATCHES === 2026-05-15 02:38 UTC
+SPKUSDT      | 1h RSI: 47.25 → 48.88 | Live RSI: 52.21
+Total: 1
+
+
+=== MATCHES === 2026-05-15 02:40 UTC
+MEUSDT       | 1h RSI: 47.36 → 49.24 | Live RSI: 54.67
+Total: 1
+
+
+=== MATCHES === 2026-05-15 02:46 UTC
+BERAUSDT     | 1h RSI: 48.86 → 51.57 | Live RSI: 58.06
+BREVUSDT     | 1h RSI: 48.0 → 52.98 | Live RSI: 53.64
+Total: 2
+
+
+=== MATCHES === 2026-05-15 02:52 UTC
+SNXUSDT      | 1h RSI: 47.65 → 49.59 | Live RSI: 54.17
+NFPUSDT      | 1h RSI: 42.29 → 44.0 | Live RSI: 53.97
+Total: 2
+
+
+=== MATCHES === 2026-05-15 02:57 UTC
+PSGUSDT      | 1h RSI: 47.5 → 50.5 | Live RSI: 52.22
+Total: 1
+
+
+=== MATCHES === 2026-05-15 03:00 UTC
+XLMUSDT      | 1h RSI: 47.96 → 49.08 | Live RSI: 55.56
+ONTUSDT      | 1h RSI: 46.98 → 49.61 | Live RSI: 52.47
+VETUSDT      | 1h RSI: 46.83 → 49.62 | Live RSI: 58.0
+LINKUSDT     | 1h RSI: 49.75 → 50.92 | Live RSI: 58.76
+FETUSDT      | 1h RSI: 44.02 → 45.81 | Live RSI: 57.43
+IOSTUSDT     | 1h RSI: 48.66 → 52.99 | Live RSI: 59.09
+CELRUSDT     | 1h RSI: 45.16 → 52.93 | Live RSI: 59.86
+ANKRUSDT     | 1h RSI: 45.93 → 50.59 | Live RSI: 59.38
+LSKUSDT      | 1h RSI: 46.8 → 50.62 | Live RSI: 55.56
+CTSIUSDT     | 1h RSI: 45.3 → 48.31 | Live RSI: 58.4
+VTHOUSDT     | 1h RSI: 44.17 → 45.72 | Live RSI: 59.26
+MANAUSDT     | 1h RSI: 45.68 → 48.17 | Live RSI: 55.74
+BELUSDT      | 1h RSI: 46.33 → 47.66 | Live RSI: 56.47
+AVAXUSDT     | 1h RSI: 48.81 → 51.82 | Live RSI: 59.72
+AXSUSDT      | 1h RSI: 42.73 → 44.93 | Live RSI: 54.41
+CELOUSDT     | 1h RSI: 44.69 → 46.36 | Live RSI: 55.13
+DODOUSDT     | 1h RSI: 49.73 → 52.95 | Live RSI: 55.54
+TKOUSDT      | 1h RSI: 45.2 → 48.5 | Live RSI: 52.94
+SHIBUSDT     | 1h RSI: 46.17 → 50.34 | Live RSI: 58.97
+MBOXUSDT     | 1h RSI: 42.73 → 46.91 | Live RSI: 60.0
+XECUSDT      | 1h RSI: 45.61 → 49.1 | Live RSI: 53.33
+JASMYUSDT    | 1h RSI: 43.25 → 44.25 | Live RSI: 57.41
+SCRTUSDT     | 1h RSI: 38.94 → 40.29 | Live RSI: 53.68
+MAGICUSDT    | 1h RSI: 49.44 → 51.71 | Live RSI: 56.96
+QKCUSDT      | 1h RSI: 45.41 → 48.24 | Live RSI: 52.29
+IDUSDT       | 1h RSI: 48.3 → 50.03 | Live RSI: 58.62
+ARBUSDT      | 1h RSI: 40.39 → 43.81 | Live RSI: 53.7
+PEPEUSDT     | 1h RSI: 45.72 → 49.15 | Live RSI: 57.58
+WLDUSDT      | 1h RSI: 45.61 → 48.74 | Live RSI: 59.22
+SEIUSDT      | 1h RSI: 45.23 → 49.81 | Live RSI: 59.91
+MEMEUSDT     | 1h RSI: 46.49 → 51.17 | Live RSI: 56.9
+VANRYUSDT    | 1h RSI: 48.13 → 52.83 | Live RSI: 59.45
+BONKUSDT     | 1h RSI: 46.77 → 49.57 | Live RSI: 57.63
+ALTUSDT      | 1h RSI: 42.82 → 47.36 | Live RSI: 59.7
+JUPUSDT      | 1h RSI: 44.09 → 49.47 | Live RSI: 58.25
+RONINUSDT    | 1h RSI: 40.28 → 44.6 | Live RSI: 52.04
+STRKUSDT     | 1h RSI: 41.1 → 45.57 | Live RSI: 57.89
+WIFUSDT      | 1h RSI: 47.06 → 49.14 | Live RSI: 55.56
+AEVOUSDT     | 1h RSI: 44.6 → 50.56 | Live RSI: 60.0
+TNSRUSDT     | 1h RSI: 44.15 → 48.64 | Live RSI: 55.88
+LISTAUSDT    | 1h RSI: 44.36 → 46.52 | Live RSI: 58.57
+TONUSDT      | 1h RSI: 41.71 → 43.96 | Live RSI: 52.91
+TURBOUSDT    | 1h RSI: 47.28 → 48.48 | Live RSI: 52.41
+1MBABYDOGEUSDT | 1h RSI: 49.59 → 51.98 | Live RSI: 57.78
+USUALUSDT    | 1h RSI: 43.09 → 46.52 | Live RSI: 57.14
+MOVEUSDT     | 1h RSI: 39.22 → 44.55 | Live RSI: 60.0
+PENGUUSDT    | 1h RSI: 45.84 → 48.98 | Live RSI: 58.13
+SUSDT        | 1h RSI: 47.2 → 49.65 | Live RSI: 55.62
+SOLVUSDT     | 1h RSI: 36.13 → 48.14 | Live RSI: 53.06
+ANIMEUSDT    | 1h RSI: 46.67 → 50.45 | Live RSI: 59.26
+1000CHEEMSUSDT | 1h RSI: 50.25 → 51.37 | Live RSI: 58.88
+HEIUSDT      | 1h RSI: 44.17 → 51.03 | Live RSI: 60.0
+BMTUSDT      | 1h RSI: 47.41 → 50.27 | Live RSI: 60.0
+BIGTIMEUSDT  | 1h RSI: 47.21 → 48.77 | Live RSI: 56.52
+WCTUSDT      | 1h RSI: 44.14 → 47.33 | Live RSI: 54.0
+INITUSDT     | 1h RSI: 47.7 → 49.13 | Live RSI: 52.38
+KMNOUSDT     | 1h RSI: 38.33 → 45.34 | Live RSI: 54.84
+NEWTUSDT     | 1h RSI: 48.37 → 50.52 | Live RSI: 55.84
+SOPHUSDT     | 1h RSI: 43.98 → 47.06 | Live RSI: 54.84
+TREEUSDT     | 1h RSI: 42.58 → 52.8 | Live RSI: 56.76
+OPENUSDT     | 1h RSI: 42.39 → 49.11 | Live RSI: 52.46
+HOLOUSDT     | 1h RSI: 29.15 → 51.68 | Live RSI: 56.0
+AVNTUSDT     | 1h RSI: 48.82 → 50.04 | Live RSI: 57.02
+ZKCUSDT      | 1h RSI: 44.26 → 48.74 | Live RSI: 58.73
+SKYUSDT      | 1h RSI: 40.75 → 46.86 | Live RSI: 55.58
+0GUSDT       | 1h RSI: 47.33 → 48.77 | Live RSI: 60.0
+YBUSDT       | 1h RSI: 46.49 → 50.32 | Live RSI: 57.01
+ZKPUSDT      | 1h RSI: 45.38 → 52.5 | Live RSI: 58.0
+CFGUSDT      | 1h RSI: 47.49 → 49.17 | Live RSI: 54.06
+KATUSDT      | 1h RSI: 44.84 → 50.06 | Live RSI: 58.93
+Total: 70
+
+
+=== MATCHES === 2026-05-15 03:03 UTC
+SUSHIUSDT    | 1h RSI: 40.78 → 44.86 | Live RSI: 52.44
+SLPUSDT      | 1h RSI: 48.43 → 52.0 | Live RSI: 59.68
+OPUSDT       | 1h RSI: 40.27 → 43.13 | Live RSI: 52.31
+PARTIUSDT    | 1h RSI: 45.42 → 47.65 | Live RSI: 55.0
+Total: 4
+
+
+=== MATCHES === 2026-05-15 03:06 UTC
+ONEUSDT      | 1h RSI: 47.68 → 50.38 | Live RSI: 57.89
+RVNUSDT      | 1h RSI: 48.54 → 51.58 | Live RSI: 59.46
+CHRUSDT      | 1h RSI: 46.74 → 49.39 | Live RSI: 59.48
+Total: 3
+
+
+=== MATCHES === 2026-05-15 03:08 UTC
+UNIUSDT      | 1h RSI: 49.48 → 52.25 | Live RSI: 59.53
+LDOUSDT      | 1h RSI: 45.5 → 48.62 | Live RSI: 59.26
+IQUSDT       | 1h RSI: 46.63 → 49.5 | Live RSI: 60.0
+XAIUSDT      | 1h RSI: 49.88 → 51.74 | Live RSI: 60.0
+PIXELUSDT    | 1h RSI: 42.18 → 50.28 | Live RSI: 59.7
+AUSDT        | 1h RSI: 50.15 → 51.33 | Live RSI: 59.46
+BARDUSDT     | 1h RSI: 45.94 → 51.74 | Live RSI: 57.04
+Total: 7
+
+
+=== MATCHES === 2026-05-15 03:17 UTC
+FIDAUSDT     | 1h RSI: 46.85 → 49.67 | Live RSI: 59.44
+Total: 1
+
+
+=== MATCHES === 2026-05-15 03:23 UTC
+NFPUSDT      | 1h RSI: 44.0 → 47.34 | Live RSI: 54.05
+PYTHUSDT     | 1h RSI: 39.63 → 43.46 | Live RSI: 52.38
+Total: 2
+
+
+=== MATCHES === 2026-05-15 03:28 UTC
+PSGUSDT      | 1h RSI: 50.51 → 51.99 | Live RSI: 55.81
+Total: 1
+
+
+=== MATCHES === 2026-05-15 03:31 UTC
+XLMUSDT      | 1h RSI: 47.96 → 49.08 | Live RSI: 54.55
+VETUSDT      | 1h RSI: 46.83 → 49.62 | Live RSI: 56.94
+LINKUSDT     | 1h RSI: 49.75 → 50.92 | Live RSI: 58.76
+FETUSDT      | 1h RSI: 44.02 → 45.81 | Live RSI: 58.05
+IOSTUSDT     | 1h RSI: 48.66 → 52.99 | Live RSI: 58.04
+CELRUSDT     | 1h RSI: 45.16 → 52.93 | Live RSI: 58.62
+ANKRUSDT     | 1h RSI: 45.93 → 50.59 | Live RSI: 57.58
+LSKUSDT      | 1h RSI: 46.8 → 50.62 | Live RSI: 55.56
+CTSIUSDT     | 1h RSI: 45.3 → 48.31 | Live RSI: 57.68
+VTHOUSDT     | 1h RSI: 44.17 → 45.72 | Live RSI: 55.17
+MANAUSDT     | 1h RSI: 45.68 → 48.17 | Live RSI: 53.12
+BELUSDT      | 1h RSI: 46.33 → 47.66 | Live RSI: 55.17
+AXSUSDT      | 1h RSI: 42.73 → 44.93 | Live RSI: 54.41
+AVAXUSDT     | 1h RSI: 48.81 → 51.82 | Live RSI: 58.11
+CELOUSDT     | 1h RSI: 44.69 → 46.36 | Live RSI: 55.41
+DODOUSDT     | 1h RSI: 49.73 → 52.95 | Live RSI: 55.24
+SHIBUSDT     | 1h RSI: 46.17 → 50.34 | Live RSI: 57.5
+XECUSDT      | 1h RSI: 45.61 → 49.1 | Live RSI: 53.33
+JASMYUSDT    | 1h RSI: 43.25 → 44.25 | Live RSI: 54.39
+MAGICUSDT    | 1h RSI: 49.44 → 51.71 | Live RSI: 54.88
+QKCUSDT      | 1h RSI: 45.41 → 48.24 | Live RSI: 54.39
+ARBUSDT      | 1h RSI: 40.39 → 43.81 | Live RSI: 53.21
+IDUSDT       | 1h RSI: 48.3 → 50.03 | Live RSI: 58.62
+PEPEUSDT     | 1h RSI: 45.72 → 49.15 | Live RSI: 57.58
+WLDUSDT      | 1h RSI: 45.61 → 48.74 | Live RSI: 59.22
+MEMEUSDT     | 1h RSI: 46.49 → 51.17 | Live RSI: 58.62
+VANRYUSDT    | 1h RSI: 48.13 → 52.83 | Live RSI: 56.81
+BONKUSDT     | 1h RSI: 46.77 → 49.57 | Live RSI: 55.74
+JUPUSDT      | 1h RSI: 44.09 → 49.47 | Live RSI: 57.42
+ALTUSDT      | 1h RSI: 42.82 → 47.36 | Live RSI: 57.97
+STRKUSDT     | 1h RSI: 41.1 → 45.57 | Live RSI: 59.46
+WIFUSDT      | 1h RSI: 47.06 → 49.14 | Live RSI: 55.56
+AEVOUSDT     | 1h RSI: 44.6 → 50.56 | Live RSI: 60.0
+TNSRUSDT     | 1h RSI: 44.15 → 48.64 | Live RSI: 55.88
+LISTAUSDT    | 1h RSI: 44.36 → 46.52 | Live RSI: 56.94
+TONUSDT      | 1h RSI: 41.71 → 43.96 | Live RSI: 52.6
+TURBOUSDT    | 1h RSI: 47.28 → 48.48 | Live RSI: 53.06
+1MBABYDOGEUSDT | 1h RSI: 49.59 → 51.98 | Live RSI: 59.29
+USUALUSDT    | 1h RSI: 43.09 → 46.52 | Live RSI: 58.02
+MOVEUSDT     | 1h RSI: 39.22 → 44.55 | Live RSI: 60.0
+PENGUUSDT    | 1h RSI: 45.84 → 48.98 | Live RSI: 56.42
+SUSDT        | 1h RSI: 47.2 → 49.65 | Live RSI: 53.94
+1000CHEEMSUSDT | 1h RSI: 50.25 → 51.37 | Live RSI: 57.41
+ANIMEUSDT    | 1h RSI: 46.67 → 50.45 | Live RSI: 59.26
+BMTUSDT      | 1h RSI: 47.41 → 50.27 | Live RSI: 56.69
+BIGTIMEUSDT  | 1h RSI: 47.21 → 48.77 | Live RSI: 54.17
+NEWTUSDT     | 1h RSI: 48.37 → 50.52 | Live RSI: 55.13
+SOPHUSDT     | 1h RSI: 43.98 → 47.06 | Live RSI: 53.12
+TREEUSDT     | 1h RSI: 42.58 → 52.8 | Live RSI: 52.5
+OPENUSDT     | 1h RSI: 42.39 → 49.11 | Live RSI: 53.33
+ZKCUSDT      | 1h RSI: 44.26 → 48.74 | Live RSI: 58.73
+SKYUSDT      | 1h RSI: 40.75 → 46.86 | Live RSI: 55.46
+AVNTUSDT     | 1h RSI: 48.82 → 50.04 | Live RSI: 54.17
+HOLOUSDT     | 1h RSI: 29.15 → 51.68 | Live RSI: 53.85
+YBUSDT       | 1h RSI: 46.49 → 50.32 | Live RSI: 56.48
+KATUSDT      | 1h RSI: 44.84 → 50.06 | Live RSI: 55.93
+CFGUSDT      | 1h RSI: 47.49 → 49.17 | Live RSI: 55.78
+Total: 57
+
+
+=== MATCHES === 2026-05-15 03:34 UTC
+SOLUSDT      | 1h RSI: 45.58 → 51.34 | Live RSI: 59.2
+SLPUSDT      | 1h RSI: 48.43 → 52.0 | Live RSI: 59.68
+MBOXUSDT     | 1h RSI: 42.73 → 46.91 | Live RSI: 60.0
+PARTIUSDT    | 1h RSI: 45.42 → 47.65 | Live RSI: 55.0
+BROCCOLI714USDT | 1h RSI: 47.11 → 50.94 | Live RSI: 59.2
+0GUSDT       | 1h RSI: 47.33 → 48.77 | Live RSI: 58.33
+MIRAUSDT     | 1h RSI: 48.48 → 51.16 | Live RSI: 60.0
+Total: 7
+
+
+=== MATCHES === 2026-05-15 03:37 UTC
+ONEUSDT      | 1h RSI: 47.68 → 50.38 | Live RSI: 55.56
+RVNUSDT      | 1h RSI: 48.54 → 51.58 | Live RSI: 56.41
+CHRUSDT      | 1h RSI: 46.74 → 49.39 | Live RSI: 54.79
+YGGUSDT      | 1h RSI: 46.11 → 52.29 | Live RSI: 59.71
+PYRUSDT      | 1h RSI: 46.97 → 52.68 | Live RSI: 57.89
+SEIUSDT      | 1h RSI: 45.23 → 49.81 | Live RSI: 59.77
+Total: 6
+
+
+=== MATCHES === 2026-05-15 03:40 UTC
+UNIUSDT      | 1h RSI: 49.48 → 52.25 | Live RSI: 58.31
+LDOUSDT      | 1h RSI: 45.5 → 48.62 | Live RSI: 58.36
+XAIUSDT      | 1h RSI: 49.88 → 51.74 | Live RSI: 59.34
+PIXELUSDT    | 1h RSI: 42.18 → 50.28 | Live RSI: 57.97
+INITUSDT     | 1h RSI: 47.7 → 49.13 | Live RSI: 52.38
+AUSDT        | 1h RSI: 50.15 → 51.33 | Live RSI: 57.14
+BARDUSDT     | 1h RSI: 45.94 → 51.74 | Live RSI: 55.86
+Total: 7
+
+
+=== MATCHES === 2026-05-15 05:56 UTC
+FFUSDT       | 1h RSI: 47.61 → 51.57 | Live RSI: 54.99
+Total: 1
+
+
+=== MATCHES === 2026-05-15 06:02 UTC
+BANKUSDT     | 1h RSI: 48.99 → 52.94 | Live RSI: 59.65
+Total: 1
 

@@ -58,3 +58,523 @@ ZRXUSDT      | 1h RSI: 50.84 → 52.3 | Live RSI: 59.78
 ATUSDT       | 1h RSI: 47.29 → 52.6 | Live RSI: 57.81
 Total: 2
 
+
+=== MATCHES === 2026-05-14 16:39 UTC
+LUNAUSDT     | 1h RSI: 50.03 → 51.98 | Live RSI: 54.72
+PHBUSDT      | 1h RSI: 45.68 → 50.14 | Live RSI: 54.55
+Total: 2
+
+
+=== MATCHES === 2026-05-14 16:42 UTC
+MORPHOUSDT   | 1h RSI: 38.37 → 41.37 | Live RSI: 53.53
+TURTLEUSDT   | 1h RSI: 37.96 → 45.58 | Live RSI: 54.76
+Total: 2
+
+
+=== MATCHES === 2026-05-14 16:44 UTC
+GLMRUSDT     | 1h RSI: 39.52 → 49.44 | Live RSI: 54.55 | score=28.0801
+HOLOUSDT     | 1h RSI: 37.04 → 38.25 | Live RSI: 59.79 | score=25.9282
+TURTLEUSDT   | 1h RSI: 37.96 → 45.58 | Live RSI: 53.66 | score=23.9353
+IOTXUSDT     | 1h RSI: 44.54 → 51.16 | Live RSI: 55.1 | score=21.0822
+NFPUSDT      | 1h RSI: 45.68 → 50.65 | Live RSI: 54.55 | score=18.8443
+PHBUSDT      | 1h RSI: 45.68 → 50.14 | Live RSI: 54.55 | score=18.3294
+MORPHOUSDT   | 1h RSI: 38.37 → 41.37 | Live RSI: 53.53 | score=18.2927
+MUBARAKUSDT  | 1h RSI: 46.65 → 51.79 | Live RSI: 54.3 | score=17.7848
+UUSDT        | 1h RSI: 46.05 → 51.1 | Live RSI: 55.56 | score=16.1948
+VICUSDT      | 1h RSI: 46.51 → 50.49 | Live RSI: 53.07 | score=15.5449
+CATIUSDT     | 1h RSI: 46.89 → 51.52 | Live RSI: 57.14 | score=15.2623
+BLURUSDT     | 1h RSI: 47.24 → 49.37 | Live RSI: 55.73 | score=12.4645
+KATUSDT      | 1h RSI: 49.61 → 50.65 | Live RSI: 53.85 | score=10.2742
+ZRXUSDT      | 1h RSI: 50.84 → 52.3 | Live RSI: 59.34 | score=10.081
+OPENUSDT     | 1h RSI: 48.85 → 50.84 | Live RSI: 56.18 | score=9.8338
+LUNAUSDT     | 1h RSI: 50.03 → 51.98 | Live RSI: 56.86 | score=9.6029
+MMTUSDT      | 1h RSI: 49.66 → 51.48 | Live RSI: 56.07 | score=8.4233
+HEIUSDT      | 1h RSI: 49.78 → 52.17 | Live RSI: 53.85 | score=6.7298
+Total: 18
+
+
+=== MATCHES === 2026-05-14 16:47 UTC
+STGUSDT      | 1h RSI: 36.0 → 48.26 | Live RSI: 55.68 | score=32.0475
+PHBUSDT      | 1h RSI: 45.68 → 50.14 | Live RSI: 54.55 | score=18.3294
+MUBARAKUSDT  | 1h RSI: 46.65 → 51.79 | Live RSI: 54.59 | score=18.0748
+CATIUSDT     | 1h RSI: 46.89 → 51.52 | Live RSI: 56.34 | score=14.4624
+SOMIUSDT     | 1h RSI: 48.97 → 51.44 | Live RSI: 59.88 | score=13.6976
+INJUSDT      | 1h RSI: 49.54 → 52.37 | Live RSI: 58.89 | score=12.6996
+BLURUSDT     | 1h RSI: 47.24 → 49.37 | Live RSI: 53.87 | score=10.6153
+LUNAUSDT     | 1h RSI: 50.03 → 51.98 | Live RSI: 56.86 | score=9.6201
+OPENUSDT     | 1h RSI: 48.85 → 50.84 | Live RSI: 55.43 | score=9.0839
+ZRXUSDT      | 1h RSI: 50.84 → 52.3 | Live RSI: 58.24 | score=8.9828
+MMTUSDT      | 1h RSI: 49.66 → 51.48 | Live RSI: 53.85 | score=6.2035
+Total: 11
+
+
+=== MATCHES === 2026-05-14 16:50 UTC
+STGUSDT      | 1h RSI: 36.0 → 48.26 | Live RSI: 55.43 | score=31.7976
+CHRUSDT      | 1h RSI: 44.67 → 50.46 | Live RSI: 57.32 | score=21.1157
+MORPHOUSDT   | 1h RSI: 38.37 → 41.37 | Live RSI: 54.6 | score=19.366
+ATUSDT       | 1h RSI: 47.29 → 52.6 | Live RSI: 59.09 | score=17.4782
+MUBARAKUSDT  | 1h RSI: 46.65 → 51.79 | Live RSI: 53.72 | score=17.2048
+CATIUSDT     | 1h RSI: 46.89 → 51.52 | Live RSI: 56.34 | score=14.4628
+INJUSDT      | 1h RSI: 49.54 → 52.37 | Live RSI: 58.73 | score=12.5421
+BLURUSDT     | 1h RSI: 47.24 → 49.37 | Live RSI: 53.48 | score=10.2254
+OPENUSDT     | 1h RSI: 48.85 → 50.84 | Live RSI: 55.43 | score=9.0856
+LUNAUSDT     | 1h RSI: 50.03 → 51.98 | Live RSI: 55.77 | score=8.546
+ZRXUSDT      | 1h RSI: 50.84 → 52.3 | Live RSI: 57.61 | score=8.3542
+MMTUSDT      | 1h RSI: 49.66 → 51.48 | Live RSI: 53.85 | score=6.2035
+Total: 12
+
+
+=== MATCHES === 2026-05-14 16:51 UTC
+STGUSDT      | 1h RSI: 36.0 → 48.26 | Live RSI: 55.19 | score=31.5581
+GLMRUSDT     | 1h RSI: 39.52 → 49.44 | Live RSI: 54.55 | score=28.0912
+HOLOUSDT     | 1h RSI: 37.04 → 38.25 | Live RSI: 59.79 | score=25.941
+CHRUSDT      | 1h RSI: 44.67 → 50.46 | Live RSI: 57.49 | score=21.291
+IOTXUSDT     | 1h RSI: 44.54 → 51.16 | Live RSI: 54.17 | score=20.2527
+MORPHOUSDT   | 1h RSI: 38.37 → 41.37 | Live RSI: 53.8 | score=18.5662
+ATUSDT       | 1h RSI: 47.29 → 52.6 | Live RSI: 58.46 | score=16.8484
+MUBARAKUSDT  | 1h RSI: 46.65 → 51.79 | Live RSI: 53.16 | score=16.6448
+CATIUSDT     | 1h RSI: 46.89 → 51.52 | Live RSI: 56.34 | score=14.4628
+SOMIUSDT     | 1h RSI: 48.97 → 51.44 | Live RSI: 59.63 | score=13.4484
+PYTHUSDT     | 1h RSI: 50.33 → 52.07 | Live RSI: 59.62 | score=13.1953
+INJUSDT      | 1h RSI: 49.54 → 52.37 | Live RSI: 58.83 | score=12.6423
+OPENUSDT     | 1h RSI: 48.85 → 50.84 | Live RSI: 55.17 | score=8.8259
+LUNAUSDT     | 1h RSI: 50.03 → 51.98 | Live RSI: 54.72 | score=7.496
+ZRXUSDT      | 1h RSI: 50.84 → 52.3 | Live RSI: 56.38 | score=7.1243
+MMTUSDT      | 1h RSI: 49.66 → 51.48 | Live RSI: 53.33 | score=5.6835
+Total: 16
+
+
+=== MATCHES === 2026-05-14 16:54 UTC
+ATUSDT       | 1h RSI: 47.29 → 52.6 | Live RSI: 59.09 | score=17.4798
+UUSDT        | 1h RSI: 46.05 → 51.1 | Live RSI: 55.56 | score=16.2524
+CATIUSDT     | 1h RSI: 46.89 → 51.52 | Live RSI: 55.56 | score=13.6835
+SOMIUSDT     | 1h RSI: 48.97 → 51.44 | Live RSI: 59.12 | score=12.9398
+INJUSDT      | 1h RSI: 49.54 → 52.37 | Live RSI: 57.37 | score=11.1852
+PYTHUSDT     | 1h RSI: 50.33 → 52.07 | Live RSI: 57.41 | score=11.032
+OPENUSDT     | 1h RSI: 48.85 → 50.84 | Live RSI: 54.65 | score=8.3111
+LUNAUSDT     | 1h RSI: 50.03 → 51.98 | Live RSI: 53.7 | score=6.4891
+ZRXUSDT      | 1h RSI: 50.84 → 52.3 | Live RSI: 54.08 | score=4.8246
+Total: 9
+
+
+=== MATCHES === 2026-05-14 16:56 UTC
+MORPHOUSDT   | 1h RSI: 38.37 → 41.37 | Live RSI: 53.8 | score=18.5691
+PHBUSDT      | 1h RSI: 45.68 → 50.14 | Live RSI: 54.55 | score=18.3294
+UUSDT        | 1h RSI: 46.05 → 51.1 | Live RSI: 55.56 | score=16.261
+CATIUSDT     | 1h RSI: 46.89 → 51.52 | Live RSI: 55.56 | score=13.6846
+INJUSDT      | 1h RSI: 49.54 → 52.37 | Live RSI: 59.0 | score=12.8161
+PYTHUSDT     | 1h RSI: 50.33 → 52.07 | Live RSI: 58.49 | score=12.1289
+OPENUSDT     | 1h RSI: 48.85 → 50.84 | Live RSI: 54.91 | score=8.5725
+LUNAUSDT     | 1h RSI: 50.03 → 51.98 | Live RSI: 55.77 | score=8.5621
+ZRXUSDT      | 1h RSI: 50.84 → 52.3 | Live RSI: 55.21 | score=5.9546
+Total: 9
+
+
+=== MATCHES === 2026-05-14 16:59 UTC
+PONDUSDT     | 1h RSI: 33.98 → 42.48 | Live RSI: 53.33 | score=32.8489
+PORTALUSDT   | 1h RSI: 41.81 → 47.39 | Live RSI: 53.49 | score=22.1465
+MORPHOUSDT   | 1h RSI: 38.37 → 41.37 | Live RSI: 57.3 | score=22.0715
+MUBARAKUSDT  | 1h RSI: 46.65 → 51.79 | Live RSI: 55.19 | score=18.6748
+NFPUSDT      | 1h RSI: 45.68 → 50.65 | Live RSI: 53.49 | score=17.7843
+CATIUSDT     | 1h RSI: 46.89 → 51.52 | Live RSI: 55.56 | score=13.6848
+RONINUSDT    | 1h RSI: 46.91 → 52.35 | Live RSI: 54.55 | score=13.5856
+BLURUSDT     | 1h RSI: 47.24 → 49.37 | Live RSI: 56.77 | score=13.5625
+KATUSDT      | 1h RSI: 49.61 → 50.65 | Live RSI: 53.85 | score=10.2742
+LUNAUSDT     | 1h RSI: 50.03 → 51.98 | Live RSI: 56.86 | score=9.6523
+OPENUSDT     | 1h RSI: 48.85 → 50.84 | Live RSI: 55.93 | score=9.6016
+MMTUSDT      | 1h RSI: 49.66 → 51.48 | Live RSI: 56.88 | score=9.238
+ZRXUSDT      | 1h RSI: 50.84 → 52.3 | Live RSI: 57.61 | score=8.3547
+HEIUSDT      | 1h RSI: 49.78 → 52.17 | Live RSI: 53.85 | score=6.7436
+Total: 14
+
+
+=== MATCHES === 2026-05-14 17:02 UTC
+WUSDT        | 1h RSI: 44.72 → 51.54 | Live RSI: 57.14 | score=24.2438
+AIUSDT       | 1h RSI: 49.64 → 52.25 | Live RSI: 55.11 | score=13.0866
+Total: 2
+
+
+=== MATCHES === 2026-05-14 17:05 UTC
+AIUSDT       | 1h RSI: 49.64 → 52.25 | Live RSI: 53.68 | score=11.6566
+Total: 1
+
+
+=== MATCHES === 2026-05-14 17:08 UTC
+AIUSDT       | 1h RSI: 49.64 → 52.25 | Live RSI: 53.22 | score=11.1966
+Total: 1
+
+
+=== MATCHES === 2026-05-14 17:10 UTC
+AIUSDT       | 1h RSI: 49.64 → 52.25 | Live RSI: 54.15 | score=12.1266
+Total: 1
+
+
+=== MATCHES === 2026-05-14 17:13 UTC
+AIUSDT       | 1h RSI: 49.64 → 52.25 | Live RSI: 53.45 | score=11.4266
+Total: 1
+
+
+=== MATCHES === 2026-05-14 17:16 UTC
+PONDUSDT     | 1h RSI: 42.48 → 52.39 | Live RSI: 57.14 | score=29.5617
+WUSDT        | 1h RSI: 44.72 → 51.54 | Live RSI: 57.14 | score=24.2438
+AIUSDT       | 1h RSI: 49.64 → 52.25 | Live RSI: 53.45 | score=11.4266
+Total: 3
+
+
+=== MATCHES === 2026-05-14 17:19 UTC
+PONDUSDT     | 1h RSI: 42.48 → 52.39 | Live RSI: 57.14 | score=29.5617
+WUSDT        | 1h RSI: 44.72 → 51.54 | Live RSI: 57.14 | score=24.2438
+Total: 2
+
+
+=== MATCHES === 2026-05-14 17:21 UTC
+PONDUSDT     | 1h RSI: 42.48 → 52.39 | Live RSI: 57.14 | score=29.5617
+WUSDT        | 1h RSI: 44.72 → 51.54 | Live RSI: 53.33 | score=20.4338
+AIUSDT       | 1h RSI: 49.64 → 52.25 | Live RSI: 53.91 | score=11.8866
+Total: 3
+
+
+=== MATCHES === 2026-05-14 17:24 UTC
+WUSDT        | 1h RSI: 44.72 → 51.54 | Live RSI: 53.33 | score=20.4338
+AIUSDT       | 1h RSI: 49.64 → 52.25 | Live RSI: 53.45 | score=11.4266
+Total: 2
+
+
+=== MATCHES === 2026-05-14 17:27 UTC
+PONDUSDT     | 1h RSI: 42.48 → 52.39 | Live RSI: 57.14 | score=29.5617
+AIUSDT       | 1h RSI: 49.64 → 52.25 | Live RSI: 53.45 | score=11.4266
+Total: 2
+
+
+=== MATCHES === 2026-05-14 17:30 UTC
+PONDUSDT     | 1h RSI: 42.48 → 52.39 | Live RSI: 57.14 | score=29.5617
+WUSDT        | 1h RSI: 44.72 → 51.54 | Live RSI: 57.14 | score=24.2438
+Total: 2
+
+
+=== MATCHES === 2026-05-14 17:35 UTC
+STGUSDT      | 1h RSI: 48.26 → 51.41 | Live RSI: 58.7 | score=13.6976
+AIUSDT       | 1h RSI: 49.64 → 52.25 | Live RSI: 53.22 | score=11.1966
+Total: 2
+
+
+=== MATCHES === 2026-05-14 17:38 UTC
+WUSDT        | 1h RSI: 44.72 → 51.54 | Live RSI: 57.14 | score=24.2438
+Total: 1
+
+
+=== MATCHES === 2026-05-14 17:41 UTC
+WUSDT        | 1h RSI: 44.72 → 51.54 | Live RSI: 57.14 | score=24.2438
+AIUSDT       | 1h RSI: 49.64 → 52.25 | Live RSI: 53.22 | score=11.1966
+Total: 2
+
+
+=== MATCHES === 2026-05-14 17:44 UTC
+PONDUSDT     | 1h RSI: 42.48 → 52.39 | Live RSI: 53.33 | score=25.7517
+WUSDT        | 1h RSI: 44.72 → 51.54 | Live RSI: 57.14 | score=24.2438
+Total: 2
+
+
+=== MATCHES === 2026-05-14 17:46 UTC
+PONDUSDT     | 1h RSI: 42.48 → 52.39 | Live RSI: 57.14 | score=29.5617
+WUSDT        | 1h RSI: 44.72 → 51.54 | Live RSI: 57.14 | score=24.2438
+Total: 2
+
+
+=== MATCHES === 2026-05-14 17:49 UTC
+STGUSDT      | 1h RSI: 48.26 → 51.41 | Live RSI: 59.67 | score=14.668
+Total: 1
+
+
+=== MATCHES === 2026-05-14 17:52 UTC
+STGUSDT      | 1h RSI: 48.26 → 51.41 | Live RSI: 59.02 | score=14.0181
+Total: 1
+
+
+=== MATCHES === 2026-05-14 17:55 UTC
+PONDUSDT     | 1h RSI: 42.48 → 52.39 | Live RSI: 53.33 | score=25.7517
+Total: 1
+
+
+=== MATCHES === 2026-05-14 17:58 UTC
+WUSDT        | 1h RSI: 44.72 → 51.54 | Live RSI: 57.14 | score=24.2438
+Total: 1
+
+
+=== MATCHES === 2026-05-14 18:00 UTC
+BARUSDT      | 1h RSI: 47.53 → 48.66 | Live RSI: 53.33 | score=7.0714
+Total: 1
+
+
+=== MATCHES === 2026-05-14 18:09 UTC
+INITUSDT     | 1h RSI: 47.15 → 49.16 | Live RSI: 58.33 | score=13.5006
+Total: 1
+
+
+=== MATCHES === 2026-05-14 19:01 UTC
+KMNOUSDT     | 1h RSI: 49.01 → 52.52 | Live RSI: 59.52 | score=19.0176
+PHBUSDT      | 1h RSI: 43.61 → 45.24 | Live RSI: 55.88 | score=18.8963
+MBOXUSDT     | 1h RSI: 42.95 → 45.6 | Live RSI: 53.85 | score=18.5434
+KATUSDT      | 1h RSI: 47.84 → 50.82 | Live RSI: 58.21 | score=18.3579
+OPUSDT       | 1h RSI: 45.86 → 51.47 | Live RSI: 54.17 | score=17.87
+LUMIAUSDT    | 1h RSI: 44.45 → 46.86 | Live RSI: 54.88 | score=13.9867
+OPENUSDT     | 1h RSI: 47.39 → 49.07 | Live RSI: 56.6 | score=11.2997
+Total: 7
+
+
+=== MATCHES === 2026-05-14 19:03 UTC
+MBOXUSDT     | 1h RSI: 42.95 → 45.6 | Live RSI: 58.33 | score=23.0234
+PHBUSDT      | 1h RSI: 43.61 → 45.24 | Live RSI: 55.88 | score=18.8963
+KMNOUSDT     | 1h RSI: 49.01 → 52.52 | Live RSI: 59.2 | score=18.6976
+KATUSDT      | 1h RSI: 47.84 → 50.82 | Live RSI: 57.58 | score=17.7279
+OPUSDT       | 1h RSI: 45.86 → 51.47 | Live RSI: 53.78 | score=17.4832
+MBLUSDT      | 1h RSI: 49.5 → 51.11 | Live RSI: 60.0 | score=17.1189
+LUMIAUSDT    | 1h RSI: 44.45 → 46.86 | Live RSI: 54.32 | score=13.4268
+OPENUSDT     | 1h RSI: 47.39 → 49.07 | Live RSI: 56.33 | score=11.0298
+Total: 8
+
+
+=== MATCHES === 2026-05-14 19:05 UTC
+MBOXUSDT     | 1h RSI: 42.95 → 45.6 | Live RSI: 58.33 | score=23.0234
+PHBUSDT      | 1h RSI: 43.61 → 45.24 | Live RSI: 55.88 | score=18.8963
+KMNOUSDT     | 1h RSI: 49.01 → 52.52 | Live RSI: 59.2 | score=18.6976
+KATUSDT      | 1h RSI: 47.84 → 50.82 | Live RSI: 56.92 | score=17.0679
+LUMIAUSDT    | 1h RSI: 44.45 → 46.86 | Live RSI: 53.09 | score=12.2021
+OPENUSDT     | 1h RSI: 47.39 → 49.07 | Live RSI: 56.05 | score=10.7499
+Total: 6
+
+
+=== MATCHES === 2026-05-14 19:07 UTC
+MBLUSDT      | 1h RSI: 49.5 → 51.11 | Live RSI: 58.7 | score=15.8189
+OPENUSDT     | 1h RSI: 47.39 → 49.07 | Live RSI: 55.7 | score=10.4003
+Total: 2
+
+
+=== MATCHES === 2026-05-14 19:10 UTC
+MBOXUSDT     | 1h RSI: 42.95 → 45.6 | Live RSI: 53.85 | score=18.5434
+MBLUSDT      | 1h RSI: 49.5 → 51.11 | Live RSI: 57.45 | score=14.5689
+OPENUSDT     | 1h RSI: 47.39 → 49.07 | Live RSI: 55.35 | score=10.0504
+Total: 3
+
+
+=== MATCHES === 2026-05-14 19:13 UTC
+MBLUSDT      | 1h RSI: 49.5 → 51.11 | Live RSI: 56.25 | score=13.3689
+OPENUSDT     | 1h RSI: 47.39 → 49.07 | Live RSI: 55.0 | score=9.7015
+Total: 2
+
+
+=== MATCHES === 2026-05-14 19:16 UTC
+MBLUSDT      | 1h RSI: 49.5 → 51.11 | Live RSI: 56.25 | score=13.3689
+OPENUSDT     | 1h RSI: 47.39 → 49.07 | Live RSI: 55.0 | score=9.7025
+Total: 2
+
+
+=== MATCHES === 2026-05-14 19:19 UTC
+MBOXUSDT     | 1h RSI: 42.95 → 45.6 | Live RSI: 53.85 | score=18.5434
+MBLUSDT      | 1h RSI: 49.5 → 51.11 | Live RSI: 56.25 | score=13.3689
+OPENUSDT     | 1h RSI: 47.39 → 49.07 | Live RSI: 54.66 | score=9.3627
+Total: 3
+
+
+=== MATCHES === 2026-05-14 19:22 UTC
+MBOXUSDT     | 1h RSI: 42.95 → 45.6 | Live RSI: 53.85 | score=18.5434
+MBLUSDT      | 1h RSI: 49.5 → 51.11 | Live RSI: 57.45 | score=14.5689
+OPENUSDT     | 1h RSI: 47.39 → 49.07 | Live RSI: 54.66 | score=9.3629
+Total: 3
+
+
+=== MATCHES === 2026-05-14 19:25 UTC
+MBOXUSDT     | 1h RSI: 42.95 → 45.6 | Live RSI: 53.85 | score=18.5434
+KATUSDT      | 1h RSI: 47.84 → 50.82 | Live RSI: 53.62 | score=13.7679
+MBLUSDT      | 1h RSI: 49.5 → 51.11 | Live RSI: 56.25 | score=13.3689
+OPENUSDT     | 1h RSI: 47.39 → 49.07 | Live RSI: 53.66 | score=8.3632
+Total: 4
+
+
+=== MATCHES === 2026-05-14 19:27 UTC
+MBOXUSDT     | 1h RSI: 42.95 → 45.6 | Live RSI: 53.85 | score=18.5434
+KATUSDT      | 1h RSI: 47.84 → 50.82 | Live RSI: 53.62 | score=13.7679
+MBLUSDT      | 1h RSI: 49.5 → 51.11 | Live RSI: 54.0 | score=11.1189
+Total: 3
+
+
+=== MATCHES === 2026-05-14 19:30 UTC
+LAYERUSDT    | 1h RSI: 48.28 → 51.14 | Live RSI: 59.52 | score=19.1069
+KMNOUSDT     | 1h RSI: 49.01 → 52.52 | Live RSI: 55.43 | score=14.9276
+KATUSDT      | 1h RSI: 47.84 → 50.82 | Live RSI: 53.62 | score=13.7679
+MBLUSDT      | 1h RSI: 49.5 → 51.11 | Live RSI: 55.1 | score=12.2189
+Total: 4
+
+
+=== MATCHES === 2026-05-14 19:33 UTC
+KATUSDT      | 1h RSI: 47.84 → 50.82 | Live RSI: 53.62 | score=13.7679
+MBLUSDT      | 1h RSI: 49.5 → 51.11 | Live RSI: 55.1 | score=12.2189
+Total: 2
+
+
+=== MATCHES === 2026-05-14 19:36 UTC
+LAYERUSDT    | 1h RSI: 48.28 → 51.14 | Live RSI: 58.82 | score=18.4069
+MBLUSDT      | 1h RSI: 49.5 → 51.11 | Live RSI: 55.1 | score=12.2189
+Total: 2
+
+
+=== MATCHES === 2026-05-14 19:39 UTC
+LAYERUSDT    | 1h RSI: 48.28 → 51.14 | Live RSI: 56.82 | score=16.4069
+KMNOUSDT     | 1h RSI: 49.01 → 52.52 | Live RSI: 56.06 | score=15.5576
+KATUSDT      | 1h RSI: 47.84 → 50.82 | Live RSI: 53.62 | score=13.7679
+MBLUSDT      | 1h RSI: 49.5 → 51.11 | Live RSI: 56.25 | score=13.3689
+Total: 4
+
+
+=== MATCHES === 2026-05-14 19:42 UTC
+MBLUSDT      | 1h RSI: 49.5 → 51.11 | Live RSI: 58.7 | score=15.8189
+LAYERUSDT    | 1h RSI: 48.28 → 51.14 | Live RSI: 56.18 | score=15.7669
+Total: 2
+
+
+=== MATCHES === 2026-05-14 19:44 UTC
+MBOXUSDT     | 1h RSI: 42.95 → 45.6 | Live RSI: 53.85 | score=18.5434
+LAYERUSDT    | 1h RSI: 48.28 → 51.14 | Live RSI: 54.95 | score=14.5369
+KATUSDT      | 1h RSI: 47.84 → 50.82 | Live RSI: 53.62 | score=13.7679
+Total: 3
+
+
+=== MATCHES === 2026-05-14 19:47 UTC
+MBOXUSDT     | 1h RSI: 42.95 → 45.6 | Live RSI: 53.85 | score=18.5434
+LAYERUSDT    | 1h RSI: 48.28 → 51.14 | Live RSI: 55.56 | score=15.1469
+KATUSDT      | 1h RSI: 47.84 → 50.82 | Live RSI: 53.62 | score=13.7679
+Total: 3
+
+
+=== MATCHES === 2026-05-14 19:50 UTC
+LAYERUSDT    | 1h RSI: 48.28 → 51.14 | Live RSI: 56.18 | score=15.7669
+KATUSDT      | 1h RSI: 47.84 → 50.82 | Live RSI: 53.62 | score=13.7679
+Total: 2
+
+
+=== MATCHES === 2026-05-14 19:53 UTC
+LAYERUSDT    | 1h RSI: 48.28 → 51.14 | Live RSI: 57.47 | score=17.0569
+Total: 1
+
+
+=== MATCHES === 2026-05-14 19:56 UTC
+LAYERUSDT    | 1h RSI: 48.28 → 51.14 | Live RSI: 57.47 | score=17.0569
+Total: 1
+
+
+=== MATCHES === 2026-05-14 19:58 UTC
+MBOXUSDT     | 1h RSI: 42.95 → 45.6 | Live RSI: 53.85 | score=18.5434
+LAYERUSDT    | 1h RSI: 48.28 → 51.14 | Live RSI: 57.47 | score=17.0569
+Total: 2
+
+
+=== MATCHES === 2026-05-14 20:01 UTC
+ROBOUSDT     | 1h RSI: 47.44 → 51.45 | Live RSI: 58.5 | score=19.5312
+HOLOUSDT     | 1h RSI: 39.11 → 41.58 | Live RSI: 54.55 | score=19.3069
+Total: 2
+
+
+=== MATCHES === 2026-05-14 20:04 UTC
+ROBOUSDT     | 1h RSI: 47.44 → 51.45 | Live RSI: 58.98 | score=20.035
+HOLOUSDT     | 1h RSI: 39.11 → 41.58 | Live RSI: 53.7 | score=18.4573
+SUNUSDT      | 1h RSI: 44.32 → 45.61 | Live RSI: 53.19 | score=11.7885
+Total: 3
+
+
+=== MATCHES === 2026-05-14 20:07 UTC
+HOLOUSDT     | 1h RSI: 39.11 → 41.58 | Live RSI: 53.7 | score=18.4604
+ROBOUSDT     | 1h RSI: 47.44 → 51.45 | Live RSI: 56.98 | score=18.0786
+SUNUSDT      | 1h RSI: 44.32 → 45.61 | Live RSI: 53.19 | score=11.7902
+Total: 3
+
+
+=== MATCHES === 2026-05-14 20:10 UTC
+ROBOUSDT     | 1h RSI: 47.44 → 51.45 | Live RSI: 58.33 | score=19.462
+SUNUSDT      | 1h RSI: 44.32 → 45.61 | Live RSI: 53.19 | score=11.792
+Total: 2
+
+
+=== MATCHES === 2026-05-14 20:13 UTC
+ROBOUSDT     | 1h RSI: 47.44 → 51.45 | Live RSI: 58.5 | score=19.6413
+SUNUSDT      | 1h RSI: 44.32 → 45.61 | Live RSI: 54.17 | score=12.7742
+Total: 2
+
+
+=== MATCHES === 2026-05-14 20:16 UTC
+ROBOUSDT     | 1h RSI: 47.44 → 51.45 | Live RSI: 59.14 | score=20.3009
+SUNUSDT      | 1h RSI: 44.32 → 45.61 | Live RSI: 55.1 | score=13.7055
+Total: 2
+
+
+=== MATCHES === 2026-05-14 20:19 UTC
+ROBOUSDT     | 1h RSI: 47.44 → 51.45 | Live RSI: 58.98 | score=20.1487
+SUNUSDT      | 1h RSI: 44.32 → 45.61 | Live RSI: 55.1 | score=13.7087
+Total: 2
+
+
+=== MATCHES === 2026-05-14 20:21 UTC
+ROBOUSDT     | 1h RSI: 47.44 → 51.45 | Live RSI: 59.3 | score=20.4751
+SUNUSDT      | 1h RSI: 44.32 → 45.61 | Live RSI: 55.1 | score=13.7101
+Total: 2
+
+
+=== MATCHES === 2026-05-14 20:24 UTC
+SUNUSDT      | 1h RSI: 44.32 → 45.61 | Live RSI: 55.1 | score=13.7134
+Total: 1
+
+
+=== MATCHES === 2026-05-14 20:27 UTC
+SUNUSDT      | 1h RSI: 44.32 → 45.61 | Live RSI: 55.1 | score=13.7151
+Total: 1
+
+
+=== MATCHES === 2026-05-14 20:30 UTC
+SUNUSDT      | 1h RSI: 44.32 → 45.61 | Live RSI: 55.1 | score=13.7165
+Total: 1
+
+
+=== MATCHES === 2026-05-14 20:33 UTC
+SUNUSDT      | 1h RSI: 44.32 → 45.61 | Live RSI: 55.1 | score=13.7183
+Total: 1
+
+
+=== MATCHES === 2026-05-14 20:36 UTC
+ROBOUSDT     | 1h RSI: 47.44 → 51.45 | Live RSI: 56.11 | score=17.3543
+SUNUSDT      | 1h RSI: 44.32 → 45.61 | Live RSI: 55.1 | score=13.7224
+Total: 2
+
+
+=== MATCHES === 2026-05-14 21:02 UTC
+SOLVUSDT     | 1h RSI: 40.34 → 43.22 | Live RSI: 60.0 | score=27.5521
+REZUSDT      | 1h RSI: 39.97 → 42.89 | Live RSI: 58.1 | score=26.0454
+KAITOUSDT    | 1h RSI: 43.33 → 51.83 | Live RSI: 59.64 | score=24.9465
+OPENUSDT     | 1h RSI: 45.19 → 48.69 | Live RSI: 55.77 | score=14.441
+Total: 4
+
+
+=== MATCHES === 2026-05-14 21:04 UTC
+KAITOUSDT    | 1h RSI: 43.33 → 51.83 | Live RSI: 57.73 | score=23.0375
+OPENUSDT     | 1h RSI: 45.19 → 48.69 | Live RSI: 55.06 | score=13.732
+ALLOUSDT     | 1h RSI: 45.93 → 49.79 | Live RSI: 54.05 | score=12.9053
+Total: 3
+
+
+=== MATCHES === 2026-05-14 21:07 UTC
+KAITOUSDT    | 1h RSI: 43.33 → 51.83 | Live RSI: 57.73 | score=23.0375
+OPENUSDT     | 1h RSI: 45.19 → 48.69 | Live RSI: 55.06 | score=13.7323
+Total: 2
+
+
+=== MATCHES === 2026-05-14 21:10 UTC
+KAITOUSDT    | 1h RSI: 43.33 → 51.83 | Live RSI: 56.09 | score=21.3979
+ALLOUSDT     | 1h RSI: 45.93 → 49.79 | Live RSI: 54.05 | score=12.9119
+OPENUSDT     | 1h RSI: 45.19 → 48.69 | Live RSI: 54.04 | score=12.7132
+Total: 3
+
+
+=== MATCHES === 2026-05-14 21:13 UTC
+KAITOUSDT    | 1h RSI: 43.33 → 51.83 | Live RSI: 55.0 | score=20.3083
+CTSIUSDT     | 1h RSI: 48.78 → 51.27 | Live RSI: 59.84 | score=13.9663
+OPENUSDT     | 1h RSI: 45.19 → 48.69 | Live RSI: 54.72 | score=13.3995
+Total: 3
+

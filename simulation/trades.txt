@@ -1,5 +1,23 @@
-BUY  | IOTXUSDT | Entry=0.00502 | Target=0.0051204 | Stop=0.0049698 | RSI=54.17 | 16:25 UTC
-BUY  | CHRUSDT | Entry=0.0249 | Target=0.025398 | Stop=0.024651 | RSI=57.14 | 16:25 UTC
-BUY  | VTHOUSDT | Entry=0.000586 | Target=0.00059772 | Stop=0.00058014 | RSI=54.05 | 16:25 UTC
-BUY  | LUNAUSDT | Entry=0.0676 | Target=0.068952 | Stop=0.066924 | RSI=58.0 | 16:25 UTC
-BUY  | SUNUSDT | Entry=0.0201 | Target=0.020502 | Stop=0.019899 | RSI=53.33 | 16:25 UTC
+BUY  | MBOXUSDT | Entry=0.0124 | Target=0.0125364 | Stop=0.0121768 | notional_usdt=10 | qty_base≈806.4516129 | RSI=58.33 | 19:05 UTC
+BUY  | PHBUSDT | Entry=0.081 | Target=0.081891 | Stop=0.079542 | notional_usdt=10 | qty_base≈123.45679012 | RSI=55.88 | 19:05 UTC
+BUY  | KMNOUSDT | Entry=0.02333 | Target=0.02358663 | Stop=0.02291006 | notional_usdt=10 | qty_base≈428.63266181 | RSI=59.2 | 19:05 UTC
+BUY  | KATUSDT | Entry=0.00924 | Target=0.00934164 | Stop=0.00907368 | notional_usdt=10 | qty_base≈1082.25108225 | RSI=56.92 | 19:05 UTC
+BUY  | LUMIAUSDT | Entry=0.1159 | Target=0.1171749 | Stop=0.1138138 | notional_usdt=10 | qty_base≈86.28127696 | RSI=53.09 | 19:05 UTC
+SELL_TRIGGER | PHBUSDT | reason=STOP_LOSS | entry=0.081 | exit=0.079 | pnl=-2.47% | pnl_usdt_est=-0.247 | 19:41 UTC
+SELL | PHBUSDT | Entry=0.081 | Exit=0.079 | PnL=-2.47% | pnl_usdt_est=-0.247 | 1h%=None | Reason=STOP_LOSS | 19:41 UTC
+BUY  | MBLUSDT | Entry=0.000979 | Target=0.00098977 | Stop=0.00096138 | notional_usdt=10 | qty_base≈10214.50459653 | RSI=58.7 | 19:42 UTC
+SELL_TRIGGER | KMNOUSDT | reason=STOP_LOSS | entry=0.02333 | exit=0.02289 | pnl=-1.89% | pnl_usdt_est=-0.189 | 20:21 UTC
+SELL | KMNOUSDT | Entry=0.02333 | Exit=0.02289 | PnL=-1.89% | pnl_usdt_est=-0.189 | 1h%=-1.11 | Reason=STOP_LOSS | 20:21 UTC
+BUY  | ROBOUSDT | Entry=0.02075 | Target=0.02097825 | Stop=0.0203765 | notional_usdt=10 | qty_base≈481.92771084 | RSI=59.3 | 20:21 UTC
+SELL_TRIGGER | KATUSDT | reason=TIMEOUT | entry=0.00924 | exit=0.00915 | pnl=-0.97% | pnl_usdt_est=-0.097 | 20:35 UTC
+SELL | KATUSDT | Entry=0.00924 | Exit=0.00915 | PnL=-0.97% | pnl_usdt_est=-0.097 | 1h%=-0.43 | Reason=TIMEOUT | 20:35 UTC
+SELL_TRIGGER | LUMIAUSDT | reason=TIMEOUT | entry=0.1159 | exit=0.115 | pnl=-0.78% | pnl_usdt_est=-0.078 | 20:35 UTC
+SELL | LUMIAUSDT | Entry=0.1159 | Exit=0.115 | PnL=-0.78% | pnl_usdt_est=-0.078 | 1h%=-1.21 | Reason=TIMEOUT | 20:35 UTC
+SELL_TRIGGER | MBOXUSDT | reason=TIMEOUT | entry=0.0124 | exit=0.0124 | pnl=0.0% | pnl_usdt_est=0.0 | 20:35 UTC
+SELL | MBOXUSDT | Entry=0.0124 | Exit=0.0124 | PnL=0.0% | pnl_usdt_est=0.0 | 1h%=0.0 | Reason=TIMEOUT | 20:35 UTC
+BUY  | SUNUSDT | Entry=0.02007 | Target=0.02029077 | Stop=0.01970874 | notional_usdt=10 | qty_base≈498.25610364 | RSI=55.1 | 20:36 UTC
+BUY  | SOLVUSDT | Entry=0.00473 | Target=0.00478203 | Stop=0.00464486 | notional_usdt=10 | qty_base≈2114.16490486 | RSI=60.0 | 21:02 UTC
+BUY  | REZUSDT | Entry=0.006 | Target=0.006066 | Stop=0.005892 | notional_usdt=10 | qty_base≈1666.66666667 | RSI=58.1 | 21:02 UTC
+SELL_TRIGGER | MBLUSDT | reason=TIMEOUT | entry=0.000979 | exit=0.000973 | pnl=-0.61% | pnl_usdt_est=-0.061 | 21:12 UTC
+SELL | MBLUSDT | Entry=0.000979 | Exit=0.000973 | PnL=-0.61% | pnl_usdt_est=-0.061 | 1h%=-0.41 | Reason=TIMEOUT | 21:12 UTC
+BUY  | KAITOUSDT | Entry=0.4646 | Target=0.4697106 | Stop=0.4562372 | notional_usdt=10 | qty_base≈21.52389152 | RSI=55.0 | 21:13 UTC
