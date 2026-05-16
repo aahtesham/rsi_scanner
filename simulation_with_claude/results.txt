@@ -1,0 +1,8 @@
+
+=== MATCHES === 2026-05-16 10:57 UTC
+POLYXUSDT    | 1h RSI: 47.18 → 49.2 | Live RSI: 53.85
+VICUSDT      | 1h RSI: 45.02 → 48.4 | Live RSI: 58.82
+SAPIENUSDT   | 1h RSI: 41.49 → 51.41 | Live RSI: 58.66
+ATUSDT       | 1h RSI: 49.58 → 52.92 | Live RSI: 58.76
+Total: 4
+

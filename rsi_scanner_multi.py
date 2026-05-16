@@ -47,7 +47,7 @@ def get_live_rsi(symbol, klines, period=14):
         ).json()
         current_price = float(ticker["price"])
     except Exception:
-        return None
+        return None, None, None
 
     closes = [float(x[4]) for x in klines]
     closes[-1] = current_price          # ✅ replace forming candle with live price
@@ -57,8 +57,14 @@ def get_live_rsi(symbol, klines, period=14):
     gain = delta.where(delta > 0, 0).rolling(period).mean()
     loss = (-delta.where(delta < 0, 0)).rolling(period).mean()
     rs = gain / loss
-    rsi = 100 - (100 / (1 + rs))
-    return round(rsi.iloc[-1], 2)
+    manual_rsi = 100 - (100 / (1 + rs))
+    auto_rsi = RSIIndicator(s, window=period).rsi()
+
+    return (
+        round(manual_rsi.iloc[-1], 2),
+        round(auto_rsi.iloc[-1], 2),
+        round(current_price, 8)
+    )
 
 # -------------------------------
 # Process each symbol
@@ -96,13 +102,13 @@ def process_symbol(symbol):
         if (rsi_closed - rsi_prev) < 1:     # must be rising by at least 1 point
             return None
 
-        # Step 5: NOW get true live RSI (ticker price injected)
-        live_rsi = get_live_rsi(symbol, klines)
-        if live_rsi is None:
+        # Step 5: NOW get live RSI values with current price injected
+        manual_live_rsi, auto_live_rsi, current_price = get_live_rsi(symbol, klines)
+        if auto_live_rsi is None:
             return None
 
-        # Step 6: live RSI must have crossed above 53 into 53-60 zone
-        if not (52 < live_rsi <= 60):
+        # Step 6: scan using RSIIndicator auto live RSI, not the manual SMA version
+        if not (50 < auto_live_rsi <= 60):
             return None
 
         # Step 7: cooldown check
@@ -113,10 +119,12 @@ def process_symbol(symbol):
         last_alert_time[symbol] = now
 
         return {
-            "symbol"    : symbol,
-            "rsi_prev"  : round(rsi_prev, 2),
-            "rsi_closed": round(rsi_closed, 2),
-            "live_rsi"  : round(live_rsi, 2),
+            "symbol"             : symbol,
+            "rsi_prev"           : round(rsi_prev, 2),
+            "rsi_closed"         : round(rsi_closed, 2),
+            "manual_live_rsi"    : round(manual_live_rsi, 2),
+            "indicator_live_rsi" : round(auto_live_rsi, 2),
+            "current_price"      : round(current_price, 8),
         }
 
     except Exception as e:
@@ -140,7 +148,9 @@ def scan():
                 logger.info(
                     f"MATCH: {result['symbol']} | "
                     f"1h: {result['rsi_prev']} → {result['rsi_closed']} | "
-                    f"Live: {result['live_rsi']}"
+                    f"Manual Live RSI: {result['manual_live_rsi']} | "
+                    f"RSIIndicator RSI: {result['indicator_live_rsi']} | "
+                    f"Price: {result['current_price']}"
                 )
                 matches.append(result)
 
@@ -153,7 +163,9 @@ def scan():
             print(
                 f"{m['symbol']:<12} | "
                 f"1h RSI: {m['rsi_prev']} → {m['rsi_closed']} | "
-                f"Live RSI: {m['live_rsi']}"
+                f"Manual Live RSI: {m['manual_live_rsi']} | "
+                f"RSIIndicator RSI: {m['indicator_live_rsi']} | "
+                f"Price: {m['current_price']}"
             )
         print("-" * 55)
         print(f"Total: {len(matches)}\n")
@@ -164,7 +176,9 @@ def scan():
                 f.write(
                     f"{m['symbol']:<12} | "
                     f"1h RSI: {m['rsi_prev']} → {m['rsi_closed']} | "
-                    f"Live RSI: {m['live_rsi']}\n"
+                    f"Manual Live RSI: {m['manual_live_rsi']} | "
+                    f"RSIIndicator Live RSI: {m['indicator_live_rsi']} | "
+                    f"Price: {m['current_price']}\n"
                 )
             f.write(f"Total: {len(matches)}\n\n")
     else:

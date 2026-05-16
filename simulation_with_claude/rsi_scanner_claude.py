@@ -206,13 +206,61 @@ def monitor_trade(symbol):
 # -------------------------------
 def get_all_usdt_symbols():
     url = f"{B_API}/api/v3/exchangeInfo"
-    r = session.get(url, timeout=10)
-    r.raise_for_status()
-    return [
-        s["symbol"]
-        for s in r.json()["symbols"]
-        if s["quoteAsset"] == "USDT" and s["status"] == "TRADING"
-    ]
+    headers = {"User-Agent": "Mozilla/5.0 (compatible; RSI-Scanner/1.0)"}
+
+    # Try exchangeInfo with a few retries
+    for attempt in range(3):
+        try:
+            r = session.get(url, timeout=10, headers=headers)
+            r.raise_for_status()
+            return [
+                s["symbol"]
+                for s in r.json().get("symbols", [])
+                if s.get("quoteAsset") == "USDT" and s.get("status") == "TRADING"
+            ]
+        except requests.exceptions.HTTPError as e:
+            status = None
+            try:
+                status = e.response.status_code
+            except Exception:
+                pass
+            logger.warning(f"exchangeInfo HTTP error (attempt {attempt+1}): {e} status={status}")
+            # 451 indicates legal restriction — stop retrying and fallback
+            if status == 451:
+                logger.error("Received 451 from Binance (Unavailable For Legal Reasons). Falling back to ticker/price endpoint.")
+                break
+            time.sleep(2 ** attempt)
+        except Exception as e:
+            logger.warning(f"exchangeInfo error (attempt {attempt+1}): {e}")
+            time.sleep(2 ** attempt)
+
+    # Fallback: use ticker/price endpoint and filter for USDT pairs
+    try:
+        r = session.get(f"{B_API}/api/v3/ticker/price", timeout=10, headers=headers)
+        r.raise_for_status()
+        return [p["symbol"] for p in r.json() if p.get("symbol", "").endswith("USDT")]
+    except Exception as e:
+        logger.error(f"Failed to fetch symbols from Binance (fallback): {e}")
+        # If Binance is blocked (451) or unavailable, try CoinGecko as a public fallback
+        try:
+            cg_url = (
+                "https://api.coingecko.com/api/v3/coins/markets"
+                "?vs_currency=usd&order=market_cap_desc&per_page=250&page=1&sparkline=false"
+            )
+            cg = session.get(cg_url, timeout=10, headers=headers)
+            cg.raise_for_status()
+            coins = cg.json()
+            symbols = []
+            for c in coins:
+                s = c.get("symbol", "").upper()
+                if not s:
+                    continue
+                symbols.append(s + "USDT")
+            logger.info(f"CoinGecko fallback produced {len(symbols)} candidate symbols")
+            return symbols
+        except Exception as e2:
+            logger.error(f"CoinGecko fallback failed: {e2}")
+            return []
 
 # -------------------------------
 # True live RSI using ticker price
