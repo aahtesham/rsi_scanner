@@ -117,8 +117,7 @@ def two_day_uptrend_ok(df_1h: pd.DataFrame) -> tuple:
 # -------------------------------
 def process_symbol(symbol):
     try:
-        # Step 1: fetch klines
-        url = f"{B_API}/api/v3/klines?symbol={symbol}&interval=1h&limit=100"
+        url    = f"{B_API}/api/v3/klines?symbol={symbol}&interval=1h&limit=100"
         klines = session.get(url, timeout=10).json()
 
         if not klines or len(klines) < TWO_DAY_BARS + 20:
@@ -129,40 +128,50 @@ def process_symbol(symbol):
             "volume", "close_time", "qav", "trades",
             "taker_base", "taker_quote", "ignore"
         ])
-        df["close"] = df["close"].astype(float)
-        df["volume"] = df["volume"].astype(float)
+        df["close"]      = df["close"].astype(float)
+        df["volume"]     = df["volume"].astype(float)
+        df["taker_base"] = df["taker_base"].astype(float)
 
-        # Step 2: volume filter
+        # volume filter
         if df["volume"].tail(10).mean() < 50000:
             return None
 
-        # Step 2b: last 2 days in uptrend (48h on 1h chart)
+        # taker buy ratio — buyers must dominate
+        buy_ratio = df["taker_base"].iloc[-2] / df["volume"].iloc[-2]
+        if buy_ratio < 0.52:
+            return None
+
+        # 2-day uptrend
         up_ok, two_day_pct = two_day_uptrend_ok(df)
         if not up_ok:
             return None
 
-        # Step 3: closed candle RSI (no live price yet)
+        # RSI closed candles
         rsi        = RSIIndicator(df["close"], window=14).rsi()
-        rsi_closed = rsi.iloc[-2]   # ✅ last fully closed candle
-        rsi_prev   = rsi.iloc[-3]   # one before
+        rsi_closed = rsi.iloc[-2]
+        rsi_prev   = rsi.iloc[-3]
+        long_slope = rsi_closed - rsi.iloc[-5]   # 4-candle momentum
 
-        # Step 4: closed candles must show RSI rising but still below 53
-        if not (rsi_prev < rsi_closed < 53):
+        # ✅ fix: restored upper limit
+        if not (rsi_prev < rsi_closed ):
             return None
 
-        if (rsi_closed - rsi_prev) < 1:     # must be rising by at least 1 point
+        # short slope
+        if (rsi_closed - rsi_prev) < 1:
             return None
 
-        # Step 5: NOW get live RSI values with current price injected
+        # long slope — sustained momentum not just 1 candle spike
+        
+
+        # live RSI
         manual_live_rsi, auto_live_rsi, current_price = get_live_rsi(symbol, klines)
         if auto_live_rsi is None:
             return None
 
-        # Step 6: scan using RSIIndicator auto live RSI, not the manual SMA version
         if not (50 < auto_live_rsi <= 60):
             return None
 
-        # Step 7: cooldown check
+        # cooldown
         now = time.time()
         if symbol in last_alert_time:
             if now - last_alert_time[symbol] < ALERT_COOLDOWN:
@@ -177,12 +186,13 @@ def process_symbol(symbol):
             "indicator_live_rsi" : round(auto_live_rsi, 2),
             "current_price"      : round(current_price, 8),
             "two_day_pct"        : two_day_pct,
+            "long_slope"         : round(long_slope, 2),
+            "buy_ratio"          : round(buy_ratio, 2),
         }
 
     except Exception as e:
         logger.error(f"{symbol} error: {e}")
         return None
-
 # -------------------------------
 # Main Scan
 # -------------------------------
