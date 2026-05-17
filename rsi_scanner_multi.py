@@ -1,12 +1,29 @@
+import os
 import requests
 import pandas as pd
 import time
 import logging
+from pathlib import Path
 from ta.momentum import RSIIndicator
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from time_util import scan_timestamp
+from notify_telegram import format_matches_message, send_telegram, telegram_configured
 from requests.adapters import HTTPAdapter
 
+
+def _load_dotenv(path: Path) -> None:
+    if not path.is_file():
+        return
+    for line in path.read_text(encoding="utf-8").splitlines():
+        line = line.strip()
+        if not line or line.startswith("#") or "=" not in line:
+            continue
+        key, _, val = line.partition("=")
+        os.environ.setdefault(key.strip(), val.strip().strip('"').strip("'"))
+
+
+_PROJECT_DIR = Path(__file__).resolve().parent
+_load_dotenv(_PROJECT_DIR / ".env")
 
 logging.basicConfig(
     level=logging.INFO,
@@ -23,6 +40,10 @@ session.mount("http://", adapter)
 
 last_alert_time = {}
 ALERT_COOLDOWN = 1800  # 30 min
+
+# Telegram (set TELEGRAM_BOT_TOKEN + TELEGRAM_CHAT_ID in .env)
+NOTIFY_TELEGRAM = os.environ.get("NOTIFY_TELEGRAM", "1").strip().lower() in ("1", "true", "yes", "on")
+SCAN_SLEEP_S = int(os.environ.get("SCAN_SLEEP_S", "150"))
 
 # 2-day uptrend on 1h bars: 48 closed hours ≈ 2 days (no extra API call)
 TWO_DAY_BARS = 48
@@ -176,15 +197,7 @@ def scan():
         for future in as_completed(futures):
             result = future.result()
             if result:
-                logger.info(
-                    f"MATCH: {result['symbol']} | "
-                    f"1h: {result['rsi_prev']} → {result['rsi_closed']} | "
-                    f"Manual Live RSI: {result['manual_live_rsi']} | "
-                    f"RSIIndicator RSI: {result['indicator_live_rsi']} | "
-                    f"2d%: {result['two_day_pct']} | "
-                    f"Price: {result['current_price']}"
-                )
-                matches.append(result)
+              matches.append(result)
 
     print(f"\nScan done in {round(time.time() - start, 2)}s")
 
@@ -215,6 +228,19 @@ def scan():
                     f"Price: {m['current_price']}\n"
                 )
             f.write(f"Total: {len(matches)}\n\n")
+        if NOTIFY_TELEGRAM and telegram_configured():
+            ok = send_telegram(
+                format_matches_message(matches, f"RSI matches — {scan_timestamp()}")
+            )
+            if ok:
+                logger.info("Telegram sent (%s matches)", len(matches))
+            else:
+                logger.warning("Telegram send failed (see warnings above)")
+        elif NOTIFY_TELEGRAM:
+            logger.warning(
+                "Telegram skipped: create %s with TELEGRAM_BOT_TOKEN and TELEGRAM_CHAT_ID",
+                _PROJECT_DIR / ".env",
+            )
     else:
         print("No matches found.\n")
 
@@ -222,8 +248,21 @@ def scan():
 # MAIN LOOP
 # -------------------------------
 if __name__ == "__main__":
-    logger.info("Scanner started")
+    env_file = _PROJECT_DIR / ".env"
+    if NOTIFY_TELEGRAM and not telegram_configured():
+        logger.warning(
+            "Telegram not configured — alerts will NOT be sent. "
+            "Run: cp .env.example .env  then set TELEGRAM_BOT_TOKEN and TELEGRAM_CHAT_ID in %s",
+            env_file,
+        )
+    logger.info(
+        "Scanner started (NOTIFY_TELEGRAM=%s, telegram_ok=%s, .env=%s, SCAN_SLEEP_S=%s)",
+        NOTIFY_TELEGRAM,
+        telegram_configured(),
+        env_file.is_file(),
+        SCAN_SLEEP_S,
+    )
     while True:
         scan()
-        logger.info("Sleeping 2.5 minutes...\n")
-        time.sleep(150)
+        logger.info("Sleeping %s seconds (%.1f min)\n", SCAN_SLEEP_S, SCAN_SLEEP_S / 60)
+        time.sleep(SCAN_SLEEP_S)

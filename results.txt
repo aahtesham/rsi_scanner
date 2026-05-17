@@ -2018,3 +2018,81 @@ Total: 1
 SYSUSDT      | 1h RSI: 45.97 → 47.65 | Manual Live RSI: 49.47 | RSIIndicator Live RSI: 50.14 | 2d up: 5.07% | Price: 0.00586
 Total: 1
 
+
+=== MATCHES === 2026-05-17 21:01 (+03:00)
+ATOMUSDT     | 1h RSI: 51.02 → 52.26 | Manual Live RSI: 50.0 | RSIIndicator Live RSI: 53.52 | 2d up: 5.07% | Price: 2.057
+DUSDT        | 1h RSI: 49.01 → 51.42 | Manual Live RSI: 50.0 | RSIIndicator Live RSI: 50.63 | 2d up: 3.57% | Price: 0.01389
+Total: 2
+
+
+=== MATCHES === 2026-05-17 21:04 (+03:00)
+CHZUSDT      | 1h RSI: 47.53 → 49.33 | Manual Live RSI: 48.48 | RSIIndicator Live RSI: 50.07 | 2d up: 6.37% | Price: 0.04766
+Total: 1
+
+
+=== MATCHES === 2026-05-17 21:32 (+03:00)
+ATOMUSDT     | 1h RSI: 51.02 → 52.26 | Manual Live RSI: 46.76 | RSIIndicator Live RSI: 50.54 | 2d up: 5.07% | Price: 2.048
+Total: 1
+
+
+=== MATCHES === 2026-05-17 21:34 (+03:00)
+CHZUSDT      | 1h RSI: 47.53 → 49.33 | Manual Live RSI: 48.93 | RSIIndicator Live RSI: 50.57 | 2d up: 6.37% | Price: 0.04773
+Total: 1
+
+
+=== MATCHES === 2026-05-17 21:51 (+03:00)
+DUSDT        | 1h RSI: 49.01 → 51.42 | Manual Live RSI: 49.52 | RSIIndicator Live RSI: 50.05 | 2d up: 3.57% | Price: 0.01386
+Total: 1
+
+
+=== MATCHES === 2026-05-17 23:00 (+03:00)
+FFUSDT       | 1h RSI: 51.31 → 52.84 | Manual Live RSI: 61.52 | RSIIndicator Live RSI: 52.92 | 2d up: 3.37% | Price: 0.09002
+Total: 1
+
+
+=== MATCHES === 2026-05-17 23:32 (+03:00)
+FFUSDT       | 1h RSI: 51.31 → 52.84 | Manual Live RSI: 61.89 | RSIIndicator Live RSI: 53.44 | 2d up: 3.37% | Price: 0.09016
+Total: 1
+
+
+=== MATCHES === 2026-05-18 00:03 (+03:00)
+ORCAUSDT     | 1h RSI: 50.47 → 52.21 | Manual Live RSI: 64.08 | RSIIndicator Live RSI: 52.98 | 2d up: 4.63% | Price: 1.517
+DUSDT        | 1h RSI: 50.88 → 51.9 | Manual Live RSI: 54.18 | RSIIndicator Live RSI: 51.21 | 2d up: 1.6% | Price: 0.01392
+BERAUSDT     | 1h RSI: 48.06 → 50.62 | Manual Live RSI: 50.0 | RSIIndicator Live RSI: 50.62 | 2d up: 0.82% | Price: 0.371
+Total: 3
+
+
+=== MATCHES === 2026-05-18 00:09 (+03:00)
+ORCAUSDT     | 1h RSI: 50.47 → 52.21 | Manual Live RSI: 64.08 | RSIIndicator Live RSI: 52.98 | 2d up: 4.63% | Price: 1.517
+DUSDT        | 1h RSI: 50.88 → 51.9 | Manual Live RSI: 55.48 | RSIIndicator Live RSI: 52.96 | 2d up: 1.6% | Price: 0.014
+BERAUSDT     | 1h RSI: 48.06 → 50.62 | Manual Live RSI: 53.33 | RSIIndicator Live RSI: 53.11 | 2d up: 0.82% | Price: 0.372
+Total: 3
+
+
+=== MATCHES === 2026-05-18 00:11 (+03:00)
+ORCAUSDT     | 1h RSI: 50.47 → 52.21 | Manual Live RSI: 63.83 | RSIIndicator Live RSI: 52.72 | 2d up: 4.63% | Price: 1.516
+DUSDT        | 1h RSI: 50.88 → 51.9 | Manual Live RSI: 54.73 | RSIIndicator Live RSI: 51.9 | 2d up: 1.6% | Price: 0.01395
+BERAUSDT     | 1h RSI: 48.06 → 50.62 | Manual Live RSI: 53.33 | RSIIndicator Live RSI: 53.11 | 2d up: 0.82% | Price: 0.372
+Total: 3
+
+
+=== MATCHES === 2026-05-18 00:14 (+03:00)
+ORCAUSDT     | 1h RSI: 50.47 → 52.21 | Manual Live RSI: 64.08 | RSIIndicator Live RSI: 52.98 | 2d up: 4.63% | Price: 1.517
+DUSDT        | 1h RSI: 50.88 → 51.9 | Manual Live RSI: 54.18 | RSIIndicator Live RSI: 51.21 | 2d up: 1.6% | Price: 0.01392
+BERAUSDT     | 1h RSI: 48.06 → 50.62 | Manual Live RSI: 53.33 | RSIIndicator Live RSI: 53.11 | 2d up: 0.82% | Price: 0.372
+Total: 3
+
+
+=== MATCHES === 2026-05-18 00:33 (+03:00)
+ORCAUSDT     | 1h RSI: 50.47 → 52.21 | Manual Live RSI: 64.08 | RSIIndicator Live RSI: 52.98 | 2d up: 4.63% | Price: 1.517
+DUSDT        | 1h RSI: 50.88 → 51.9 | Manual Live RSI: 55.78 | RSIIndicator Live RSI: 53.37 | 2d up: 1.6% | Price: 0.01402
+BERAUSDT     | 1h RSI: 48.06 → 50.62 | Manual Live RSI: 61.11 | RSIIndicator Live RSI: 59.27 | 2d up: 0.82% | Price: 0.375
+Total: 3
+
+
+=== MATCHES === 2026-05-18 00:41 (+03:00)
+ORCAUSDT     | 1h RSI: 50.47 → 52.21 | Manual Live RSI: 64.34 | RSIIndicator Live RSI: 53.23 | 2d up: 4.63% | Price: 1.518
+DUSDT        | 1h RSI: 50.88 → 51.9 | Manual Live RSI: 55.18 | RSIIndicator Live RSI: 52.54 | 2d up: 1.6% | Price: 0.01398
+BERAUSDT     | 1h RSI: 48.06 → 50.62 | Manual Live RSI: 61.11 | RSIIndicator Live RSI: 59.27 | 2d up: 0.82% | Price: 0.375
+Total: 3
+
