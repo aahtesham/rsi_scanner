@@ -1200,3 +1200,821 @@ Total: 1
 USTCUSDT     | 1h RSI: 50.17 → 51.89 | Manual Live RSI: 63.41 | RSIIndicator Live RSI: 54.7 | Price: 0.00657
 Total: 1
 
+
+=== MATCHES === 2026-05-17 13:22 UTC
+HOTUSDT      | 1h RSI: 47.62 → 49.79 | Manual Live RSI: 47.37 | RSIIndicator Live RSI: 51.93 | Price: 0.000409
+ZRXUSDT      | 1h RSI: 45.97 → 48.58 | Manual Live RSI: 50.0 | RSIIndicator Live RSI: 50.31 | Price: 0.109
+DOGEUSDT     | 1h RSI: 47.36 → 49.98 | Manual Live RSI: 53.38 | RSIIndicator Live RSI: 50.82 | Price: 0.11009
+GALAUSDT     | 1h RSI: 50.4 → 52.55 | Manual Live RSI: 60.87 | RSIIndicator Live RSI: 52.55 | Price: 0.00344
+IQUSDT       | 1h RSI: 49.92 → 52.34 | Manual Live RSI: 63.89 | RSIIndicator Live RSI: 50.58 | Price: 0.001088
+VICUSDT      | 1h RSI: 49.92 → 50.96 | Manual Live RSI: 46.58 | RSIIndicator Live RSI: 54.5 | Price: 0.0626
+FORMUSDT     | 1h RSI: 48.66 → 52.61 | Manual Live RSI: 56.46 | RSIIndicator Live RSI: 51.8 | Price: 0.2538
+HEMIUSDT     | 1h RSI: 46.54 → 49.82 | Manual Live RSI: 58.06 | RSIIndicator Live RSI: 51.43 | Price: 0.00774
+MANTRAUSDT   | 1h RSI: 45.51 → 51.33 | Manual Live RSI: 60.0 | RSIIndicator Live RSI: 52.02 | Price: 0.00983
+Total: 9
+
+
+=== MATCHES === 2026-05-17 15:12 UTC
+SCRTUSDT     | 1h RSI: 43.29 → 49.55 | Slope: 6.26/6.13 | Live RSI: 50.39 | Price: 0.086 | just crossed 50
+TURTLEUSDT   | 1h RSI: 45.92 → 47.71 | Slope: 1.78/7.46 | Live RSI: 51.17 | Price: 0.0465 | just crossed 50
+Total: 2
+
+
+=== MATCHES === 2026-05-17 15:23 UTC
+ONTUSDT      | 1h RSI: 41.08 → 47.05 | Manual Live RSI: 69.01 | RSIIndicator Live RSI: 50.83 | Price: 0.05817
+RVNUSDT      | 1h RSI: 46.19 → 48.68 | Manual Live RSI: 66.67 | RSIIndicator Live RSI: 51.13 | Price: 0.00562
+C98USDT      | 1h RSI: 42.69 → 47.32 | Manual Live RSI: 63.64 | RSIIndicator Live RSI: 51.53 | Price: 0.02
+POWRUSDT     | 1h RSI: 46.9 → 52.86 | Manual Live RSI: 65.71 | RSIIndicator Live RSI: 51.31 | Price: 0.0643
+ORCAUSDT     | 1h RSI: 48.45 → 52.93 | Manual Live RSI: 45.93 | RSIIndicator Live RSI: 56.33 | Price: 1.524
+BERAUSDT     | 1h RSI: 45.92 → 48.08 | Manual Live RSI: 66.67 | RSIIndicator Live RSI: 50.21 | Price: 0.371
+BABYUSDT     | 1h RSI: 49.57 → 51.8 | Manual Live RSI: 64.52 | RSIIndicator Live RSI: 51.8 | Price: 0.01892
+RLUSDUSDT    | 1h RSI: 41.93 → 51.5 | Manual Live RSI: 57.14 | RSIIndicator Live RSI: 51.5 | Price: 1.0003
+Total: 8
+
+
+=== MATCHES === 2026-05-17 15:26 UTC
+DOLOUSDT     | 1h RSI: 45.19 → 52.52 | Manual Live RSI: 65.64 | RSIIndicator Live RSI: 50.12 | Price: 0.03135
+Total: 1
+
+
+=== MATCHES === 2026-05-17 15:29 UTC
+HMSTRUSDT    | 1h RSI: 38.55 → 47.4 | Manual Live RSI: 64.29 | RSIIndicator Live RSI: 50.36 | Price: 0.0001551
+HUMAUSDT     | 1h RSI: 50.48 → 51.74 | Manual Live RSI: 58.04 | RSIIndicator Live RSI: 50.36 | Price: 0.02367
+Total: 2
+
+
+=== MATCHES === 2026-05-17 15:31 UTC
+NOTUSDT      | 1h RSI: 49.76 → 51.31 | Manual Live RSI: 70.97 | RSIIndicator Live RSI: 51.31 | Price: 0.000508
+SCRUSDT      | 1h RSI: 42.39 → 49.52 | Manual Live RSI: 63.32 | RSIIndicator Live RSI: 50.04 | Price: 0.04602
+Total: 2
+
+
+=== MATCHES === 2026-05-17 15:34 UTC
+BMTUSDT      | 1h RSI: 40.76 → 50.82 | Manual Live RSI: 66.0 | RSIIndicator Live RSI: 50.82 | Price: 0.01609
+ZKPUSDT      | 1h RSI: 44.08 → 49.62 | Manual Live RSI: 57.58 | RSIIndicator Live RSI: 50.93 | Price: 0.0721
+Total: 2
+
+
+=== MATCHES === 2026-05-17 15:54 UTC
+ONTUSDT      | 1h RSI: 41.08 → 47.05 | Manual Live RSI: 68.57 | RSIIndicator Live RSI: 50.27 | Price: 0.05814
+RVNUSDT      | 1h RSI: 46.19 → 48.68 | Manual Live RSI: 69.57 | RSIIndicator Live RSI: 55.38 | Price: 0.00564
+C98USDT      | 1h RSI: 42.69 → 47.32 | Manual Live RSI: 63.64 | RSIIndicator Live RSI: 51.53 | Price: 0.02
+POWRUSDT     | 1h RSI: 46.9 → 52.86 | Manual Live RSI: 65.71 | RSIIndicator Live RSI: 51.31 | Price: 0.0643
+ORCAUSDT     | 1h RSI: 48.45 → 52.93 | Manual Live RSI: 43.64 | RSIIndicator Live RSI: 54.81 | Price: 1.517
+BABYUSDT     | 1h RSI: 49.57 → 51.8 | Manual Live RSI: 68.93 | RSIIndicator Live RSI: 57.36 | Price: 0.01914
+RLUSDUSDT    | 1h RSI: 41.93 → 51.5 | Manual Live RSI: 57.14 | RSIIndicator Live RSI: 51.5 | Price: 1.0003
+Total: 7
+
+
+=== MATCHES === 2026-05-17 15:56 UTC
+BERAUSDT     | 1h RSI: 45.92 → 48.08 | Manual Live RSI: 66.67 | RSIIndicator Live RSI: 50.21 | Price: 0.371
+DOLOUSDT     | 1h RSI: 45.19 → 52.52 | Manual Live RSI: 66.88 | RSIIndicator Live RSI: 50.99 | Price: 0.03138
+Total: 2
+
+
+=== MATCHES === 2026-05-17 16:02 UTC
+HIVEUSDT     | 1h RSI: 46.42 → 48.4 | Manual Live RSI: 68.18 | RSIIndicator Live RSI: 50.37 | Price: 0.06
+LDOUSDT      | 1h RSI: 45.91 → 49.21 | Manual Live RSI: 60.0 | RSIIndicator Live RSI: 50.69 | Price: 0.3569
+CGPTUSDT     | 1h RSI: 49.78 → 51.01 | Manual Live RSI: 62.18 | RSIIndicator Live RSI: 51.75 | Price: 0.03663
+MUBARAKUSDT  | 1h RSI: 46.88 → 49.07 | Manual Live RSI: 67.42 | RSIIndicator Live RSI: 50.7 | Price: 0.01414
+CFGUSDT      | 1h RSI: 45.77 → 48.45 | Manual Live RSI: 66.05 | RSIIndicator Live RSI: 51.25 | Price: 0.2629
+NIGHTUSDT    | 1h RSI: 45.99 → 52.65 | Manual Live RSI: 56.04 | RSIIndicator Live RSI: 54.17 | Price: 0.03209
+Total: 6
+
+
+=== MATCHES === 2026-05-17 16:05 UTC
+ACXUSDT      | 1h RSI: 48.56 → 51.76 | Manual Live RSI: 61.11 | RSIIndicator Live RSI: 54.79 | Price: 0.0427
+VIRTUALUSDT  | 1h RSI: 45.0 → 47.38 | Manual Live RSI: 72.96 | RSIIndicator Live RSI: 50.31 | Price: 0.7278
+Total: 2
+
+
+=== MATCHES === 2026-05-17 16:08 UTC
+HOTUSDT      | 1h RSI: 43.69 → 46.5 | Manual Live RSI: 63.16 | RSIIndicator Live RSI: 51.7 | Price: 0.000408
+Total: 1
+
+
+=== MATCHES === 2026-05-17 16:10 UTC
+GUSDT        | 1h RSI: 44.73 → 49.25 | Manual Live RSI: 64.0 | RSIIndicator Live RSI: 53.37 | Price: 0.00358
+NOMUSDT      | 1h RSI: 41.02 → 47.4 | Manual Live RSI: 55.56 | RSIIndicator Live RSI: 50.3 | Price: 0.0023
+Total: 2
+
+
+=== MATCHES === 2026-05-17 16:16 UTC
+GTCUSDT      | 1h RSI: 44.57 → 49.14 | Manual Live RSI: 54.55 | RSIIndicator Live RSI: 53.29 | Price: 0.103
+Total: 1
+
+
+=== MATCHES === 2026-05-17 16:19 UTC
+ROSEUSDT     | 1h RSI: 44.93 → 47.69 | Manual Live RSI: 66.1 | RSIIndicator Live RSI: 51.19 | Price: 0.01011
+AMPUSDT      | 1h RSI: 42.94 → 46.3 | Manual Live RSI: 64.52 | RSIIndicator Live RSI: 52.34 | Price: 0.00086
+MAGICUSDT    | 1h RSI: 42.42 → 45.54 | Manual Live RSI: 62.16 | RSIIndicator Live RSI: 51.23 | Price: 0.0638
+Total: 3
+
+RISK OFF — no scan at 2026-05-17 16:20 UTC
+
+======================================================================
+INSTITUTIONAL SCAN — 2026-05-17 16:23 UTC
+BTC: risk_off | Scanned: 433 | Matches: 60 | Time: 148.62s
+======================================================================
+
+USDCUSDT       | Price: 1.00026 | Live RSI: 61.37
+  Overall    : STRONG BUY  B:28 N:5 S:1
+  Oscillators: STRONG BUY  B:4 N:5 S:1
+  Mov. Avgs  : STRONG BUY  B:24 N:0 S:0
+  Osc detail : RSI:N  Stoch %K:N  CCI:S  ADX:B  MACD:B  ROC:B  Bull Bear Power:B  Williams %R:N  Stoch RSI:N  Ult. Oscillator:N
+  MA detail  : BUY: SMA10, SMA20, SMA30, SMA50, SMA100, SMA200...  |  SELL: 
+  Stop: N/A | Target: N/A | RR: N/A:1
+
+DUSKUSDT       | Price: 0.1627 | Live RSI: 74.81
+  Overall    : STRONG BUY  B:28 N:2 S:4
+  Oscillators: NEUTRAL  B:4 N:2 S:4
+  Mov. Avgs  : STRONG BUY  B:24 N:0 S:0
+  Osc detail : RSI:S  Stoch %K:S  CCI:S  ADX:B  MACD:B  ROC:B  Bull Bear Power:B  Williams %R:S  Stoch RSI:N  Ult. Oscillator:N
+  MA detail  : BUY: SMA10, SMA20, SMA30, SMA50, SMA100, SMA200...  |  SELL: 
+  Stop: N/A | Target: N/A | RR: N/A:1
+
+APEUSDT        | Price: 0.1577 | Live RSI: 81.16
+  Overall    : STRONG BUY  B:28 N:4 S:2
+  Oscillators: BUY  B:4 N:4 S:2
+  Mov. Avgs  : STRONG BUY  B:24 N:0 S:0
+  Osc detail : RSI:S  Stoch %K:N  CCI:S  ADX:B  MACD:B  ROC:B  Bull Bear Power:B  Williams %R:N  Stoch RSI:N  Ult. Oscillator:N
+  MA detail  : BUY: SMA10, SMA20, SMA30, SMA50, SMA100, SMA200...  |  SELL: 
+  Stop: N/A | Target: N/A | RR: N/A:1
+
+VICUSDT        | Price: 0.0631 | Live RSI: 55.46
+  Overall    : STRONG BUY  B:28 N:5 S:1
+  Oscillators: STRONG BUY  B:4 N:5 S:1
+  Mov. Avgs  : STRONG BUY  B:24 N:0 S:0
+  Osc detail : RSI:N  Stoch %K:N  CCI:S  ADX:B  MACD:B  ROC:B  Bull Bear Power:B  Williams %R:N  Stoch RSI:N  Ult. Oscillator:N
+  MA detail  : BUY: SMA10, SMA20, SMA30, SMA50, SMA100, SMA200...  |  SELL: 
+  Stop: N/A | Target: N/A | RR: N/A:1
+
+KAIAUSDT       | Price: 0.0562 | Live RSI: 89.05
+  Overall    : STRONG BUY  B:28 N:3 S:3
+  Oscillators: BUY  B:4 N:3 S:3
+  Mov. Avgs  : STRONG BUY  B:24 N:0 S:0
+  Osc detail : RSI:S  Stoch %K:N  CCI:S  ADX:B  MACD:B  ROC:B  Bull Bear Power:B  Williams %R:S  Stoch RSI:N  Ult. Oscillator:N
+  MA detail  : BUY: SMA10, SMA20, SMA30, SMA50, SMA100, SMA200...  |  SELL: 
+  Stop: N/A | Target: N/A | RR: N/A:1
+
+KAITOUSDT      | Price: 0.497 | Live RSI: 80.84
+  Overall    : STRONG BUY  B:28 N:4 S:2
+  Oscillators: BUY  B:4 N:4 S:2
+  Mov. Avgs  : STRONG BUY  B:24 N:0 S:0
+  Osc detail : RSI:S  Stoch %K:N  CCI:S  ADX:B  MACD:B  ROC:B  Bull Bear Power:B  Williams %R:N  Stoch RSI:N  Ult. Oscillator:N
+  MA detail  : BUY: SMA10, SMA20, SMA30, SMA50, SMA100, SMA200...  |  SELL: 
+  Stop: N/A | Target: N/A | RR: N/A:1
+
+BABYUSDT       | Price: 0.01924 | Live RSI: 59.6
+  Overall    : STRONG BUY  B:28 N:6 S:0
+  Oscillators: STRONG BUY  B:4 N:6 S:0
+  Mov. Avgs  : STRONG BUY  B:24 N:0 S:0
+  Osc detail : RSI:N  Stoch %K:N  CCI:N  ADX:B  MACD:B  ROC:B  Bull Bear Power:B  Williams %R:N  Stoch RSI:N  Ult. Oscillator:N
+  MA detail  : BUY: SMA10, SMA20, SMA30, SMA50, SMA100, SMA200...  |  SELL: 
+  Stop: N/A | Target: N/A | RR: N/A:1
+
+EDENUSDT       | Price: 0.0672 | Live RSI: 96.07
+  Overall    : STRONG BUY  B:28 N:1 S:5
+  Oscillators: SELL  B:4 N:1 S:5
+  Mov. Avgs  : STRONG BUY  B:24 N:0 S:0
+  Osc detail : RSI:S  Stoch %K:S  CCI:S  ADX:B  MACD:B  ROC:B  Bull Bear Power:B  Williams %R:S  Stoch RSI:N  Ult. Oscillator:S
+  MA detail  : BUY: SMA10, SMA20, SMA30, SMA50, SMA100, SMA200...  |  SELL: 
+  Stop: N/A | Target: N/A | RR: N/A:1
+
+UUSDT          | Price: 1.0002 | Live RSI: 52.37
+  Overall    : STRONG BUY  B:28 N:4 S:2
+  Oscillators: BUY  B:4 N:4 S:2
+  Mov. Avgs  : STRONG BUY  B:24 N:0 S:0
+  Osc detail : RSI:N  Stoch %K:N  CCI:S  ADX:B  MACD:B  ROC:B  Bull Bear Power:B  Williams %R:S  Stoch RSI:N  Ult. Oscillator:N
+  MA detail  : BUY: SMA10, SMA20, SMA30, SMA50, SMA100, SMA200...  |  SELL: 
+  Stop: N/A | Target: N/A | RR: N/A:1
+
+ROBOUSDT       | Price: 0.02169 | Live RSI: 71.71
+  Overall    : STRONG BUY  B:28 N:3 S:3
+  Oscillators: BUY  B:4 N:3 S:3
+  Mov. Avgs  : STRONG BUY  B:24 N:0 S:0
+  Osc detail : RSI:S  Stoch %K:N  CCI:S  ADX:B  MACD:B  ROC:B  Bull Bear Power:B  Williams %R:S  Stoch RSI:N  Ult. Oscillator:N
+  MA detail  : BUY: SMA10, SMA20, SMA30, SMA50, SMA100, SMA200...  |  SELL: 
+  Stop: N/A | Target: N/A | RR: N/A:1
+
+TRXUSDT        | Price: 0.3573 | Live RSI: 75.6
+  Overall    : STRONG BUY  B:27 N:2 S:5
+  Oscillators: NEUTRAL  B:4 N:2 S:4
+  Mov. Avgs  : STRONG BUY  B:23 N:0 S:1
+  Osc detail : RSI:S  Stoch %K:N  CCI:S  ADX:B  MACD:B  ROC:B  Bull Bear Power:B  Williams %R:S  Stoch RSI:N  Ult. Oscillator:S
+  MA detail  : BUY: SMA10, SMA20, SMA30, SMA50, SMA100, SMA200...  |  SELL: HMA9
+  Stop: N/A | Target: N/A | RR: N/A:1
+
+MANTAUSDT      | Price: 0.07937 | Live RSI: 68.2
+  Overall    : STRONG BUY  B:27 N:2 S:5
+  Oscillators: NEUTRAL  B:4 N:2 S:4
+  Mov. Avgs  : STRONG BUY  B:23 N:0 S:1
+  Osc detail : RSI:S  Stoch %K:N  CCI:S  ADX:B  MACD:B  ROC:B  Bull Bear Power:B  Williams %R:S  Stoch RSI:N  Ult. Oscillator:S
+  MA detail  : BUY: SMA10, SMA20, SMA30, SMA50, SMA200, EMA10...  |  SELL: SMA100
+  Stop: N/A | Target: N/A | RR: N/A:1
+
+BOMEUSDT       | Price: 0.000596 | Live RSI: 59.52
+  Overall    : STRONG BUY  B:27 N:4 S:3
+  Oscillators: BUY  B:4 N:4 S:2
+  Mov. Avgs  : STRONG BUY  B:23 N:0 S:1
+  Osc detail : RSI:N  Stoch %K:N  CCI:S  ADX:B  MACD:B  ROC:B  Bull Bear Power:B  Williams %R:S  Stoch RSI:N  Ult. Oscillator:N
+  MA detail  : BUY: SMA10, SMA20, SMA30, SMA50, SMA100, EMA10...  |  SELL: SMA200
+  Stop: N/A | Target: N/A | RR: N/A:1
+
+SHELLUSDT      | Price: 0.0384 | Live RSI: 75.56
+  Overall    : STRONG BUY  B:27 N:4 S:3
+  Oscillators: BUY  B:4 N:4 S:2
+  Mov. Avgs  : STRONG BUY  B:23 N:0 S:1
+  Osc detail : RSI:S  Stoch %K:N  CCI:S  ADX:B  MACD:B  ROC:B  Bull Bear Power:B  Williams %R:N  Stoch RSI:N  Ult. Oscillator:N
+  MA detail  : BUY: SMA10, SMA20, SMA30, SMA50, SMA100, EMA10...  |  SELL: SMA200
+  Stop: N/A | Target: N/A | RR: N/A:1
+
+ARPAUSDT       | Price: 0.01204 | Live RSI: 59.66
+  Overall    : STRONG BUY  B:26 N:6 S:2
+  Oscillators: STRONG BUY  B:4 N:6 S:0
+  Mov. Avgs  : STRONG BUY  B:22 N:0 S:2
+  Osc detail : RSI:N  Stoch %K:N  CCI:N  ADX:B  MACD:B  ROC:B  Bull Bear Power:B  Williams %R:N  Stoch RSI:N  Ult. Oscillator:N
+  MA detail  : BUY: SMA10, SMA20, SMA30, SMA50, SMA100, SMA200...  |  SELL: HMA20, VWMA50
+  Stop: N/A | Target: N/A | RR: N/A:1
+
+HOLOUSDT       | Price: 0.0781 | Live RSI: 68.8
+  Overall    : STRONG BUY  B:26 N:5 S:3
+  Oscillators: STRONG BUY  B:4 N:5 S:1
+  Mov. Avgs  : STRONG BUY  B:22 N:0 S:2
+  Osc detail : RSI:N  Stoch %K:N  CCI:N  ADX:B  MACD:B  ROC:B  Bull Bear Power:B  Williams %R:S  Stoch RSI:N  Ult. Oscillator:N
+  MA detail  : BUY: SMA10, SMA20, SMA30, SMA50, SMA100, EMA10...  |  SELL: SMA200, WMA200
+  Stop: N/A | Target: N/A | RR: N/A:1
+
+FFUSDT         | Price: 0.09018 | Live RSI: 53.48
+  Overall    : STRONG BUY  B:26 N:5 S:3
+  Oscillators: STRONG BUY  B:4 N:5 S:1
+  Mov. Avgs  : STRONG BUY  B:22 N:0 S:2
+  Osc detail : RSI:N  Stoch %K:N  CCI:N  ADX:B  MACD:B  ROC:B  Bull Bear Power:B  Williams %R:N  Stoch RSI:S  Ult. Oscillator:N
+  MA detail  : BUY: SMA10, SMA20, SMA30, SMA50, SMA100, SMA200...  |  SELL: HMA9, HMA20
+  Stop: N/A | Target: N/A | RR: N/A:1
+
+DGBUSDT        | Price: 0.00373 | Live RSI: 57.67
+  Overall    : STRONG BUY  B:25 N:4 S:5
+  Oscillators: BUY  B:4 N:4 S:2
+  Mov. Avgs  : STRONG BUY  B:21 N:0 S:3
+  Osc detail : RSI:N  Stoch %K:N  CCI:S  ADX:B  MACD:B  ROC:B  Bull Bear Power:B  Williams %R:S  Stoch RSI:N  Ult. Oscillator:N
+  MA detail  : BUY: SMA10, SMA20, SMA30, SMA50, SMA100, EMA10...  |  SELL: SMA200, EMA200, WMA200
+  Stop: N/A | Target: N/A | RR: N/A:1
+
+PNUTUSDT       | Price: 0.061 | Live RSI: 56.09
+  Overall    : STRONG BUY  B:25 N:6 S:3
+  Oscillators: STRONG BUY  B:4 N:6 S:0
+  Mov. Avgs  : STRONG BUY  B:21 N:0 S:3
+  Osc detail : RSI:N  Stoch %K:N  CCI:N  ADX:B  MACD:B  ROC:B  Bull Bear Power:B  Williams %R:N  Stoch RSI:N  Ult. Oscillator:N
+  MA detail  : BUY: SMA10, SMA20, SMA30, SMA50, SMA100, SMA200...  |  SELL: WMA10, HMA9, HMA20
+  Stop: N/A | Target: N/A | RR: N/A:1
+
+COOKIEUSDT     | Price: 0.0176 | Live RSI: 67.36
+  Overall    : STRONG BUY  B:25 N:4 S:5
+  Oscillators: BUY  B:4 N:4 S:2
+  Mov. Avgs  : STRONG BUY  B:21 N:0 S:3
+  Osc detail : RSI:N  Stoch %K:N  CCI:S  ADX:B  MACD:B  ROC:B  Bull Bear Power:B  Williams %R:S  Stoch RSI:N  Ult. Oscillator:N
+  MA detail  : BUY: SMA10, SMA20, SMA30, SMA50, SMA100, EMA10...  |  SELL: SMA200, EMA200, WMA200
+  Stop: N/A | Target: N/A | RR: N/A:1
+
+ZBTUSDT        | Price: 0.1637 | Live RSI: 54.65
+  Overall    : STRONG BUY  B:25 N:6 S:3
+  Oscillators: STRONG BUY  B:4 N:6 S:0
+  Mov. Avgs  : STRONG BUY  B:21 N:0 S:3
+  Osc detail : RSI:N  Stoch %K:N  CCI:N  ADX:B  MACD:B  ROC:B  Bull Bear Power:B  Williams %R:N  Stoch RSI:N  Ult. Oscillator:N
+  MA detail  : BUY: SMA10, SMA20, SMA30, SMA50, SMA100, SMA200...  |  SELL: WMA10, HMA9, HMA20
+  Stop: N/A | Target: N/A | RR: N/A:1
+
+币安人生USDT       | Price: 0.411 | Live RSI: 53.14
+  Overall    : STRONG BUY  B:25 N:6 S:3
+  Oscillators: STRONG BUY  B:4 N:6 S:0
+  Mov. Avgs  : STRONG BUY  B:21 N:0 S:3
+  Osc detail : RSI:N  Stoch %K:N  CCI:N  ADX:B  MACD:B  ROC:B  Bull Bear Power:B  Williams %R:N  Stoch RSI:N  Ult. Oscillator:N
+  MA detail  : BUY: SMA20, SMA30, SMA50, SMA100, SMA200, EMA10...  |  SELL: SMA10, WMA10, HMA20
+  Stop: N/A | Target: N/A | RR: N/A:1
+
+REQUSDT        | Price: 0.0692 | Live RSI: 61.87
+  Overall    : STRONG BUY  B:24 N:4 S:6
+  Oscillators: BUY  B:4 N:4 S:2
+  Mov. Avgs  : STRONG BUY  B:20 N:0 S:4
+  Osc detail : RSI:N  Stoch %K:N  CCI:S  ADX:B  MACD:B  ROC:B  Bull Bear Power:B  Williams %R:S  Stoch RSI:N  Ult. Oscillator:N
+  MA detail  : BUY: SMA10, SMA20, SMA30, SMA50, SMA100, EMA10...  |  SELL: SMA200, EMA200, WMA200, HMA20
+  Stop: N/A | Target: N/A | RR: N/A:1
+
+ORCAUSDT       | Price: 1.53 | Live RSI: 57.76
+  Overall    : STRONG BUY  B:24 N:6 S:4
+  Oscillators: STRONG BUY  B:4 N:6 S:0
+  Mov. Avgs  : STRONG BUY  B:20 N:0 S:4
+  Osc detail : RSI:N  Stoch %K:N  CCI:N  ADX:B  MACD:B  ROC:B  Bull Bear Power:B  Williams %R:N  Stoch RSI:N  Ult. Oscillator:N
+  MA detail  : BUY: SMA10, SMA20, SMA30, SMA50, SMA100, EMA10...  |  SELL: SMA200, EMA200, VWMA20, VWMA50
+  Stop: N/A | Target: N/A | RR: N/A:1
+
+OPENUSDT       | Price: 0.1847 | Live RSI: 68.34
+  Overall    : STRONG BUY  B:24 N:2 S:8
+  Oscillators: NEUTRAL  B:4 N:2 S:4
+  Mov. Avgs  : STRONG BUY  B:20 N:0 S:4
+  Osc detail : RSI:N  Stoch %K:S  CCI:S  ADX:B  MACD:B  ROC:B  Bull Bear Power:B  Williams %R:S  Stoch RSI:S  Ult. Oscillator:N
+  MA detail  : BUY: SMA10, SMA20, SMA30, SMA50, SMA100, EMA10...  |  SELL: SMA200, EMA200, HMA9, HMA20
+  Stop: N/A | Target: N/A | RR: N/A:1
+
+MIRAUSDT       | Price: 0.0814 | Live RSI: 62.34
+  Overall    : STRONG BUY  B:24 N:3 S:7
+  Oscillators: BUY  B:4 N:3 S:3
+  Mov. Avgs  : STRONG BUY  B:20 N:0 S:4
+  Osc detail : RSI:N  Stoch %K:S  CCI:S  ADX:B  MACD:B  ROC:B  Bull Bear Power:B  Williams %R:S  Stoch RSI:N  Ult. Oscillator:N
+  MA detail  : BUY: SMA10, SMA20, SMA30, SMA50, SMA100, EMA10...  |  SELL: SMA200, EMA200, WMA200, HMA9
+  Stop: N/A | Target: N/A | RR: N/A:1
+
+FLOWUSDT       | Price: 0.03707 | Live RSI: 61.49
+  Overall    : STRONG BUY  B:23 N:5 S:6
+  Oscillators: STRONG BUY  B:4 N:5 S:1
+  Mov. Avgs  : STRONG BUY  B:19 N:0 S:5
+  Osc detail : RSI:N  Stoch %K:N  CCI:N  ADX:B  MACD:B  ROC:B  Bull Bear Power:B  Williams %R:S  Stoch RSI:N  Ult. Oscillator:N
+  MA detail  : BUY: SMA10, SMA20, SMA30, SMA50, EMA10, EMA20...  |  SELL: SMA100, SMA200, EMA100, EMA200
+  Stop: N/A | Target: N/A | RR: N/A:1
+
+USUALUSDT      | Price: 0.01432 | Live RSI: 58.41
+  Overall    : STRONG BUY  B:23 N:3 S:8
+  Oscillators: BUY  B:4 N:3 S:3
+  Mov. Avgs  : STRONG BUY  B:19 N:0 S:5
+  Osc detail : RSI:N  Stoch %K:S  CCI:S  ADX:B  MACD:B  ROC:B  Bull Bear Power:B  Williams %R:S  Stoch RSI:N  Ult. Oscillator:N
+  MA detail  : BUY: SMA10, SMA20, SMA30, SMA50, EMA10, EMA20...  |  SELL: SMA100, SMA200, EMA100, EMA200
+  Stop: N/A | Target: N/A | RR: N/A:1
+
+EPICUSDT       | Price: 0.307 | Live RSI: 67.16
+  Overall    : STRONG BUY  B:23 N:5 S:6
+  Oscillators: STRONG BUY  B:4 N:5 S:1
+  Mov. Avgs  : STRONG BUY  B:19 N:0 S:5
+  Osc detail : RSI:N  Stoch %K:N  CCI:S  ADX:B  MACD:B  ROC:B  Bull Bear Power:B  Williams %R:N  Stoch RSI:N  Ult. Oscillator:N
+  MA detail  : BUY: SMA10, SMA20, SMA30, SMA50, EMA10, EMA20...  |  SELL: SMA100, SMA200, EMA100, EMA200
+  Stop: N/A | Target: N/A | RR: N/A:1
+
+NILUSDT        | Price: 0.04986 | Live RSI: 52.4
+  Overall    : STRONG BUY  B:23 N:5 S:6
+  Oscillators: STRONG BUY  B:4 N:5 S:1
+  Mov. Avgs  : STRONG BUY  B:19 N:0 S:5
+  Osc detail : RSI:N  Stoch %K:N  CCI:N  ADX:B  MACD:B  ROC:B  Bull Bear Power:B  Williams %R:S  Stoch RSI:N  Ult. Oscillator:N
+  MA detail  : BUY: SMA10, SMA20, SMA30, SMA50, EMA10, EMA20...  |  SELL: SMA100, SMA200, EMA100, EMA200
+  Stop: N/A | Target: N/A | RR: N/A:1
+
+HEMIUSDT       | Price: 0.00806 | Live RSI: 69.02
+  Overall    : STRONG BUY  B:23 N:3 S:8
+  Oscillators: BUY  B:4 N:3 S:3
+  Mov. Avgs  : STRONG BUY  B:19 N:0 S:5
+  Osc detail : RSI:N  Stoch %K:S  CCI:S  ADX:B  MACD:B  ROC:B  Bull Bear Power:B  Williams %R:S  Stoch RSI:N  Ult. Oscillator:N
+  MA detail  : BUY: SMA10, SMA20, SMA30, SMA50, EMA10, EMA20...  |  SELL: SMA100, SMA200, EMA100, EMA200
+  Stop: N/A | Target: N/A | RR: N/A:1
+
+OPNUSDT        | Price: 0.1747 | Live RSI: 66.17
+  Overall    : STRONG BUY  B:23 N:4 S:7
+  Oscillators: BUY  B:4 N:4 S:2
+  Mov. Avgs  : STRONG BUY  B:19 N:0 S:5
+  Osc detail : RSI:N  Stoch %K:N  CCI:S  ADX:B  MACD:B  ROC:B  Bull Bear Power:B  Williams %R:S  Stoch RSI:N  Ult. Oscillator:N
+  MA detail  : BUY: SMA10, SMA20, SMA30, SMA50, EMA10, EMA20...  |  SELL: SMA100, SMA200, EMA100, EMA200
+  Stop: N/A | Target: N/A | RR: N/A:1
+
+SUNUSDT        | Price: 0.01971 | Live RSI: 62.81
+  Overall    : STRONG BUY  B:22 N:3 S:9
+  Oscillators: BUY  B:4 N:3 S:3
+  Mov. Avgs  : STRONG BUY  B:18 N:0 S:6
+  Osc detail : RSI:N  Stoch %K:N  CCI:S  ADX:B  MACD:B  ROC:B  Bull Bear Power:B  Williams %R:S  Stoch RSI:N  Ult. Oscillator:S
+  MA detail  : BUY: SMA10, SMA20, SMA30, SMA50, EMA10, EMA20...  |  SELL: SMA100, SMA200, EMA100, EMA200
+  Stop: N/A | Target: N/A | RR: N/A:1
+
+API3USDT       | Price: 0.3517 | Live RSI: 68.02
+  Overall    : STRONG BUY  B:22 N:4 S:8
+  Oscillators: BUY  B:4 N:4 S:2
+  Mov. Avgs  : STRONG BUY  B:18 N:0 S:6
+  Osc detail : RSI:N  Stoch %K:N  CCI:S  ADX:B  MACD:B  ROC:B  Bull Bear Power:B  Williams %R:S  Stoch RSI:N  Ult. Oscillator:N
+  MA detail  : BUY: SMA10, SMA20, SMA30, SMA50, EMA10, EMA20...  |  SELL: SMA100, SMA200, EMA100, EMA200
+  Stop: N/A | Target: N/A | RR: N/A:1
+
+TOWNSUSDT      | Price: 0.00325 | Live RSI: 65.52
+  Overall    : STRONG BUY  B:22 N:5 S:7
+  Oscillators: STRONG BUY  B:4 N:5 S:1
+  Mov. Avgs  : STRONG BUY  B:18 N:0 S:6
+  Osc detail : RSI:N  Stoch %K:N  CCI:S  ADX:B  MACD:B  ROC:B  Bull Bear Power:B  Williams %R:N  Stoch RSI:N  Ult. Oscillator:N
+  MA detail  : BUY: SMA10, SMA20, SMA30, SMA50, EMA10, EMA20...  |  SELL: SMA100, SMA200, EMA100, EMA200
+  Stop: N/A | Target: N/A | RR: N/A:1
+
+ALLOUSDT       | Price: 0.0871 | Live RSI: 59.91
+  Overall    : STRONG BUY  B:22 N:6 S:6
+  Oscillators: STRONG BUY  B:4 N:6 S:0
+  Mov. Avgs  : STRONG BUY  B:18 N:0 S:6
+  Osc detail : RSI:N  Stoch %K:N  CCI:N  ADX:B  MACD:B  ROC:B  Bull Bear Power:B  Williams %R:N  Stoch RSI:N  Ult. Oscillator:N
+  MA detail  : BUY: SMA10, SMA20, SMA30, SMA50, SMA100, EMA10...  |  SELL: SMA200, EMA100, EMA200, WMA200
+  Stop: N/A | Target: N/A | RR: N/A:1
+
+RVNUSDT        | Price: 0.00563 | Live RSI: 52.5
+  Overall    : STRONG BUY  B:21 N:5 S:8
+  Oscillators: STRONG BUY  B:4 N:5 S:1
+  Mov. Avgs  : STRONG BUY  B:17 N:0 S:7
+  Osc detail : RSI:N  Stoch %K:N  CCI:N  ADX:B  MACD:B  ROC:B  Bull Bear Power:B  Williams %R:S  Stoch RSI:N  Ult. Oscillator:N
+  MA detail  : BUY: SMA10, SMA20, SMA30, SMA50, EMA10, EMA20...  |  SELL: SMA100, SMA200, EMA50, EMA100
+  Stop: N/A | Target: N/A | RR: N/A:1
+
+EURUSDT        | Price: 1.1623 | Live RSI: 56.21
+  Overall    : STRONG BUY  B:21 N:5 S:8
+  Oscillators: STRONG BUY  B:4 N:5 S:1
+  Mov. Avgs  : STRONG BUY  B:17 N:0 S:7
+  Osc detail : RSI:N  Stoch %K:N  CCI:S  ADX:B  MACD:B  ROC:B  Bull Bear Power:B  Williams %R:N  Stoch RSI:N  Ult. Oscillator:N
+  MA detail  : BUY: SMA10, SMA20, SMA30, SMA50, EMA10, EMA20...  |  SELL: SMA100, SMA200, EMA50, EMA100
+  Stop: N/A | Target: N/A | RR: N/A:1
+
+POLUSDT        | Price: 0.0919 | Live RSI: 53.48
+  Overall    : STRONG BUY  B:21 N:6 S:7
+  Oscillators: STRONG BUY  B:4 N:6 S:0
+  Mov. Avgs  : STRONG BUY  B:17 N:0 S:7
+  Osc detail : RSI:N  Stoch %K:N  CCI:N  ADX:B  MACD:B  ROC:B  Bull Bear Power:B  Williams %R:N  Stoch RSI:N  Ult. Oscillator:N
+  MA detail  : BUY: SMA10, SMA20, SMA30, SMA50, EMA10, EMA20...  |  SELL: SMA100, SMA200, EMA100, EMA200
+  Stop: N/A | Target: N/A | RR: N/A:1
+
+INITUSDT       | Price: 0.0865 | Live RSI: 53.58
+  Overall    : STRONG BUY  B:21 N:5 S:8
+  Oscillators: STRONG BUY  B:4 N:5 S:1
+  Mov. Avgs  : STRONG BUY  B:17 N:0 S:7
+  Osc detail : RSI:N  Stoch %K:N  CCI:S  ADX:B  MACD:B  ROC:B  Bull Bear Power:B  Williams %R:N  Stoch RSI:N  Ult. Oscillator:N
+  MA detail  : BUY: SMA10, SMA20, SMA30, SMA50, EMA10, EMA20...  |  SELL: SMA100, SMA200, EMA50, EMA100
+  Stop: N/A | Target: N/A | RR: N/A:1
+
+HAEDALUSDT     | Price: 0.03173 | Live RSI: 64.27
+  Overall    : STRONG BUY  B:21 N:4 S:9
+  Oscillators: BUY  B:4 N:4 S:2
+  Mov. Avgs  : STRONG BUY  B:17 N:0 S:7
+  Osc detail : RSI:N  Stoch %K:N  CCI:S  ADX:B  MACD:B  ROC:B  Bull Bear Power:B  Williams %R:S  Stoch RSI:N  Ult. Oscillator:N
+  MA detail  : BUY: SMA10, SMA20, SMA30, SMA50, EMA10, EMA20...  |  SELL: SMA100, SMA200, EMA50, EMA100
+  Stop: N/A | Target: N/A | RR: N/A:1
+
+NEWTUSDT       | Price: 0.0757 | Live RSI: 63.2
+  Overall    : STRONG BUY  B:21 N:5 S:8
+  Oscillators: STRONG BUY  B:4 N:5 S:1
+  Mov. Avgs  : STRONG BUY  B:17 N:0 S:7
+  Osc detail : RSI:N  Stoch %K:N  CCI:N  ADX:B  MACD:B  ROC:B  Bull Bear Power:B  Williams %R:S  Stoch RSI:N  Ult. Oscillator:N
+  MA detail  : BUY: SMA10, SMA20, SMA30, SMA50, EMA10, EMA20...  |  SELL: SMA100, SMA200, EMA50, EMA100
+  Stop: N/A | Target: N/A | RR: N/A:1
+
+MANTRAUSDT     | Price: 0.01001 | Live RSI: 62.55
+  Overall    : STRONG BUY  B:21 N:4 S:9
+  Oscillators: BUY  B:4 N:4 S:2
+  Mov. Avgs  : STRONG BUY  B:17 N:0 S:7
+  Osc detail : RSI:N  Stoch %K:N  CCI:S  ADX:B  MACD:B  ROC:B  Bull Bear Power:B  Williams %R:S  Stoch RSI:N  Ult. Oscillator:N
+  MA detail  : BUY: SMA10, SMA20, SMA30, SMA50, EMA10, EMA20...  |  SELL: SMA100, SMA200, EMA50, EMA100
+  Stop: N/A | Target: N/A | RR: N/A:1
+
+WAXPUSDT       | Price: 0.00651 | Live RSI: 56.98
+  Overall    : STRONG BUY  B:20 N:6 S:8
+  Oscillators: STRONG BUY  B:4 N:6 S:0
+  Mov. Avgs  : BUY  B:16 N:0 S:8
+  Osc detail : RSI:N  Stoch %K:N  CCI:N  ADX:B  MACD:B  ROC:B  Bull Bear Power:B  Williams %R:N  Stoch RSI:N  Ult. Oscillator:N
+  MA detail  : BUY: SMA10, SMA20, SMA30, SMA50, EMA10, EMA20...  |  SELL: SMA100, SMA200, EMA50, EMA100
+  Stop: N/A | Target: N/A | RR: N/A:1
+
+KATUSDT        | Price: 0.00875 | Live RSI: 58.54
+  Overall    : STRONG BUY  B:20 N:5 S:9
+  Oscillators: STRONG BUY  B:4 N:5 S:1
+  Mov. Avgs  : BUY  B:16 N:0 S:8
+  Osc detail : RSI:N  Stoch %K:N  CCI:N  ADX:B  MACD:B  ROC:B  Bull Bear Power:B  Williams %R:S  Stoch RSI:N  Ult. Oscillator:N
+  MA detail  : BUY: SMA10, SMA20, SMA30, SMA50, EMA10, EMA20...  |  SELL: SMA100, SMA200, EMA50, EMA100
+  Stop: N/A | Target: N/A | RR: N/A:1
+
+CHRUSDT        | Price: 0.0223 | Live RSI: 53.11
+  Overall    : BUY  B:19 N:5 S:10
+  Oscillators: STRONG BUY  B:4 N:5 S:1
+  Mov. Avgs  : BUY  B:15 N:0 S:9
+  Osc detail : RSI:N  Stoch %K:N  CCI:S  ADX:B  MACD:B  ROC:B  Bull Bear Power:B  Williams %R:N  Stoch RSI:N  Ult. Oscillator:N
+  MA detail  : BUY: SMA10, SMA20, SMA30, EMA10, EMA20, EMA30...  |  SELL: SMA50, SMA100, SMA200, EMA50
+  Stop: N/A | Target: N/A | RR: N/A:1
+
+SOPHUSDT       | Price: 0.00827 | Live RSI: 58.38
+  Overall    : BUY  B:19 N:5 S:10
+  Oscillators: STRONG BUY  B:4 N:5 S:1
+  Mov. Avgs  : BUY  B:15 N:0 S:9
+  Osc detail : RSI:N  Stoch %K:N  CCI:N  ADX:B  MACD:B  ROC:B  Bull Bear Power:B  Williams %R:S  Stoch RSI:N  Ult. Oscillator:N
+  MA detail  : BUY: SMA10, SMA20, SMA30, EMA10, EMA20, EMA30...  |  SELL: SMA50, SMA100, SMA200, EMA50
+  Stop: N/A | Target: N/A | RR: N/A:1
+
+ZKCUSDT        | Price: 0.071 | Live RSI: 63.37
+  Overall    : BUY  B:19 N:5 S:10
+  Oscillators: STRONG BUY  B:4 N:5 S:1
+  Mov. Avgs  : BUY  B:15 N:0 S:9
+  Osc detail : RSI:N  Stoch %K:N  CCI:S  ADX:B  MACD:B  ROC:B  Bull Bear Power:B  Williams %R:N  Stoch RSI:N  Ult. Oscillator:N
+  MA detail  : BUY: SMA10, SMA20, SMA30, EMA10, EMA20, EMA30...  |  SELL: SMA50, SMA100, SMA200, EMA50
+  Stop: N/A | Target: N/A | RR: N/A:1
+
+UNIUSDT        | Price: 3.569 | Live RSI: 58.53
+  Overall    : BUY  B:18 N:6 S:10
+  Oscillators: STRONG BUY  B:4 N:6 S:0
+  Mov. Avgs  : BUY  B:14 N:0 S:10
+  Osc detail : RSI:N  Stoch %K:N  CCI:N  ADX:B  MACD:B  ROC:B  Bull Bear Power:B  Williams %R:N  Stoch RSI:N  Ult. Oscillator:N
+  MA detail  : BUY: SMA10, SMA20, SMA30, SMA50, EMA10, EMA20...  |  SELL: SMA100, SMA200, EMA50, EMA100
+  Stop: N/A | Target: N/A | RR: N/A:1
+
+DOLOUSDT       | Price: 0.03241 | Live RSI: 70.19
+  Overall    : BUY  B:18 N:4 S:12
+  Oscillators: BUY  B:4 N:4 S:2
+  Mov. Avgs  : BUY  B:14 N:0 S:10
+  Osc detail : RSI:N  Stoch %K:N  CCI:S  ADX:B  MACD:B  ROC:B  Bull Bear Power:B  Williams %R:S  Stoch RSI:N  Ult. Oscillator:N
+  MA detail  : BUY: SMA10, SMA20, SMA30, EMA10, EMA20, WMA10...  |  SELL: SMA50, SMA100, SMA200, EMA30
+  Stop: N/A | Target: N/A | RR: N/A:1
+
+ONTUSDT        | Price: 0.05836 | Live RSI: 54.33
+  Overall    : BUY  B:17 N:6 S:11
+  Oscillators: STRONG BUY  B:4 N:6 S:0
+  Mov. Avgs  : BUY  B:13 N:0 S:11
+  Osc detail : RSI:N  Stoch %K:N  CCI:N  ADX:B  MACD:B  ROC:B  Bull Bear Power:B  Williams %R:N  Stoch RSI:N  Ult. Oscillator:N
+  MA detail  : BUY: SMA10, SMA20, SMA30, EMA10, EMA20, WMA10...  |  SELL: SMA50, SMA100, SMA200, EMA30
+  Stop: N/A | Target: N/A | RR: N/A:1
+
+IOTXUSDT       | Price: 0.00453 | Live RSI: 55.65
+  Overall    : BUY  B:17 N:5 S:12
+  Oscillators: STRONG BUY  B:4 N:5 S:1
+  Mov. Avgs  : BUY  B:13 N:0 S:11
+  Osc detail : RSI:N  Stoch %K:N  CCI:N  ADX:B  MACD:B  ROC:B  Bull Bear Power:B  Williams %R:N  Stoch RSI:S  Ult. Oscillator:N
+  MA detail  : BUY: SMA20, SMA30, SMA50, EMA10, EMA20, EMA30...  |  SELL: SMA10, SMA100, SMA200, EMA50
+  Stop: N/A | Target: N/A | RR: N/A:1
+
+PENGUUSDT      | Price: 0.008569 | Live RSI: 55.21
+  Overall    : BUY  B:17 N:5 S:12
+  Oscillators: STRONG BUY  B:4 N:5 S:1
+  Mov. Avgs  : BUY  B:13 N:0 S:11
+  Osc detail : RSI:N  Stoch %K:N  CCI:N  ADX:B  MACD:B  ROC:B  Bull Bear Power:B  Williams %R:N  Stoch RSI:S  Ult. Oscillator:N
+  MA detail  : BUY: SMA10, SMA20, SMA30, EMA10, EMA20, EMA30...  |  SELL: SMA50, SMA100, SMA200, EMA50
+  Stop: N/A | Target: N/A | RR: N/A:1
+
+DUSDT          | Price: 0.01398 | Live RSI: 52.31
+  Overall    : BUY  B:17 N:6 S:11
+  Oscillators: STRONG BUY  B:4 N:6 S:0
+  Mov. Avgs  : BUY  B:13 N:0 S:11
+  Osc detail : RSI:N  Stoch %K:N  CCI:N  ADX:B  MACD:B  ROC:B  Bull Bear Power:B  Williams %R:N  Stoch RSI:N  Ult. Oscillator:N
+  MA detail  : BUY: SMA20, SMA30, SMA50, SMA100, EMA20, EMA30...  |  SELL: SMA10, SMA200, EMA10, EMA200
+  Stop: N/A | Target: N/A | RR: N/A:1
+
+TUTUSDT        | Price: 0.01161 | Live RSI: 57.34
+  Overall    : BUY  B:17 N:5 S:12
+  Oscillators: STRONG BUY  B:4 N:5 S:1
+  Mov. Avgs  : BUY  B:13 N:0 S:11
+  Osc detail : RSI:N  Stoch %K:N  CCI:S  ADX:B  MACD:B  ROC:B  Bull Bear Power:B  Williams %R:N  Stoch RSI:N  Ult. Oscillator:N
+  MA detail  : BUY: SMA10, SMA20, SMA30, EMA10, EMA20, WMA10...  |  SELL: SMA50, SMA100, SMA200, EMA30
+  Stop: N/A | Target: N/A | RR: N/A:1
+
+HIVEUSDT       | Price: 0.0601 | Live RSI: 52.16
+  Overall    : BUY  B:16 N:6 S:12
+  Oscillators: STRONG BUY  B:4 N:6 S:0
+  Mov. Avgs  : NEUTRAL  B:12 N:0 S:12
+  Osc detail : RSI:N  Stoch %K:N  CCI:N  ADX:B  MACD:B  ROC:B  Bull Bear Power:B  Williams %R:N  Stoch RSI:N  Ult. Oscillator:N
+  MA detail  : BUY: SMA10, SMA20, SMA30, EMA10, EMA20, WMA10...  |  SELL: SMA50, SMA100, SMA200, EMA30
+  Stop: N/A | Target: N/A | RR: N/A:1
+
+POWRUSDT       | Price: 0.0645 | Live RSI: 54.18
+  Overall    : BUY  B:16 N:7 S:11
+  Oscillators: STRONG BUY  B:4 N:6 S:0
+  Mov. Avgs  : BUY  B:12 N:1 S:11
+  Osc detail : RSI:N  Stoch %K:N  CCI:N  ADX:B  MACD:B  ROC:B  Bull Bear Power:B  Williams %R:N  Stoch RSI:N  Ult. Oscillator:N
+  MA detail  : BUY: SMA20, SMA30, SMA50, EMA20, EMA30, WMA20...  |  SELL: SMA10, SMA100, SMA200, EMA10
+  Stop: N/A | Target: N/A | RR: N/A:1
+
+TSTUSDT        | Price: 0.0183 | Live RSI: 51.81
+  Overall    : BUY  B:16 N:5 S:13
+  Oscillators: STRONG BUY  B:4 N:5 S:1
+  Mov. Avgs  : NEUTRAL  B:12 N:0 S:12
+  Osc detail : RSI:N  Stoch %K:N  CCI:S  ADX:B  MACD:B  ROC:B  Bull Bear Power:B  Williams %R:N  Stoch RSI:N  Ult. Oscillator:N
+  MA detail  : BUY: SMA10, SMA20, SMA30, EMA10, EMA20, WMA10...  |  SELL: SMA50, SMA100, SMA200, EMA30
+  Stop: N/A | Target: N/A | RR: N/A:1
+
+TKOUSDT        | Price: 0.0559 | Live RSI: 53.9
+  Overall    : BUY  B:15 N:5 S:14
+  Oscillators: STRONG BUY  B:4 N:5 S:1
+  Mov. Avgs  : SELL  B:11 N:0 S:13
+  Osc detail : RSI:N  Stoch %K:N  CCI:N  ADX:B  MACD:B  ROC:B  Bull Bear Power:B  Williams %R:N  Stoch RSI:S  Ult. Oscillator:N
+  MA detail  : BUY: SMA10, SMA20, SMA30, EMA10, EMA20, WMA20...  |  SELL: SMA50, SMA100, SMA200, EMA30
+  Stop: N/A | Target: N/A | RR: N/A:1
+
+BROCCOLI714USDT | Price: 0.0145 | Live RSI: 47.92
+  Overall    : BUY  B:15 N:6 S:13
+  Oscillators: STRONG BUY  B:4 N:6 S:0
+  Mov. Avgs  : SELL  B:11 N:0 S:13
+  Osc detail : RSI:N  Stoch %K:N  CCI:N  ADX:B  MACD:B  ROC:B  Bull Bear Power:B  Williams %R:N  Stoch RSI:N  Ult. Oscillator:N
+  MA detail  : BUY: SMA10, SMA20, SMA30, EMA10, EMA20, WMA10...  |  SELL: SMA50, SMA100, SMA200, EMA30
+  Stop: N/A | Target: N/A | RR: N/A:1
+
+======================================================================
+
+
+=== MATCHES === 2026-05-17 16:24 UTC
+ONTUSDT      | 1h RSI: 47.06 → 50.65 | Manual Live RSI: 70.4 | RSIIndicator Live RSI: 52.76 | Price: 0.05827
+C98USDT      | 1h RSI: 47.32 → 51.54 | Manual Live RSI: 63.64 | RSIIndicator Live RSI: 51.54 | Price: 0.02
+Total: 2
+
+
+=== MATCHES === 2026-05-17 16:27 UTC
+BERAUSDT     | 1h RSI: 48.08 → 50.21 | Manual Live RSI: 66.67 | RSIIndicator Live RSI: 52.32 | Price: 0.372
+PUMPUSDT     | 1h RSI: 44.75 → 48.81 | Manual Live RSI: 63.64 | RSIIndicator Live RSI: 50.48 | Price: 0.001753
+Total: 2
+
+
+=== MATCHES === 2026-05-17 16:33 UTC
+LDOUSDT      | 1h RSI: 45.91 → 49.21 | Manual Live RSI: 61.84 | RSIIndicator Live RSI: 52.61 | Price: 0.3576
+LUNCUSDT     | 1h RSI: 46.11 → 47.15 | Manual Live RSI: 50.89 | RSIIndicator Live RSI: 50.11 | Price: 8.115e-05
+CGPTUSDT     | 1h RSI: 49.78 → 51.01 | Manual Live RSI: 61.14 | RSIIndicator Live RSI: 50.5 | Price: 0.03638
+MUBARAKUSDT  | 1h RSI: 46.88 → 49.07 | Manual Live RSI: 71.84 | RSIIndicator Live RSI: 57.13 | Price: 0.01428
+NIGHTUSDT    | 1h RSI: 45.99 → 52.65 | Manual Live RSI: 55.56 | RSIIndicator Live RSI: 53.8 | Price: 0.03208
+CFGUSDT      | 1h RSI: 45.77 → 48.45 | Manual Live RSI: 66.91 | RSIIndicator Live RSI: 52.64 | Price: 0.2636
+Total: 6
+
+
+======================================================================
+RSI BREAKOUT + TA PANEL — 2026-05-17 16:37 UTC
+Scanned: 433 | Matches: 2
+======================================================================
+
+GUSDT          | Price: 0.00361
+  RSI   : 44.71 → 49.24 → live 58.4  (strong push)
+  Slope : short=4.52 long=4.8 accel=4.52
+  OVERALL     : BUY            B:17 N:6 S:11
+  Oscillators : STRONG BUY     B:4 N:6 S:0
+  Mov. Avgs   : BUY            B:13 N:0 S:11
+  Osc : RSI:N  Stoch%K:N  CCI:N  ADX:B  MACD:B  ROC:B  Williams%R:N  StochRSI:N  BullBearPower:B  Ult.Oscillator:N
+  MA  : BUY[13]: SMA 10, EMA 10, WMA 10, SMA 20, EMA 20, WMA 20, SMA 30, WMA 30...  |  SELL[11]: EMA 30, SMA 50, EMA 50, WMA 50, SMA 100...
+
+MUBARAKUSDT    | Price: 0.01422
+  RSI   : 46.86 → 49.04 → live 54.57  (mid momentum)
+  Slope : short=2.18 long=8.66 accel=3.13
+  OVERALL     : BUY            B:16 N:6 S:12
+  Oscillators : STRONG BUY     B:3 N:6 S:1
+  Mov. Avgs   : BUY            B:13 N:0 S:11
+  Osc : RSI:N  Stoch%K:N  CCI:N  ADX:B  MACD:B  ROC:B  Williams%R:N  StochRSI:N  BullBearPower:S  Ult.Oscillator:N
+  MA  : BUY[13]: SMA 10, EMA 10, WMA 10, SMA 20, EMA 20, WMA 20, SMA 30, WMA 30...  |  SELL[11]: EMA 30, SMA 50, EMA 50, WMA 50, SMA 100...
+
+======================================================================
+
+
+=== MATCHES === 2026-05-17 16:38 UTC
+HIVEUSDT     | 1h RSI: 46.42 → 48.4 | Manual Live RSI: 68.18 | RSIIndicator Live RSI: 50.37 | Price: 0.06
+Total: 1
+
+
+======================================================================
+RSI BREAKOUT + TA PANEL — 2026-05-17 16:39 UTC
+Scanned: 433 | Matches: 6
+======================================================================
+
+GUSDT          | Price: 0.00361
+  RSI   : 44.71 → 49.24 → live 58.4  (strong push)
+  Slope : short=4.52 long=4.8 accel=4.52
+  OVERALL     : BUY            B:17 N:6 S:11
+  Oscillators : STRONG BUY     B:4 N:6 S:0
+  Mov. Avgs   : BUY            B:13 N:0 S:11
+  Osc : RSI:N  Stoch%K:N  CCI:N  ADX:B  MACD:B  ROC:B  Williams%R:N  StochRSI:N  BullBearPower:B  Ult.Oscillator:N
+  MA  : BUY[13]: SMA 10, EMA 10, WMA 10, SMA 20, EMA 20, WMA 20, SMA 30, WMA 30...  |  SELL[11]: EMA 30, SMA 50, EMA 50, WMA 50, SMA 100...
+
+MUBARAKUSDT    | Price: 0.01421
+  RSI   : 46.86 → 49.04 → live 54.12  (mid momentum)
+  Slope : short=2.18 long=8.66 accel=3.13
+  OVERALL     : BUY            B:16 N:6 S:12
+  Oscillators : STRONG BUY     B:3 N:6 S:1
+  Mov. Avgs   : BUY            B:13 N:0 S:11
+  Osc : RSI:N  Stoch%K:N  CCI:N  ADX:B  MACD:B  ROC:B  Williams%R:N  StochRSI:N  BullBearPower:S  Ult.Oscillator:N
+  MA  : BUY[13]: SMA 10, EMA 10, WMA 10, SMA 20, EMA 20, WMA 20, SMA 30, WMA 30...  |  SELL[11]: EMA 30, SMA 50, EMA 50, WMA 50, SMA 100...
+
+1000CATUSDT    | Price: 0.00188
+  RSI   : 44.73 → 48.87 → live 48.87  (just crossed 50)
+  Slope : short=4.14 long=8.92 accel=7.77
+  OVERALL     : BUY            B:15 N:6 S:13
+  Oscillators : NEUTRAL        B:2 N:6 S:2
+  Mov. Avgs   : BUY            B:13 N:0 S:11
+  Osc : RSI:N  Stoch%K:N  CCI:N  ADX:S  MACD:B  ROC:B  Williams%R:N  StochRSI:N  BullBearPower:S  Ult.Oscillator:N
+  MA  : BUY[13]: SMA 10, EMA 10, WMA 10, SMA 20, EMA 20, WMA 20, SMA 30, WMA 30...  |  SELL[11]: EMA 30, SMA 50, EMA 50, WMA 50, SMA 100...
+
+GRTUSDT        | Price: 0.02548
+  RSI   : 35.1 → 42.21 → live 45.43  (just crossed 50)
+  Slope : short=7.11 long=7.62 accel=9.56
+  OVERALL     : STRONG SELL    B:9 N:6 S:19
+  Oscillators : STRONG SELL    B:1 N:6 S:3
+  Mov. Avgs   : SELL           B:8 N:0 S:16
+  Osc : RSI:N  Stoch%K:N  CCI:N  ADX:S  MACD:B  ROC:S  Williams%R:N  StochRSI:N  BullBearPower:S  Ult.Oscillator:N
+  MA  : BUY[8]: SMA 10, EMA 10, WMA 10, WMA 20, HMA 9, HMA 20, HMA 50, VWMA 20  |  SELL[16]: SMA 20, EMA 20, SMA 30, EMA 30, WMA 30...
+
+1INCHUSDT      | Price: 0.0935
+  RSI   : 43.72 → 45.11 → live 47.89  (just crossed 50)
+  Slope : short=1.39 long=3.23 accel=3.56
+  OVERALL     : STRONG SELL    B:3 N:6 S:25
+  Oscillators : STRONG SELL    B:1 N:6 S:3
+  Mov. Avgs   : STRONG SELL    B:2 N:0 S:22
+  Osc : RSI:N  Stoch%K:N  CCI:N  ADX:S  MACD:B  ROC:S  Williams%R:N  StochRSI:N  BullBearPower:S  Ult.Oscillator:N
+  MA  : BUY[2]: HMA 9, HMA 50  |  SELL[22]: SMA 10, EMA 10, WMA 10, SMA 20, EMA 20...
+
+TUSDT          | Price: 0.00564
+  RSI   : 36.29 → 41.0 → live 43.26  (just crossed 50)
+  Slope : short=4.71 long=2.02 accel=6.1
+  OVERALL     : STRONG SELL    B:1 N:6 S:27
+  Oscillators : STRONG SELL    B:0 N:6 S:4
+  Mov. Avgs   : STRONG SELL    B:1 N:0 S:23
+  Osc : RSI:N  Stoch%K:N  CCI:N  ADX:S  MACD:S  ROC:S  Williams%R:N  StochRSI:N  BullBearPower:S  Ult.Oscillator:N
+  MA  : BUY[1]: HMA 9  |  SELL[23]: SMA 10, EMA 10, WMA 10, SMA 20, EMA 20...
+
+======================================================================
+
+
+=== MATCHES === 2026-05-17 16:41 UTC
+GUSDT        | 1h RSI: 44.73 → 49.25 | Manual Live RSI: 67.86 | RSIIndicator Live RSI: 58.42 | Price: 0.00361
+NOMUSDT      | 1h RSI: 41.02 → 47.4 | Manual Live RSI: 55.56 | RSIIndicator Live RSI: 50.3 | Price: 0.0023
+Total: 2
+
+No matches at 2026-05-17 16:41 UTC
+
+
+=== MATCHES === 2026-05-17 16:44 UTC
+MBLUSDT      | 1h RSI: 39.47 → 42.93 | Manual Live RSI: 41.94 | RSIIndicator Live RSI: 50.55 | Price: 0.000941
+Total: 1
+
+
+=== MATCHES === 2026-05-17 16:45 UTC
+ROSEUSDT     | 1h RSI: 44.93 → 47.69 | Slope: 2.75/2.49 | Live RSI: 50.36 | Price: 0.0101 | just crossed 50
+GUSDT        | 1h RSI: 44.73 → 49.25 | Slope: 4.53/2.74 | Live RSI: 56.86 | Price: 0.0036 | strong push
+REDUSDT      | 1h RSI: 44.63 → 45.55 | Slope: 0.92/4.56 | Live RSI: 50.83 | Price: 0.1304 | just crossed 50
+MUBARAKUSDT  | 1h RSI: 46.88 → 49.07 | Slope: 2.18/11.2 | Live RSI: 54.14 | Price: 0.01421 | mid momentum
+BIGTIMEUSDT  | 1h RSI: 45.21 → 46.2 | Slope: 0.98/3.9 | Live RSI: 50.06 | Price: 0.01268 | just crossed 50
+Total: 5
+
+
+=== MATCHES === 2026-05-17 16:49 UTC
+ROSEUSDT     | 1h RSI: 44.93 → 47.69 | Manual Live RSI: 65.52 | RSIIndicator Live RSI: 50.36 | Price: 0.0101
+GTCUSDT      | 1h RSI: 44.57 → 49.14 | Manual Live RSI: 54.55 | RSIIndicator Live RSI: 53.29 | Price: 0.103
+Total: 2
+
+
+=== MATCHES === 2026-05-17 16:55 UTC
+ONTUSDT      | 1h RSI: 47.06 → 50.65 | Manual Live RSI: 70.54 | RSIIndicator Live RSI: 52.94 | Price: 0.05828
+Total: 1
+
+
+=== MATCHES === 2026-05-17 16:58 UTC
+BERAUSDT     | 1h RSI: 48.08 → 50.21 | Manual Live RSI: 65.0 | RSIIndicator Live RSI: 50.21 | Price: 0.371
+Total: 1
+
+
+=== MATCHES === 2026-05-17 17:00 UTC
+TFUELUSDT    | 1h RSI: 46.25 → 50.29 | Manual Live RSI: 52.27 | RSIIndicator Live RSI: 50.29 | Price: 0.01104
+RIFUSDT      | 1h RSI: 49.33 → 50.42 | Manual Live RSI: 50.6 | RSIIndicator Live RSI: 50.42 | Price: 0.0737
+IQUSDT       | 1h RSI: 49.56 → 50.58 | Manual Live RSI: 62.07 | RSIIndicator Live RSI: 50.58 | Price: 0.001088
+TURTLEUSDT   | 1h RSI: 46.08 → 51.46 | Manual Live RSI: 59.09 | RSIIndicator Live RSI: 53.14 | Price: 0.0466
+ZAMAUSDT     | 1h RSI: 48.71 → 50.4 | Manual Live RSI: 51.43 | RSIIndicator Live RSI: 51.1 | Price: 0.02678
+Total: 5
+
+
+=== MATCHES === 2026-05-17 17:03 UTC
+CFGUSDT      | 1h RSI: 48.45 → 52.65 | Manual Live RSI: 59.92 | RSIIndicator Live RSI: 51.97 | Price: 0.2633
+Total: 1
+
+
+=== MATCHES === 2026-05-17 17:06 UTC
+YBUSDT       | 1h RSI: 46.87 → 50.0 | Manual Live RSI: 56.06 | RSIIndicator Live RSI: 50.63 | Price: 0.108
+Total: 1
+
+
+=== MATCHES === 2026-05-17 17:09 UTC
+SYSUSDT      | 1h RSI: 45.97 → 47.65 | Manual Live RSI: 49.47 | RSIIndicator Live RSI: 50.14 | Price: 0.00586
+Total: 1
+
+
+=== MATCHES === 2026-05-17 17:20 UTC
+TURTLEUSDT   | 1h RSI: 46.08 → 51.46 | Manual Live RSI: 62.5 | RSIIndicator Live RSI: 56.17 | Price: 0.0468
+Total: 1
+
+
+=== MATCHES === 2026-05-17 17:24 UTC
+TURTLEUSDT   | 1h RSI: 46.08 → 51.46 | Manual Live RSI: 60.87 | RSIIndicator Live RSI: 54.7 | Price: 0.0467
+CFGUSDT      | 1h RSI: 48.45 → 52.65 | Manual Live RSI: 60.85 | RSIIndicator Live RSI: 52.86 | Price: 0.2637
+Total: 2
+
+
+=== MATCHES === 2026-05-17 17:27 UTC
+SYSUSDT      | 1h RSI: 45.97 → 47.65 | Manual Live RSI: 49.47 | RSIIndicator Live RSI: 50.14 | Price: 0.00586
+IQUSDT       | 1h RSI: 49.56 → 50.58 | Manual Live RSI: 62.07 | RSIIndicator Live RSI: 50.58 | Price: 0.001088
+Total: 2
+
+
+=== MATCHES === 2026-05-17 17:30 UTC
+SYSUSDT      | 1h RSI: 45.97 → 47.65 | Manual Live RSI: 51.02 | RSIIndicator Live RSI: 51.31 | 2d up: 5.07% | Price: 0.00589
+Total: 1
+
+
+=== MATCHES === 2026-05-17 17:36 UTC
+SYSUSDT      | 1h RSI: 45.97 → 47.65 | Manual Live RSI: 52.0 | RSIIndicator Live RSI: 52.05 | 2d up: 5.07% | Price: 0.00591
+Total: 1
+
+
+=== MATCHES === 2026-05-17 17:39 UTC
+ORCAUSDT     | 1h RSI: 54.58 → 57.56 | Manual Live RSI: 52.03 | RSIIndicator Live RSI: 59.96 | 2d up: 8.44% | Price: 1.54
+Total: 1
+
+
+=== MATCHES === 2026-05-17 17:47 UTC
+LUNCUSDT     | 1h RSI: 47.14 → 47.93 | Manual Live RSI: 48.05 | RSIIndicator Live RSI: 50.03 | 2d up: 5.89% | Price: 8.11e-05
+Total: 1
+
+
+=== MATCHES === 2026-05-17 20:50 (+03:00)
+SYSUSDT      | 1h RSI: 45.97 → 47.65 | Manual Live RSI: 49.47 | RSIIndicator Live RSI: 50.14 | 2d up: 5.07% | Price: 0.00586
+Total: 1
+

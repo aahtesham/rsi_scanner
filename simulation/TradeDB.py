@@ -1,7 +1,13 @@
+import os
+import sys
 import threading
 import time
 import logging
-from datetime import datetime, timezone
+
+_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+if _ROOT not in sys.path:
+    sys.path.insert(0, _ROOT)
+from time_util import scan_timestamp, trade_time_stamp
 
 import requests
 import pandas as pd
@@ -88,7 +94,7 @@ class TradeDB:
                 "pnl_pct": pnl_pct,
                 "pnl_usdt_est": pnl_usdt_est,
                 "reason": reason,
-                "closed_at": datetime.now(timezone.utc).strftime("%H:%M UTC"),
+                "closed_at": trade_time_stamp(),
             }
             self.closed.append(closed)
             if len(self.closed) > MAX_CLOSED_IN_MEMORY:
@@ -201,7 +207,7 @@ def open_trade(symbol, live_rsi) -> bool:
         "notional_usdt": float(TRADE_AMOUNT_USDT),
         "qty_base"     : qty_base,
         "open_time"    : time.time(),
-        "open_ts"      : datetime.now(timezone.utc).strftime("%H:%M UTC"),
+        "open_ts"      : trade_time_stamp(),
 
         # 1h tracking
         "hour_start_price" : price,   # price at entry
@@ -416,7 +422,7 @@ def scan():
     matches.sort(key=lambda m: m.get("match_score", 0.0), reverse=True)
 
     if matches:
-        print(f"\n=== MATCHES (best first by score) === {datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')}")
+        print(f"\n=== MATCHES (best first by score) === {scan_timestamp()}")
         print("-" * 55)
         for m in matches:
             print(
@@ -429,7 +435,7 @@ def scan():
         print(f"Total: {len(matches)}\n")
 
         with open("results.txt", "a", encoding="utf-8") as f:
-            f.write(f"\n=== MATCHES === {datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')}\n")
+            f.write(f"\n=== MATCHES === {scan_timestamp()}\n")
             for m in matches:
                 f.write(
                     f"{m['symbol']:<12} | "

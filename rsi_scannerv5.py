@@ -3,7 +3,7 @@ import pandas as pd
 import time
 import logging
 from ta.momentum import RSIIndicator
-from datetime import datetime, timezone
+from time_util import scan_timestamp
 
 
 # -------------------------------
@@ -165,7 +165,7 @@ def scan():
             live_rsi = get_live_rsi(symbol)
 
             # ✅ STEP 2: Only proceed if live RSI is in the 53-60 zone
-            if live_rsi is None or not (53 <= live_rsi <= 60):
+            if live_rsi is None or not (50 <= live_rsi <= 60):
                 continue # skip immediately, no heavy work
 
             # ✅ STEP 3: Now do the heavy work
@@ -227,7 +227,7 @@ def scan():
 
     # Print results
     if matches:
-        print(f"\n=== MATCHES === {datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')}")
+        print(f"\n=== MATCHES === {scan_timestamp()}")
         print("-" * 55)
         for m in matches:
             print(
@@ -239,7 +239,7 @@ def scan():
         print(f"Total: {len(matches)}\n")
 
         with open("results.txt", "a", encoding="utf-8") as f:
-            f.write(f"\n=== MATCHES Reverse Logic=== {datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')}\n")
+            f.write(f"\n=== MATCHES Reverse Logic=== {scan_timestamp()}\n")
             for m in matches:
                 f.write(
                     f"{m['symbol']:<12} | "
