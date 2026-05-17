@@ -138,3 +138,1065 @@ STORJUSDT    | 1h RSI: 44.3 → 48.5 | Manual Live RSI: 23.8 | RSIIndicator Live
 JSTUSDT      | 1h RSI: 48.43 → 49.94 | Manual Live RSI: 42.95 | RSIIndicator Live RSI: 50.26 | Price: 0.09094
 Total: 2
 
+
+=== MATCHES === 2026-05-16 14:12 UTC
+RIFUSDT      | 1h RSI: 50.24 → 52.28 | Manual Live RSI: 42.7 | RSIIndicator Live RSI: 52.81 | Price: 0.0749
+NOMUSDT      | 1h RSI: 41.99 → 48.88 | Manual Live RSI: 45.83 | RSIIndicator Live RSI: 50.98 | Price: 0.00231
+Total: 2
+
+
+=== MATCHES === 2026-05-16 14:21 UTC
+FDUSDUSDT    | 1h RSI: 41.96 → 49.53 | Manual Live RSI: 55.56 | RSIIndicator Live RSI: 55.75 | Price: 0.9983
+Total: 1
+
+
+=== MATCHES === 2026-05-16 14:29 UTC
+PYRUSDT      | 1h RSI: 46.76 → 49.64 | Manual Live RSI: 50.0 | RSIIndicator Live RSI: 52.42 | Price: 0.27
+Total: 1
+
+
+=== MATCHES === 2026-05-16 14:32 UTC
+AWEUSDT      | 1h RSI: 43.83 → 45.49 | Manual Live RSI: 50.41 | RSIIndicator Live RSI: 50.43 | Price: 0.05566
+Total: 1
+
+
+=== MATCHES === 2026-05-16 14:35 UTC
+USDCUSDT     | 1h RSI: 49.08 → 50.68 | Manual Live RSI: 17.65 | RSIIndicator Live RSI: 50.68 | Price: 1.00024
+JSTUSDT      | 1h RSI: 48.43 → 49.94 | Manual Live RSI: 43.71 | RSIIndicator Live RSI: 50.88 | Price: 0.09096
+Total: 2
+
+
+=== MATCHES === 2026-05-16 14:40 UTC
+ASTERUSDT    | 1h RSI: 39.34 → 46.39 | Manual Live RSI: 46.88 | RSIIndicator Live RSI: 50.99 | Price: 0.668
+Total: 1
+
+
+=== MATCHES === 2026-05-16 14:43 UTC
+RIFUSDT      | 1h RSI: 50.24 → 52.28 | Manual Live RSI: 43.33 | RSIIndicator Live RSI: 53.32 | Price: 0.075
+Total: 1
+
+
+=== MATCHES === 2026-05-16 14:46 UTC
+IMXUSDT      | 1h RSI: 45.39 → 48.45 | Manual Live RSI: 47.03 | RSIIndicator Live RSI: 51.77 | Price: 0.1875
+NOMUSDT      | 1h RSI: 41.99 → 48.88 | Manual Live RSI: 45.83 | RSIIndicator Live RSI: 50.98 | Price: 0.00231
+Total: 2
+
+
+=== MATCHES === 2026-05-16 14:49 UTC
+TRXUSDT      | 1h RSI: 45.43 → 49.57 | Manual Live RSI: 48.94 | RSIIndicator Live RSI: 50.58 | Price: 0.3519
+Total: 1
+
+
+=== MATCHES === 2026-05-16 14:55 UTC
+BERAUSDT     | 1h RSI: 39.76 → 42.6 | Manual Live RSI: 52.94 | RSIIndicator Live RSI: 50.18 | Price: 0.374
+ZAMAUSDT     | 1h RSI: 43.86 → 49.38 | Manual Live RSI: 36.48 | RSIIndicator Live RSI: 50.74 | Price: 0.02675
+Total: 2
+
+
+=== MATCHES === 2026-05-16 14:57 UTC
+LAYERUSDT    | 1h RSI: 43.97 → 51.48 | Manual Live RSI: 38.95 | RSIIndicator Live RSI: 51.98 | Price: 0.095
+Total: 1
+
+
+=== MATCHES === 2026-05-16 15:00 UTC
+KAVAUSDT     | 1h RSI: 46.2 → 52.78 | Manual Live RSI: 51.68 | RSIIndicator Live RSI: 52.78 | Price: 0.06014
+BMTUSDT      | 1h RSI: 30.36 → 41.13 | Manual Live RSI: 52.91 | RSIIndicator Live RSI: 55.84 | Price: 0.01656
+PARTIUSDT    | 1h RSI: 40.28 → 49.03 | Manual Live RSI: 41.0 | RSIIndicator Live RSI: 50.16 | Price: 0.06
+ALLOUSDT     | 1h RSI: 42.8 → 52.32 | Manual Live RSI: 54.55 | RSIIndicator Live RSI: 52.32 | Price: 0.0846
+KATUSDT      | 1h RSI: 48.25 → 52.55 | Manual Live RSI: 51.14 | RSIIndicator Live RSI: 53.59 | Price: 0.00874
+Total: 5
+
+
+=== MATCHES === 2026-05-16 15:06 UTC
+USDCUSDT     | 1h RSI: 50.68 → 52.3 | Manual Live RSI: 23.53 | RSIIndicator Live RSI: 52.3 | Price: 1.00025
+WCTUSDT      | 1h RSI: 42.53 → 43.64 | Manual Live RSI: 42.11 | RSIIndicator Live RSI: 50.84 | Price: 0.0619
+Total: 2
+
+
+=== MATCHES === 2026-05-16 15:12 UTC
+BABYUSDT     | 1h RSI: 45.52 → 47.48 | Manual Live RSI: 50.0 | RSIIndicator Live RSI: 50.13 | Price: 0.01868
+ASTERUSDT    | 1h RSI: 46.39 → 50.99 | Manual Live RSI: 50.0 | RSIIndicator Live RSI: 53.84 | Price: 0.67
+Total: 2
+
+
+=== MATCHES === 2026-05-16 15:15 UTC
+POLUSDT      | 1h RSI: 36.75 → 41.85 | Manual Live RSI: 43.14 | RSIIndicator Live RSI: 50.46 | Price: 0.0908
+Total: 1
+
+
+=== MATCHES === 2026-05-16 15:18 UTC
+STOUSDT      | 1h RSI: 39.89 → 46.02 | Manual Live RSI: 46.51 | RSIIndicator Live RSI: 51.96 | Price: 0.0754
+NOMUSDT      | 1h RSI: 48.88 → 50.98 | Manual Live RSI: 50.0 | RSIIndicator Live RSI: 54.95 | Price: 0.00233
+Total: 2
+
+
+=== MATCHES === 2026-05-16 15:20 UTC
+TRXUSDT      | 1h RSI: 49.57 → 50.58 | Manual Live RSI: 50.0 | RSIIndicator Live RSI: 53.58 | Price: 0.3522
+Total: 1
+
+
+=== MATCHES === 2026-05-16 15:23 UTC
+RAREUSDT     | 1h RSI: 36.44 → 40.45 | Manual Live RSI: 44.44 | RSIIndicator Live RSI: 50.53 | Price: 0.0167
+Total: 1
+
+
+=== MATCHES === 2026-05-16 15:26 UTC
+APEUSDT      | 1h RSI: 42.05 → 44.84 | Manual Live RSI: 45.65 | RSIIndicator Live RSI: 51.56 | Price: 0.1442
+AVNTUSDT     | 1h RSI: 32.29 → 34.66 | Manual Live RSI: 44.19 | RSIIndicator Live RSI: 51.24 | Price: 0.1418
+Total: 2
+
+
+=== MATCHES === 2026-05-16 15:32 UTC
+KAVAUSDT     | 1h RSI: 46.2 → 52.78 | Manual Live RSI: 54.93 | RSIIndicator Live RSI: 55.75 | Price: 0.06044
+AIXBTUSDT    | 1h RSI: 43.64 → 45.92 | Manual Live RSI: 39.22 | RSIIndicator Live RSI: 50.27 | Price: 0.0322
+ALLOUSDT     | 1h RSI: 42.8 → 52.32 | Manual Live RSI: 60.23 | RSIIndicator Live RSI: 58.21 | Price: 0.0857
+KATUSDT      | 1h RSI: 48.25 → 52.55 | Manual Live RSI: 56.12 | RSIIndicator Live RSI: 58.17 | Price: 0.00884
+ZAMAUSDT     | 1h RSI: 49.38 → 50.96 | Manual Live RSI: 31.96 | RSIIndicator Live RSI: 50.71 | Price: 0.02675
+Total: 5
+
+
+=== MATCHES === 2026-05-16 15:35 UTC
+PARTIUSDT    | 1h RSI: 40.28 → 49.03 | Manual Live RSI: 41.58 | RSIIndicator Live RSI: 50.7 | Price: 0.0601
+MIRAUSDT     | 1h RSI: 36.34 → 43.66 | Manual Live RSI: 47.76 | RSIIndicator Live RSI: 52.84 | Price: 0.0786
+YBUSDT       | 1h RSI: 35.67 → 44.31 | Manual Live RSI: 44.63 | RSIIndicator Live RSI: 50.08 | Price: 0.1095
+Total: 3
+
+
+=== MATCHES === 2026-05-16 15:38 UTC
+USDCUSDT     | 1h RSI: 50.68 → 52.3 | Manual Live RSI: 22.22 | RSIIndicator Live RSI: 50.52 | Price: 1.00024
+Total: 1
+
+
+=== MATCHES === 2026-05-16 15:41 UTC
+ONGUSDT      | 1h RSI: 36.96 → 42.53 | Manual Live RSI: 41.41 | RSIIndicator Live RSI: 50.7 | Price: 0.06651
+Total: 1
+
+
+=== MATCHES === 2026-05-16 15:43 UTC
+BABYUSDT     | 1h RSI: 45.52 → 47.48 | Manual Live RSI: 51.98 | RSIIndicator Live RSI: 52.32 | Price: 0.01878
+ASTERUSDT    | 1h RSI: 46.39 → 50.99 | Manual Live RSI: 50.0 | RSIIndicator Live RSI: 53.84 | Price: 0.67
+Total: 2
+
+
+=== MATCHES === 2026-05-16 15:46 UTC
+1000SATSUSDT | 1h RSI: 35.91 → 38.84 | Manual Live RSI: 41.28 | RSIIndicator Live RSI: 50.15 | Price: 1.373e-05
+POLUSDT      | 1h RSI: 36.75 → 41.85 | Manual Live RSI: 43.14 | RSIIndicator Live RSI: 50.46 | Price: 0.0908
+Total: 2
+
+
+=== MATCHES === 2026-05-16 15:49 UTC
+JUVUSDT      | 1h RSI: 48.11 → 49.73 | Manual Live RSI: 47.06 | RSIIndicator Live RSI: 51.37 | Price: 0.474
+STOUSDT      | 1h RSI: 39.89 → 46.02 | Manual Live RSI: 51.06 | RSIIndicator Live RSI: 56.24 | Price: 0.0762
+NOMUSDT      | 1h RSI: 48.88 → 50.98 | Manual Live RSI: 50.0 | RSIIndicator Live RSI: 54.95 | Price: 0.00233
+Total: 3
+
+
+=== MATCHES === 2026-05-16 15:52 UTC
+TRXUSDT      | 1h RSI: 49.57 → 50.58 | Manual Live RSI: 53.85 | RSIIndicator Live RSI: 57.06 | Price: 0.3526
+KNCUSDT      | 1h RSI: 38.53 → 41.48 | Manual Live RSI: 42.11 | RSIIndicator Live RSI: 51.09 | Price: 0.1419
+Total: 2
+
+
+=== MATCHES === 2026-05-16 15:55 UTC
+RAREUSDT     | 1h RSI: 36.44 → 40.45 | Manual Live RSI: 44.44 | RSIIndicator Live RSI: 50.53 | Price: 0.0167
+Total: 1
+
+
+=== MATCHES === 2026-05-16 15:58 UTC
+APEUSDT      | 1h RSI: 42.05 → 44.84 | Manual Live RSI: 44.44 | RSIIndicator Live RSI: 50.42 | Price: 0.1439
+AVNTUSDT     | 1h RSI: 32.29 → 34.66 | Manual Live RSI: 44.19 | RSIIndicator Live RSI: 51.24 | Price: 0.1418
+Total: 2
+
+
+=== MATCHES === 2026-05-16 16:01 UTC
+MBLUSDT      | 1h RSI: 50.61 → 52.3 | Manual Live RSI: 57.89 | RSIIndicator Live RSI: 52.3 | Price: 0.000947
+PSGUSDT      | 1h RSI: 50.11 → 52.14 | Manual Live RSI: 54.2 | RSIIndicator Live RSI: 52.14 | Price: 1.066
+ATAUSDT      | 1h RSI: 48.3 → 51.14 | Manual Live RSI: 52.63 | RSIIndicator Live RSI: 51.14 | Price: 0.0062
+XECUSDT      | 1h RSI: 37.29 → 52.18 | Manual Live RSI: 49.06 | RSIIndicator Live RSI: 51.3 | Price: 7.64e-06
+PHBUSDT      | 1h RSI: 51.05 → 52.48 | Manual Live RSI: 54.29 | RSIIndicator Live RSI: 55.29 | Price: 0.083
+ORDIUSDT     | 1h RSI: 41.93 → 52.85 | Manual Live RSI: 55.07 | RSIIndicator Live RSI: 52.96 | Price: 4.323
+Total: 6
+
+
+=== HIDDEN BULLISH === 2026-05-16 16:03 UTC
+TRXUSDT      | Price: 0.3489 → 0.3508 (+0.54%) | RSI: 44.91 → 41.73 (-3.19) | Live RSI: 59.36 | Price: 0.3529
+CHZUSDT      | Price: 0.04258 → 0.04304 (+1.08%) | RSI: 41.98 → 40.25 (-1.73) | Live RSI: 62.15 | Price: 0.0465
+JSTUSDT      | Price: 0.0904 → 0.09064 (+0.27%) | RSI: 53.11 → 43.54 (-9.57) | Live RSI: 49.45 | Price: 0.0909
+AIXBTUSDT    | Price: 0.0302 → 0.031 (+2.65%) | RSI: 45.42 → 38.84 (-6.57) | Live RSI: 47.13 | Price: 0.0319
+Total: 4
+
+
+=== MATCHES === 2026-05-16 16:04 UTC
+JSTUSDT      | 1h RSI: 46.15 → 47.8 | Manual Live RSI: 50.51 | RSIIndicator Live RSI: 50.4 | Price: 0.09093
+STORJUSDT    | 1h RSI: 46.51 → 47.96 | Manual Live RSI: 33.11 | RSIIndicator Live RSI: 50.15 | Price: 0.124
+CTKUSDT      | 1h RSI: 28.98 → 49.38 | Manual Live RSI: 45.11 | RSIIndicator Live RSI: 50.17 | Price: 0.1879
+RENDERUSDT   | 1h RSI: 46.81 → 49.26 | Manual Live RSI: 32.96 | RSIIndicator Live RSI: 51.38 | Price: 1.853
+ENSOUSDT     | 1h RSI: 41.03 → 50.0 | Manual Live RSI: 39.53 | RSIIndicator Live RSI: 51.33 | Price: 0.849
+Total: 5
+
+
+=== MATCHES === 2026-05-16 16:06 UTC
+ACMUSDT      | 1h RSI: 44.89 → 46.38 | Manual Live RSI: 48.78 | RSIIndicator Live RSI: 50.67 | Price: 0.41
+STEEMUSDT    | 1h RSI: 44.88 → 47.03 | Manual Live RSI: 42.91 | RSIIndicator Live RSI: 52.42 | Price: 0.05736
+TONUSDT      | 1h RSI: 37.12 → 44.09 | Manual Live RSI: 46.19 | RSIIndicator Live RSI: 50.05 | Price: 1.96
+AIXBTUSDT    | 1h RSI: 45.93 → 48.19 | Manual Live RSI: 39.22 | RSIIndicator Live RSI: 50.42 | Price: 0.0322
+WCTUSDT      | 1h RSI: 43.65 → 48.98 | Manual Live RSI: 42.11 | RSIIndicator Live RSI: 50.98 | Price: 0.0619
+MIRAUSDT     | 1h RSI: 43.67 → 50.65 | Manual Live RSI: 43.55 | RSIIndicator Live RSI: 50.65 | Price: 0.0783
+Total: 6
+
+
+=== HIDDEN BULLISH === 2026-05-16 16:08 UTC
+EURUSDT      | Price: 1.1614 → 1.1615 (+0.01%) | RSI: 31.73 → 31.51 (-0.22) | Live RSI: 35.49 | Price: 1.1618
+AIXBTUSDT    | Price: 0.0302 → 0.031 (+2.65%) | RSI: 45.42 → 38.84 (-6.57) | Live RSI: 52.47 | Price: 0.0324
+Total: 2
+
+
+=== MATCHES === 2026-05-16 16:12 UTC
+ONGUSDT      | 1h RSI: 42.53 → 52.06 | Manual Live RSI: 44.06 | RSIIndicator Live RSI: 52.68 | Price: 0.06674
+OPNUSDT      | 1h RSI: 40.51 → 47.04 | Manual Live RSI: 42.54 | RSIIndicator Live RSI: 50.72 | Price: 0.1686
+Total: 2
+
+
+=== HIDDEN BULLISH === 2026-05-16 16:13 UTC
+LUMIAUSDT    | Price: 0.1017 → 0.102 (+0.29%) | RSI: 22.72 → 18.01 (-4.71) | Live RSI: 38.26 | Price: 0.102
+Total: 1
+
+
+=== MATCHES === 2026-05-16 16:15 UTC
+GPSUSDT      | 1h RSI: 45.15 → 47.79 | Manual Live RSI: 36.14 | RSIIndicator Live RSI: 50.97 | Price: 0.00798
+ZKPUSDT      | 1h RSI: 35.8 → 47.34 | Manual Live RSI: 50.7 | RSIIndicator Live RSI: 55.89 | Price: 0.0737
+Total: 2
+
+
+=== MATCHES === 2026-05-16 16:18 UTC
+POLUSDT      | 1h RSI: 41.86 → 50.47 | Manual Live RSI: 43.14 | RSIIndicator Live RSI: 50.47 | Price: 0.0908
+KERNELUSDT   | 1h RSI: 44.15 → 49.68 | Manual Live RSI: 50.46 | RSIIndicator Live RSI: 50.09 | Price: 0.0642
+TURTLEUSDT   | 1h RSI: 30.13 → 36.68 | Manual Live RSI: 44.0 | RSIIndicator Live RSI: 50.43 | Price: 0.0474
+Total: 3
+
+
+=== HIDDEN BULLISH === 2026-05-16 16:18 UTC
+TRXUSDT      | Price: 0.3489 → 0.3508 (+0.54%) | RSI: 44.91 → 41.73 (-3.19) | Live RSI: 62.9 | Price: 0.3534
+JSTUSDT      | Price: 0.0904 → 0.09064 (+0.27%) | RSI: 53.11 → 43.54 (-9.57) | Live RSI: 52.76 | Price: 0.09101
+Total: 2
+
+
+=== MATCHES === 2026-05-16 16:21 UTC
+BATUSDT      | 1h RSI: 43.71 → 46.93 | Manual Live RSI: 45.71 | RSIIndicator Live RSI: 50.02 | Price: 0.1
+Total: 1
+
+
+=== MATCHES === 2026-05-16 16:24 UTC
+KNCUSDT      | 1h RSI: 41.48 → 49.34 | Manual Live RSI: 40.0 | RSIIndicator Live RSI: 51.67 | Price: 0.142
+Total: 1
+
+
+=== MATCHES === 2026-05-16 16:27 UTC
+RAREUSDT     | 1h RSI: 40.45 → 50.53 | Manual Live RSI: 52.38 | RSIIndicator Live RSI: 58.16 | Price: 0.017
+Total: 1
+
+
+=== HIDDEN BULLISH === 2026-05-16 16:29 UTC
+JSTUSDT      | Price: 0.0904 → 0.09064 (+0.27%) | RSI: 53.11 → 43.54 (-9.57) | Live RSI: 55.9 | Price: 0.09113
+Total: 1
+
+
+=== MATCHES === 2026-05-16 16:30 UTC
+APEUSDT      | 1h RSI: 44.84 → 49.24 | Manual Live RSI: 45.26 | RSIIndicator Live RSI: 55.03 | Price: 0.1451
+AVNTUSDT     | 1h RSI: 34.66 → 51.92 | Manual Live RSI: 46.09 | RSIIndicator Live RSI: 51.53 | Price: 0.1419
+币安人生USDT     | 1h RSI: 38.54 → 47.01 | Manual Live RSI: 49.37 | RSIIndicator Live RSI: 50.07 | Price: 0.3984
+Total: 3
+
+
+=== MATCHES === 2026-05-16 16:33 UTC
+MBLUSDT      | 1h RSI: 50.61 → 52.3 | Manual Live RSI: 63.64 | RSIIndicator Live RSI: 59.09 | Price: 0.000956
+PSGUSDT      | 1h RSI: 50.11 → 52.14 | Manual Live RSI: 55.56 | RSIIndicator Live RSI: 53.5 | Price: 1.07
+ATAUSDT      | 1h RSI: 48.3 → 51.14 | Manual Live RSI: 52.63 | RSIIndicator Live RSI: 51.14 | Price: 0.0062
+XECUSDT      | 1h RSI: 37.29 → 52.18 | Manual Live RSI: 49.06 | RSIIndicator Live RSI: 51.3 | Price: 7.64e-06
+PHBUSDT      | 1h RSI: 51.05 → 52.48 | Manual Live RSI: 57.89 | RSIIndicator Live RSI: 58.93 | Price: 0.086
+ORDIUSDT     | 1h RSI: 41.93 → 52.85 | Manual Live RSI: 54.96 | RSIIndicator Live RSI: 52.85 | Price: 4.322
+Total: 6
+
+
+=== HIDDEN BULLISH === 2026-05-16 16:34 UTC
+AIXBTUSDT    | Price: 0.0302 → 0.031 (+2.65%) | RSI: 45.42 → 38.84 (-6.57) | Live RSI: 49.33 | Price: 0.0321
+Total: 1
+
+
+=== MATCHES === 2026-05-16 16:35 UTC
+JSTUSDT      | 1h RSI: 46.15 → 47.8 | Manual Live RSI: 62.31 | RSIIndicator Live RSI: 58.44 | Price: 0.09124
+CTKUSDT      | 1h RSI: 28.98 → 49.38 | Manual Live RSI: 48.59 | RSIIndicator Live RSI: 53.45 | Price: 0.1888
+Total: 2
+
+
+=== MATCHES === 2026-05-16 16:38 UTC
+ACMUSDT      | 1h RSI: 44.89 → 46.38 | Manual Live RSI: 48.78 | RSIIndicator Live RSI: 50.67 | Price: 0.41
+STEEMUSDT    | 1h RSI: 44.88 → 47.03 | Manual Live RSI: 40.16 | RSIIndicator Live RSI: 50.16 | Price: 0.05724
+Total: 2
+
+
+=== HIDDEN BULLISH === 2026-05-16 16:39 UTC
+CHZUSDT      | Price: 0.04258 → 0.04304 (+1.08%) | RSI: 41.98 → 40.25 (-1.73) | Live RSI: 58.13 | Price: 0.04606
+JSTUSDT      | Price: 0.0904 → 0.09064 (+0.27%) | RSI: 53.11 → 43.54 (-9.57) | Live RSI: 59.91 | Price: 0.09131
+Total: 2
+
+
+=== MATCHES === 2026-05-16 16:47 UTC
+GPSUSDT      | 1h RSI: 45.15 → 47.79 | Manual Live RSI: 36.14 | RSIIndicator Live RSI: 50.97 | Price: 0.00798
+ZKPUSDT      | 1h RSI: 35.8 → 47.34 | Manual Live RSI: 45.31 | RSIIndicator Live RSI: 50.81 | Price: 0.073
+Total: 2
+
+
+=== HIDDEN BULLISH === 2026-05-16 16:50 UTC
+CHZUSDT      | Price: 0.04258 → 0.04304 (+1.08%) | RSI: 41.98 → 40.25 (-1.73) | Live RSI: 61.66 | Price: 0.04645
+Total: 1
+
+
+=== MATCHES === 2026-05-16 16:50 UTC
+SUNUSDT      | 1h RSI: 27.02 → 41.62 | Manual Live RSI: 50.0 | RSIIndicator Live RSI: 50.88 | Price: 0.01954
+ORCAUSDT     | 1h RSI: 45.19 → 47.35 | Manual Live RSI: 45.64 | RSIIndicator Live RSI: 50.01 | Price: 1.493
+Total: 2
+
+
+=== MATCHES === 2026-05-16 16:53 UTC
+POLUSDT      | 1h RSI: 41.86 → 50.47 | Manual Live RSI: 43.14 | RSIIndicator Live RSI: 50.47 | Price: 0.0908
+Total: 1
+
+
+=== MATCHES === 2026-05-16 16:59 UTC
+RAREUSDT     | 1h RSI: 40.45 → 50.53 | Manual Live RSI: 47.37 | RSIIndicator Live RSI: 53.36 | Price: 0.0168
+Total: 1
+
+
+=== HIDDEN BULLISH === 2026-05-16 17:00 UTC
+XRPUSDT      | Price: 1.394 → 1.406 (+0.86%) | RSI: 37.92 → 26.03 (-11.89) | Live RSI: 41.88 | Price: 1.4172
+ZRXUSDT      | Price: 0.1069 → 0.1077 (+0.75%) | RSI: 34.31 → 29.94 (-4.37) | Live RSI: 42.28 | Price: 0.109
+RVNUSDT      | Price: 0.00549 → 0.00555 (+1.09%) | RSI: 30.63 → 24.66 (-5.97) | Live RSI: 44.24 | Price: 0.00562
+HBARUSDT     | Price: 0.09 → 0.09067 (+0.74%) | RSI: 42.63 → 28.06 (-14.57) | Live RSI: 44.47 | Price: 0.09165
+ONEUSDT      | Price: 0.00208 → 0.0021 (+0.96%) | RSI: 33.36 → 26.39 (-6.98) | Live RSI: 38.05 | Price: 0.00213
+ARPAUSDT     | Price: 0.01112 → 0.01131 (+1.71%) | RSI: 52.19 → 33.5 (-18.69) | Live RSI: 37.95 | Price: 0.01134
+SUSHIUSDT    | Price: 0.2077 → 0.2096 (+0.91%) | RSI: 33.63 → 21.92 (-11.71) | Live RSI: 38.35 | Price: 0.2131
+PUNDIXUSDT   | Price: 0.1413 → 0.1422 (+0.64%) | RSI: 34.51 → 25.65 (-8.86) | Live RSI: 37.1 | Price: 0.143
+SLPUSDT      | Price: 0.000666 → 0.000671 (+0.75%) | RSI: 34.16 → 23.8 (-10.36) | Live RSI: 35.1 | Price: 0.000677
+QUICKUSDT    | Price: 0.00956 → 0.00958 (+0.21%) | RSI: 29.78 → 28.22 (-1.56) | Live RSI: 40.58 | Price: 0.0097
+WAXPUSDT     | Price: 0.00634 → 0.0064 (+0.95%) | RSI: 35.98 → 28.06 (-7.92) | Live RSI: 41.31 | Price: 0.00645
+MASKUSDT     | Price: 0.458 → 0.462 (+0.87%) | RSI: 34.05 → 19.13 (-14.92) | Live RSI: 37.53 | Price: 0.47
+GALAUSDT     | Price: 0.00333 → 0.00335 (+0.6%) | RSI: 36.39 → 24.06 (-12.33) | Live RSI: 38.31 | Price: 0.0034
+RAREUSDT     | Price: 0.016 → 0.0162 (+1.25%) | RSI: 31.23 → 27.12 (-4.11) | Live RSI: 53.37 | Price: 0.0168
+BICOUSDT     | Price: 0.0232 → 0.0234 (+0.86%) | RSI: 33.6 → 24.45 (-9.16) | Live RSI: 43.43 | Price: 0.0241
+FLUXUSDT     | Price: 0.071 → 0.0715 (+0.7%) | RSI: 35.65 → 25.56 (-10.1) | Live RSI: 40.93 | Price: 0.0728
+HIGHUSDT     | Price: 0.189 → 0.19 (+0.53%) | RSI: 28.65 → 28.64 (-0.01) | Live RSI: 36.45 | Price: 0.192
+WOOUSDT      | Price: 0.0169 → 0.0171 (+1.18%) | RSI: 29.63 → 19.89 (-9.75) | Live RSI: 40.71 | Price: 0.0174
+MAGICUSDT    | Price: 0.062 → 0.0622 (+0.32%) | RSI: 32.68 → 21.15 (-11.53) | Live RSI: 39.61 | Price: 0.0636
+IDUSDT       | Price: 0.0295 → 0.0296 (+0.34%) | RSI: 31.73 → 25.66 (-6.07) | Live RSI: 38.03 | Price: 0.0302
+PEPEUSDT     | Price: 3.69e-06 → 3.72e-06 (+0.81%) | RSI: 35.24 → 22.6 (-12.64) | Live RSI: 35.86 | Price: 3.77e-06
+SAGAUSDT     | Price: 0.02192 → 0.0222 (+1.28%) | RSI: 37.34 → 28.8 (-8.54) | Live RSI: 37.51 | Price: 0.02269
+1MBABYDOGEUSDT | Price: 0.0004086 → 0.0004124 (+0.93%) | RSI: 36.19 → 23.53 (-12.66) | Live RSI: 38.68 | Price: 0.000419
+MOVEUSDT     | Price: 0.0169 → 0.0172 (+1.78%) | RSI: 32.31 → 26.87 (-5.44) | Live RSI: 40.84 | Price: 0.0173
+PENGUUSDT    | Price: 0.008334 → 0.0084 (+0.79%) | RSI: 39.59 → 25.6 (-13.99) | Live RSI: 35.91 | Price: 0.008494
+NEWTUSDT     | Price: 0.0715 → 0.072 (+0.7%) | RSI: 34.9 → 20.48 (-14.42) | Live RSI: 41.84 | Price: 0.0738
+TREEUSDT     | Price: 0.062 → 0.0627 (+1.13%) | RSI: 25.94 → 25.47 (-0.47) | Live RSI: 38.23 | Price: 0.0635
+SOMIUSDT     | Price: 0.1637 → 0.1656 (+1.16%) | RSI: 34.3 → 34.24 (-0.07) | Live RSI: 44.21 | Price: 0.1675
+TOWNSUSDT    | Price: 0.00299 → 0.00302 (+1.0%) | RSI: 33.54 → 24.5 (-9.04) | Live RSI: 42.02 | Price: 0.00309
+FUSDT        | Price: 0.00517 → 0.00522 (+0.97%) | RSI: 34.08 → 22.3 (-11.77) | Live RSI: 37.79 | Price: 0.00529
+Total: 30
+
+
+=== MATCHES === 2026-05-16 17:01 UTC
+USDCUSDT     | 1h RSI: 50.52 → 52.27 | Manual Live RSI: 31.25 | RSIIndicator Live RSI: 52.27 | Price: 1.00025
+LUNAUSDT     | 1h RSI: 49.33 → 52.92 | Manual Live RSI: 50.65 | RSIIndicator Live RSI: 53.62 | Price: 0.0659
+ICPUSDT      | 1h RSI: 50.14 → 52.63 | Manual Live RSI: 51.86 | RSIIndicator Live RSI: 53.65 | Price: 2.663
+USTCUSDT     | 1h RSI: 48.92 → 51.85 | Manual Live RSI: 49.15 | RSIIndicator Live RSI: 51.85 | Price: 0.00653
+WCTUSDT      | 1h RSI: 48.99 → 50.01 | Manual Live RSI: 41.82 | RSIIndicator Live RSI: 50.01 | Price: 0.0618
+YBUSDT       | 1h RSI: 45.37 → 47.51 | Manual Live RSI: 44.44 | RSIIndicator Live RSI: 50.63 | Price: 0.1095
+ZAMAUSDT     | 1h RSI: 51.21 → 52.9 | Manual Live RSI: 45.2 | RSIIndicator Live RSI: 53.4 | Price: 0.02686
+Total: 7
+
+
+=== MATCHES === 2026-05-16 17:04 UTC
+TURTLEUSDT   | 1h RSI: 36.68 → 49.44 | Manual Live RSI: 44.0 | RSIIndicator Live RSI: 50.51 | Price: 0.0474
+Total: 1
+
+
+=== HIDDEN BULLISH === 2026-05-16 17:06 UTC
+LINKUSDT     | Price: 9.61 → 9.62 (+0.1%) | RSI: 36.26 → 19.13 (-17.14) | Live RSI: 37.25 | Price: 9.77
+ONEUSDT      | Price: 0.00208 → 0.0021 (+0.96%) | RSI: 33.36 → 26.39 (-6.98) | Live RSI: 41.51 | Price: 0.00214
+PEPEUSDT     | Price: 3.69e-06 → 3.72e-06 (+0.81%) | RSI: 35.24 → 22.6 (-12.64) | Live RSI: 39.9 | Price: 3.79e-06
+Total: 3
+
+
+=== HIDDEN BULLISH === 2026-05-16 17:11 UTC
+HIGHUSDT     | Price: 0.189 → 0.19 (+0.53%) | RSI: 28.65 → 28.64 (-0.01) | Live RSI: 39.45 | Price: 0.193
+Total: 1
+
+
+=== MATCHES === 2026-05-16 17:13 UTC
+AWEUSDT      | 1h RSI: 37.71 → 45.1 | Manual Live RSI: 45.1 | RSIIndicator Live RSI: 50.03 | Price: 0.05545
+Total: 1
+
+
+=== HIDDEN BULLISH === 2026-05-16 17:16 UTC
+THETAUSDT    | Price: 0.202 → 0.204 (+0.99%) | RSI: 34.82 → 22.16 (-12.66) | Live RSI: 36.5 | Price: 0.207
+ONEUSDT      | Price: 0.00208 → 0.0021 (+0.96%) | RSI: 33.36 → 26.39 (-6.98) | Live RSI: 38.05 | Price: 0.00213
+Total: 2
+
+
+=== MATCHES === 2026-05-16 17:18 UTC
+GPSUSDT      | 1h RSI: 47.8 → 52.42 | Manual Live RSI: 40.47 | RSIIndicator Live RSI: 55.0 | Price: 0.00812
+Total: 1
+
+
+=== MATCHES === 2026-05-16 17:21 UTC
+ORCAUSDT     | 1h RSI: 47.35 → 51.0 | Manual Live RSI: 40.6 | RSIIndicator Live RSI: 51.0 | Price: 1.499
+Total: 1
+
+
+=== HIDDEN BULLISH === 2026-05-16 17:22 UTC
+VETUSDT      | Price: 0.006977 → 0.006745 (-3.33%) | RSI: 26.3 → 31.89 (+5.6) | Low2=7h ago | Live RSI=36.6 | OVERSOLD RECOVERY (30-40)
+LINKUSDT     | Price: 9.96 → 9.61 (-3.51%) | RSI: 32.55 → 36.24 (+3.7) | Low2=7h ago | Live RSI=36.02 | OVERSOLD RECOVERY (30-40)
+ZRXUSDT      | Price: 0.1128 → 0.1069 (-5.23%) | RSI: 25.65 → 29.94 (+4.29) | Low2=8h ago | Live RSI=43.0 | MID RECOVERY (40-50)
+KNCUSDT      | Price: 0.1433 → 0.1374 (-4.12%) | RSI: 27.71 → 30.35 (+2.65) | Low2=7h ago | Live RSI=49.56 | MID RECOVERY (40-50)
+DOTUSDT      | Price: 1.289 → 1.247 (-3.26%) | RSI: 32.62 → 39.35 (+6.73) | Low2=7h ago | Live RSI=39.6 | OVERSOLD RECOVERY (30-40)
+LUNAUSDT     | Price: 0.0632 → 0.0628 (-0.63%) | RSI: 29.03 → 35.22 (+6.18) | Low2=8h ago | Live RSI=54.31 | MID ZONE (50-55)
+NEARUSDT     | Price: 1.539 → 1.509 (-1.95%) | RSI: 36.3 → 43.07 (+6.77) | Low2=28h ago | Live RSI=39.99 | OVERSOLD RECOVERY (30-40)
+ALICEUSDT    | Price: 0.1365 → 0.128 (-6.23%) | RSI: 26.14 → 28.82 (+2.68) | Low2=7h ago | Live RSI=45.33 | MID RECOVERY (40-50)
+RENDERUSDT   | Price: 1.792 → 1.777 (-0.84%) | RSI: 31.71 → 34.17 (+2.46) | Low2=8h ago | Live RSI=49.06 | MID RECOVERY (40-50)
+1000CATUSDT  | Price: 0.002 → 0.00192 (-4.0%) | RSI: 26.73 → 34.71 (+7.97) | Low2=27h ago | Live RSI=40.64 | MID RECOVERY (40-50)
+COOKIEUSDT   | Price: 0.017 → 0.0161 (-5.29%) | RSI: 29.07 → 44.98 (+15.91) | Low2=7h ago | Live RSI=38.7 | OVERSOLD RECOVERY (30-40)
+NILUSDT      | Price: 0.04888 → 0.04655 (-4.77%) | RSI: 28.72 → 31.28 (+2.56) | Low2=7h ago | Live RSI=35.06 | OVERSOLD RECOVERY (30-40)
+EDENUSDT     | Price: 0.0366 → 0.0346 (-5.46%) | RSI: 27.33 → 30.37 (+3.04) | Low2=8h ago | Live RSI=46.2 | MID RECOVERY (40-50)
+SAPIENUSDT   | Price: 0.1196 → 0.1176 (-1.67%) | RSI: 32.35 → 39.3 (+6.95) | Low2=10h ago | Live RSI=54.54 | MID ZONE (50-55)
+Total: 14
+
+
+=== MATCHES === 2026-05-16 17:24 UTC
+ZKPUSDT      | 1h RSI: 47.35 → 49.99 | Manual Live RSI: 46.03 | RSIIndicator Live RSI: 50.87 | Price: 0.073
+Total: 1
+
+
+=== MATCHES === 2026-05-16 17:30 UTC
+ACMUSDT      | 1h RSI: 46.38 → 50.67 | Manual Live RSI: 50.0 | RSIIndicator Live RSI: 50.67 | Price: 0.41
+LISTAUSDT    | 1h RSI: 42.99 → 44.83 | Manual Live RSI: 47.69 | RSIIndicator Live RSI: 50.83 | Price: 0.082
+Total: 2
+
+
+=== MATCHES === 2026-05-16 17:32 UTC
+USDCUSDT     | 1h RSI: 50.52 → 52.27 | Manual Live RSI: 29.41 | RSIIndicator Live RSI: 50.35 | Price: 1.00024
+LUNAUSDT     | 1h RSI: 49.33 → 52.92 | Manual Live RSI: 50.0 | RSIIndicator Live RSI: 52.92 | Price: 0.0658
+ICPUSDT      | 1h RSI: 50.14 → 52.63 | Manual Live RSI: 53.2 | RSIIndicator Live RSI: 55.04 | Price: 2.673
+USTCUSDT     | 1h RSI: 48.92 → 51.85 | Manual Live RSI: 47.93 | RSIIndicator Live RSI: 50.29 | Price: 0.0065
+WCTUSDT      | 1h RSI: 48.99 → 50.01 | Manual Live RSI: 42.86 | RSIIndicator Live RSI: 51.06 | Price: 0.0619
+Total: 5
+
+
+=== MATCHES === 2026-05-16 17:35 UTC
+TURTLEUSDT   | 1h RSI: 36.68 → 49.44 | Manual Live RSI: 44.0 | RSIIndicator Live RSI: 50.51 | Price: 0.0474
+Total: 1
+
+
+=== HIDDEN BULLISH === 2026-05-16 17:37 UTC
+DOTUSDT      | Price: 1.289 → 1.247 (-3.26%) | RSI: 32.62 → 39.35 (+6.73) | Low2=7h ago | Live RSI=42.85 | MID RECOVERY (40-50)
+ALICEUSDT    | Price: 0.1365 → 0.128 (-6.23%) | RSI: 26.14 → 28.82 (+2.68) | Low2=7h ago | Live RSI=48.47 | MID RECOVERY (40-50)
+1000CATUSDT  | Price: 0.002 → 0.00192 (-4.0%) | RSI: 26.73 → 34.71 (+7.97) | Low2=27h ago | Live RSI=37.01 | OVERSOLD RECOVERY (30-40)
+Total: 3
+
+
+=== MATCHES === 2026-05-16 17:44 UTC
+NEXOUSDT     | 1h RSI: 36.9 → 38.81 | Manual Live RSI: 47.13 | RSIIndicator Live RSI: 50.87 | Price: 0.875
+AWEUSDT      | 1h RSI: 37.71 → 45.1 | Manual Live RSI: 46.01 | RSIIndicator Live RSI: 51.06 | Price: 0.05557
+Total: 2
+
+
+=== MATCHES === 2026-05-16 17:49 UTC
+GPSUSDT      | 1h RSI: 47.8 → 52.42 | Manual Live RSI: 40.47 | RSIIndicator Live RSI: 55.0 | Price: 0.00812
+Total: 1
+
+
+=== HIDDEN BULLISH === 2026-05-16 17:52 UTC
+1000CATUSDT  | Price: 0.002 → 0.00192 (-4.0%) | RSI: 26.73 → 34.71 (+7.97) | Low2=27h ago | Live RSI=40.64 | MID RECOVERY (40-50)
+Total: 1
+
+
+=== MATCHES === 2026-05-16 17:52 UTC
+SUNUSDT      | 1h RSI: 41.63 → 49.75 | Manual Live RSI: 55.56 | RSIIndicator Live RSI: 50.97 | Price: 0.01954
+INJUSDT      | 1h RSI: 38.12 → 46.99 | Manual Live RSI: 44.49 | RSIIndicator Live RSI: 50.34 | Price: 4.775
+STEEMUSDT    | 1h RSI: 47.03 → 48.33 | Manual Live RSI: 42.51 | RSIIndicator Live RSI: 51.33 | Price: 0.05729
+ORCAUSDT     | 1h RSI: 47.35 → 51.0 | Manual Live RSI: 42.78 | RSIIndicator Live RSI: 53.32 | Price: 1.513
+AIGENSYNUSDT | 1h RSI: 43.35 → 45.12 | Manual Live RSI: 43.28 | RSIIndicator Live RSI: 50.86 | Price: 0.03671
+Total: 5
+
+
+=== MATCHES === 2026-05-16 17:55 UTC
+AIXBTUSDT    | 1h RSI: 48.19 → 49.33 | Manual Live RSI: 43.64 | RSIIndicator Live RSI: 54.71 | Price: 0.0326
+ZKPUSDT      | 1h RSI: 47.35 → 49.99 | Manual Live RSI: 47.69 | RSIIndicator Live RSI: 52.55 | Price: 0.0732
+Total: 2
+
+
+=== MATCHES === 2026-05-16 18:01 UTC
+ONGUSDT      | 1h RSI: 49.49 → 52.65 | Manual Live RSI: 44.37 | RSIIndicator Live RSI: 52.65 | Price: 0.06674
+DGBUSDT      | 1h RSI: 49.68 → 52.82 | Manual Live RSI: 52.63 | RSIIndicator Live RSI: 51.1 | Price: 0.0037
+BTTCUSDT     | 1h RSI: 44.98 → 52.27 | Manual Live RSI: 50.0 | RSIIndicator Live RSI: 52.27 | Price: 3.3e-07
+POLYXUSDT    | 1h RSI: 49.66 → 50.71 | Manual Live RSI: 47.06 | RSIIndicator Live RSI: 50.71 | Price: 0.0566
+PIVXUSDT     | 1h RSI: 33.67 → 50.44 | Manual Live RSI: 53.7 | RSIIndicator Live RSI: 50.44 | Price: 0.0672
+POLUSDT      | 1h RSI: 51.45 → 52.45 | Manual Live RSI: 52.08 | RSIIndicator Live RSI: 53.48 | Price: 0.0911
+AVNTUSDT     | 1h RSI: 47.65 → 51.59 | Manual Live RSI: 49.65 | RSIIndicator Live RSI: 51.59 | Price: 0.1419
+YBUSDT       | 1h RSI: 47.51 → 52.06 | Manual Live RSI: 51.49 | RSIIndicator Live RSI: 52.55 | Price: 0.1099
+Total: 8
+
+
+=== MATCHES === 2026-05-16 18:04 UTC
+WCTUSDT      | 1h RSI: 50.01 → 52.07 | Manual Live RSI: 48.08 | RSIIndicator Live RSI: 52.07 | Price: 0.062
+Total: 1
+
+
+=== HIDDEN BULLISH === 2026-05-16 18:06 UTC
+ADAUSDT      | Price Low1=0.2568 → Now=0.2551 (-0.66%) | RSI Low1=32.85 → Live=38.85 (+6.0) | Price=0.2559 | 30-40 oversold
+XLMUSDT      | Price Low1=0.1537 → Now=0.1521 (-1.04%) | RSI Low1=29.27 → Live=39.58 (+10.31) | Price=0.1526 | 30-40 oversold
+LINKUSDT     | Price Low1=9.96 → Now=9.7 (-2.61%) | RSI Low1=33.9 → Live=37.25 (+3.35) | Price=9.77 | 30-40 oversold
+HOTUSDT      | Price Low1=0.000438 → Now=0.000404 (-7.76%) | RSI Low1=37.94 → Live=43.07 (+5.13) | Price=0.000408 | 40-50 mid recovery
+ZRXUSDT      | Price Low1=0.1138 → Now=0.1089 (-4.31%) | RSI Low1=37.94 → Live=42.57 (+4.63) | Price=0.109 | 40-50 mid recovery
+FETUSDT      | Price Low1=0.201 → Now=0.1966 (-2.19%) | RSI Low1=30.62 → Live=38.35 (+7.73) | Price=0.1976 | 30-40 oversold
+THETAUSDT    | Price Low1=0.208 → Now=0.205 (-1.44%) | RSI Low1=31.49 → Live=36.52 (+5.03) | Price=0.207 | 30-40 oversold
+TFUELUSDT    | Price Low1=0.01104 → Now=0.01098 (-0.54%) | RSI Low1=30.58 → Live=41.42 (+10.84) | Price=0.011 | 40-50 mid recovery
+ENJUSDT      | Price Low1=0.04322 → Now=0.04259 (-1.46%) | RSI Low1=29.19 → Live=38.15 (+8.96) | Price=0.04286 | 30-40 oversold
+RVNUSDT      | Price Low1=0.00586 → Now=0.0056 (-4.44%) | RSI Low1=37.54 → Live=44.49 (+6.95) | Price=0.00562 | 40-50 mid recovery
+OGNUSDT      | Price Low1=0.02238 → Now=0.02214 (-1.07%) | RSI Low1=30.18 → Live=36.98 (+6.8) | Price=0.02214 | 30-40 oversold
+CHRUSDT      | Price Low1=0.02265 → Now=0.02194 (-3.13%) | RSI Low1=35.34 → Live=38.86 (+3.52) | Price=0.02209 | 30-40 oversold
+VTHOUSDT     | Price Low1=0.000564 → Now=0.000536 (-4.96%) | RSI Low1=36.51 → Live=39.43 (+2.92) | Price=0.000539 | 30-40 oversold
+DGBUSDT      | Price Low1=0.00373 → Now=0.00368 (-1.34%) | RSI Low1=31.05 → Live=51.1 (+20.05) | Price=0.0037 | 50-58 mid zone
+DOTUSDT      | Price Low1=1.289 → Now=1.272 (-1.32%) | RSI Low1=37.5 → Live=42.4 (+4.9) | Price=1.279 | 40-50 mid recovery
+BELUSDT      | Price Low1=0.1088 → Now=0.1071 (-1.56%) | RSI Low1=31.31 → Live=39.64 (+8.33) | Price=0.1077 | 30-40 oversold
+UNIUSDT      | Price Low1=3.523 → Now=3.492 (-0.88%) | RSI Low1=36.93 → Live=39.86 (+2.93) | Price=3.515 | 30-40 oversold
+AVAXUSDT     | Price Low1=9.41 → Now=9.31 (-1.06%) | RSI Low1=31.74 → Live=39.62 (+7.88) | Price=9.35 | 30-40 oversold
+NEARUSDT     | Price Low1=1.509 → Now=1.489 (-1.33%) | RSI Low1=36.3 → Live=41.29 (+4.99) | Price=1.5 | 40-50 mid recovery
+FILUSDT      | Price Low1=0.979 → Now=0.973 (-0.61%) | RSI Low1=30.55 → Live=37.77 (+7.22) | Price=0.976 | 30-40 oversold
+INJUSDT      | Price Low1=4.743 → Now=4.649 (-1.98%) | RSI Low1=35.55 → Live=50.51 (+14.96) | Price=4.776 | 50-58 mid zone
+CTKUSDT      | Price Low1=0.1923 → Now=0.1877 (-2.39%) | RSI Low1=40.09 → Live=55.81 (+15.72) | Price=0.1902 | 50-58 mid zone
+SKLUSDT      | Price Low1=0.00646 → Now=0.00631 (-2.32%) | RSI Low1=30.67 → Live=37.13 (+6.46) | Price=0.00635 | 30-40 oversold
+GRTUSDT      | Price Low1=0.02656 → Now=0.02573 (-3.13%) | RSI Low1=34.07 → Live=36.92 (+2.85) | Price=0.02583 | 30-40 oversold
+1INCHUSDT    | Price Low1=0.0964 → Now=0.0929 (-3.63%) | RSI Low1=34.2 → Live=37.84 (+3.64) | Price=0.0935 | 30-40 oversold
+CELOUSDT     | Price Low1=0.0863 → Now=0.08347 (-3.28%) | RSI Low1=28.41 → Live=34.89 (+6.48) | Price=0.08403 | 30-40 oversold
+CKBUSDT      | Price Low1=0.001493 → Now=0.001484 (-0.6%) | RSI Low1=32.54 → Live=36.91 (+4.37) | Price=0.001486 | 30-40 oversold
+CAKEUSDT     | Price Low1=1.484 → Now=1.473 (-0.74%) | RSI Low1=37.3 → Live=39.65 (+2.35) | Price=1.476 | 30-40 oversold
+ACMUSDT      | Price Low1=0.424 → Now=0.406 (-4.25%) | RSI Low1=31.92 → Live=48.12 (+16.2) | Price=0.408 | 40-50 mid recovery
+CFXUSDT      | Price Low1=0.06818 → Now=0.06489 (-4.83%) | RSI Low1=34.13 → Live=41.39 (+7.26) | Price=0.06524 | 40-50 mid recovery
+TKOUSDT      | Price Low1=0.0562 → Now=0.0554 (-1.42%) | RSI Low1=35.01 → Live=38.65 (+3.64) | Price=0.0556 | 30-40 oversold
+TLMUSDT      | Price Low1=0.001878 → Now=0.001863 (-0.8%) | RSI Low1=29.16 → Live=33.83 (+4.67) | Price=0.001864 | 30-40 oversold
+BARUSDT      | Price Low1=0.431 → Now=0.412 (-4.41%) | RSI Low1=28.65 → Live=45.53 (+16.88) | Price=0.414 | 40-50 mid recovery
+SLPUSDT      | Price Low1=0.000686 → Now=0.000676 (-1.46%) | RSI Low1=31.66 → Live=40.23 (+8.57) | Price=0.00068 | 40-50 mid recovery
+XVGUSDT      | Price Low1=0.003303 → Now=0.003238 (-1.97%) | RSI Low1=33.8 → Live=39.38 (+5.58) | Price=0.003256 | 30-40 oversold
+GTCUSDT      | Price Low1=0.102 → Now=0.098 (-3.92%) | RSI Low1=31.31 → Live=37.33 (+6.02) | Price=0.099 | 30-40 oversold
+C98USDT      | Price Low1=0.0211 → Now=0.0198 (-6.16%) | RSI Low1=32.34 → Live=39.67 (+7.33) | Price=0.0199 | 30-40 oversold
+QUICKUSDT    | Price Low1=0.00975 → Now=0.00963 (-1.23%) | RSI Low1=30.94 → Live=40.97 (+10.03) | Price=0.0097 | 40-50 mid recovery
+MBOXUSDT     | Price Low1=0.012 → Now=0.0112 (-6.67%) | RSI Low1=38.16 → Live=41.37 (+3.21) | Price=0.0112 | 40-50 mid recovery
+WAXPUSDT     | Price Low1=0.00662 → Now=0.00644 (-2.72%) | RSI Low1=36.95 → Live=43.42 (+6.47) | Price=0.00646 | 40-50 mid recovery
+GALAUSDT     | Price Low1=0.00354 → Now=0.00338 (-4.52%) | RSI Low1=29.17 → Live=43.57 (+14.4) | Price=0.00342 | 40-50 mid recovery
+FIDAUSDT     | Price Low1=0.01645 → Now=0.01631 (-0.85%) | RSI Low1=29.13 → Live=37.79 (+8.66) | Price=0.0164 | 30-40 oversold
+RAREUSDT     | Price Low1=0.0172 → Now=0.0168 (-2.33%) | RSI Low1=36.47 → Live=52.77 (+16.3) | Price=0.0168 | 50-58 mid zone
+JASMYUSDT    | Price Low1=0.00659 → Now=0.00595 (-9.71%) | RSI Low1=28.62 → Live=40.88 (+12.26) | Price=0.00598 | 40-50 mid recovery
+AMPUSDT      | Price Low1=0.000862 → Now=0.000828 (-3.94%) | RSI Low1=39.72 → Live=44.51 (+4.79) | Price=0.000863 | 40-50 mid recovery
+BICOUSDT     | Price Low1=0.0252 → Now=0.024 (-4.76%) | RSI Low1=34.5 → Live=41.55 (+7.05) | Price=0.024 | 40-50 mid recovery
+FLUXUSDT     | Price Low1=0.0817 → Now=0.0723 (-11.51%) | RSI Low1=43.37 → Live=46.84 (+3.47) | Price=0.0735 | 40-50 mid recovery
+PEOPLEUSDT   | Price Low1=0.00729 → Now=0.00717 (-1.65%) | RSI Low1=31.13 → Live=34.79 (+3.66) | Price=0.00719 | 30-40 oversold
+SPELLUSDT    | Price Low1=0.0001633 → Now=0.000162 (-0.8%) | RSI Low1=31.89 → Live=39.33 (+7.44) | Price=0.0001622 | 30-40 oversold
+SCRTUSDT     | Price Low1=0.0884 → Now=0.0863 (-2.38%) | RSI Low1=29.37 → Live=36.91 (+7.54) | Price=0.0864 | 30-40 oversold
+WOOUSDT      | Price Low1=0.0194 → Now=0.0173 (-10.82%) | RSI Low1=29.9 → Live=37.79 (+7.89) | Price=0.0173 | 30-40 oversold
+GMTUSDT      | Price Low1=0.01143 → Now=0.01121 (-1.92%) | RSI Low1=28.04 → Live=35.46 (+7.42) | Price=0.01121 | 30-40 oversold
+APTUSDT      | Price Low1=0.97 → Now=0.954 (-1.65%) | RSI Low1=29.36 → Live=33.74 (+4.38) | Price=0.956 | 30-40 oversold
+MAGICUSDT    | Price Low1=0.067 → Now=0.0634 (-5.37%) | RSI Low1=40.74 → Live=44.46 (+3.72) | Price=0.064 | 40-50 mid recovery
+SYNUSDT      | Price Low1=0.0509 → Now=0.05 (-1.77%) | RSI Low1=32.7 → Live=43.89 (+11.19) | Price=0.0501 | 40-50 mid recovery
+QKCUSDT      | Price Low1=0.003142 → Now=0.002982 (-5.09%) | RSI Low1=35.64 → Live=40.3 (+4.66) | Price=0.002991 | 40-50 mid recovery
+ARBUSDT      | Price Low1=0.1225 → Now=0.1203 (-1.8%) | RSI Low1=28.54 → Live=38.23 (+9.69) | Price=0.1207 | 30-40 oversold
+EDUUSDT      | Price Low1=0.0492 → Now=0.0453 (-7.93%) | RSI Low1=40.82 → Live=44.71 (+3.89) | Price=0.0454 | 40-50 mid recovery
+PEPEUSDT     | Price Low1=3.82e-06 → Now=3.76e-06 (-1.57%) | RSI Low1=31.41 → Live=38.22 (+6.81) | Price=3.78e-06 | 30-40 oversold
+FLOKIUSDT    | Price Low1=3.239e-05 → Now=3.191e-05 (-1.48%) | RSI Low1=33.77 → Live=42.89 (+9.12) | Price=3.21e-05 | 40-50 mid recovery
+SEIUSDT      | Price Low1=0.06316 → Now=0.06233 (-1.31%) | RSI Low1=31.54 → Live=45.48 (+13.94) | Price=0.06275 | 40-50 mid recovery
+MEMEUSDT     | Price Low1=0.000546 → Now=0.000536 (-1.83%) | RSI Low1=31.32 → Live=36.51 (+5.19) | Price=0.000537 | 30-40 oversold
+BEAMXUSDT    | Price Low1=0.001817 → Now=0.001797 (-1.1%) | RSI Low1=29.84 → Live=43.48 (+13.64) | Price=0.001799 | 40-50 mid recovery
+VANRYUSDT    | Price Low1=0.005318 → Now=0.005216 (-1.92%) | RSI Low1=29.43 → Live=36.29 (+6.86) | Price=0.005231 | 30-40 oversold
+ACEUSDT      | Price Low1=0.127 → Now=0.115 (-9.45%) | RSI Low1=29.01 → Live=40.54 (+11.53) | Price=0.117 | 40-50 mid recovery
+MANTAUSDT    | Price Low1=0.077 → Now=0.07587 (-1.47%) | RSI Low1=31.74 → Live=34.44 (+2.7) | Price=0.07598 | 30-40 oversold
+PORTALUSDT   | Price Low1=0.00925 → Now=0.00909 (-1.73%) | RSI Low1=33.13 → Live=44.16 (+11.03) | Price=0.00914 | 40-50 mid recovery
+WIFUSDT      | Price Low1=0.212 → Now=0.198 (-6.6%) | RSI Low1=30.21 → Live=33.97 (+3.76) | Price=0.198 | 30-40 oversold
+AXLUSDT      | Price Low1=0.0615 → Now=0.0602 (-2.11%) | RSI Low1=32.1 → Live=40.64 (+8.54) | Price=0.0608 | 40-50 mid recovery
+LISTAUSDT    | Price Low1=0.0816 → Now=0.0811 (-0.61%) | RSI Low1=30.11 → Live=46.8 (+16.69) | Price=0.0815 | 40-50 mid recovery
+DOGSUSDT     | Price Low1=5.55e-05 → Now=5.49e-05 (-1.08%) | RSI Low1=36.6 → Live=43.97 (+7.37) | Price=5.55e-05 | 40-50 mid recovery
+1MBABYDOGEUSDT | Price Low1=0.0004255 → Now=0.0004167 (-2.07%) | RSI Low1=34.06 → Live=36.34 (+2.28) | Price=0.0004178 | 30-40 oversold
+HMSTRUSDT    | Price Low1=0.0001559 → Now=0.000155 (-0.58%) | RSI Low1=30.21 → Live=42.04 (+11.83) | Price=0.0001553 | 40-50 mid recovery
+EIGENUSDT    | Price Low1=0.1988 → Now=0.192 (-3.42%) | RSI Low1=29.91 → Live=34.75 (+4.84) | Price=0.1924 | 30-40 oversold
+ACTUSDT      | Price Low1=0.0148 → Now=0.0137 (-7.43%) | RSI Low1=34.44 → Live=37.16 (+2.72) | Price=0.0138 | 30-40 oversold
+USUALUSDT    | Price Low1=0.01408 → Now=0.01395 (-0.92%) | RSI Low1=28.79 → Live=35.73 (+6.94) | Price=0.01397 | 30-40 oversold
+MOVEUSDT     | Price Low1=0.0181 → Now=0.0172 (-4.97%) | RSI Low1=33.68 → Live=40.84 (+7.16) | Price=0.0173 | 40-50 mid recovery
+VELODROMEUSDT | Price Low1=0.01632 → Now=0.0158 (-3.19%) | RSI Low1=30.36 → Live=33.95 (+3.59) | Price=0.01582 | 30-40 oversold
+1000CATUSDT  | Price Low1=0.00192 → Now=0.00188 (-2.08%) | RSI Low1=32.69 → Live=38.26 (+5.57) | Price=0.00188 | 30-40 oversold
+PENGUUSDT    | Price Low1=0.008546 → Now=0.008465 (-0.95%) | RSI Low1=29.97 → Live=34.85 (+4.88) | Price=0.008484 | 30-40 oversold
+SOLVUSDT     | Price Low1=0.00425 → Now=0.00419 (-1.41%) | RSI Low1=29.1 → Live=41.18 (+12.08) | Price=0.00421 | 40-50 mid recovery
+LAYERUSDT    | Price Low1=0.0974 → Now=0.0943 (-3.18%) | RSI Low1=31.94 → Live=57.03 (+25.09) | Price=0.096 | 50-58 mid zone
+TSTUSDT      | Price Low1=0.01843 → Now=0.01825 (-0.98%) | RSI Low1=29.39 → Live=37.99 (+8.6) | Price=0.01825 | 30-40 oversold
+REDUSDT      | Price Low1=0.1334 → Now=0.1299 (-2.62%) | RSI Low1=33.7 → Live=36.41 (+2.71) | Price=0.1302 | 30-40 oversold
+BIGTIMEUSDT  | Price Low1=0.01339 → Now=0.01267 (-5.38%) | RSI Low1=28.5 → Live=39.8 (+11.3) | Price=0.01271 | 30-40 oversold
+VIRTUALUSDT  | Price Low1=0.7385 → Now=0.7248 (-1.86%) | RSI Low1=31.15 → Live=39.98 (+8.83) | Price=0.7284 | 30-40 oversold
+MUBARAKUSDT  | Price Low1=0.01441 → Now=0.01403 (-2.64%) | RSI Low1=28.15 → Live=32.34 (+4.19) | Price=0.01403 | 30-40 oversold
+SYRUPUSDT    | Price Low1=0.2215 → Now=0.2166 (-2.21%) | RSI Low1=29.36 → Live=32.81 (+3.45) | Price=0.2166 | 30-40 oversold
+AWEUSDT      | Price Low1=0.05501 → Now=0.0543 (-1.29%) | RSI Low1=45.15 → Live=51.86 (+6.71) | Price=0.05566 | 50-58 mid zone
+HAEDALUSDT   | Price Low1=0.03204 → Now=0.03092 (-3.5%) | RSI Low1=30.12 → Live=37.76 (+7.64) | Price=0.03107 | 30-40 oversold
+SOPHUSDT     | Price Low1=0.00824 → Now=0.00813 (-1.33%) | RSI Low1=33.86 → Live=40.94 (+7.08) | Price=0.00818 | 40-50 mid recovery
+LAUSDT       | Price Low1=0.1416 → Now=0.1256 (-11.3%) | RSI Low1=28.63 → Live=33.73 (+5.1) | Price=0.1257 | 30-40 oversold
+WLFIUSDT     | Price Low1=0.0649 → Now=0.0612 (-5.7%) | RSI Low1=30.43 → Live=34.96 (+4.53) | Price=0.0618 | 30-40 oversold
+LINEAUSDT    | Price Low1=0.003573 → Now=0.003509 (-1.79%) | RSI Low1=29.13 → Live=39.74 (+10.61) | Price=0.003526 | 30-40 oversold
+PUMPUSDT     | Price Low1=0.001773 → Now=0.00175 (-1.3%) | RSI Low1=29.46 → Live=40.95 (+11.49) | Price=0.001756 | 40-50 mid recovery
+SKYUSDT      | Price Low1=0.07194 → Now=0.06958 (-3.28%) | RSI Low1=41.85 → Live=45.87 (+4.02) | Price=0.07 | 40-50 mid recovery
+BARDUSDT     | Price Low1=0.258 → Now=0.2539 (-1.59%) | RSI Low1=31.55 → Live=37.86 (+6.31) | Price=0.2551 | 30-40 oversold
+0GUSDT       | Price Low1=0.535 → Now=0.502 (-6.17%) | RSI Low1=30.43 → Live=39.17 (+8.74) | Price=0.503 | 30-40 oversold
+YBUSDT       | Price Low1=0.109 → Now=0.1076 (-1.28%) | RSI Low1=30.48 → Live=50.48 (+20.0) | Price=0.1095 | 50-58 mid zone
+FUSDT        | Price Low1=0.00541 → Now=0.00528 (-2.4%) | RSI Low1=29.48 → Live=41.82 (+12.34) | Price=0.00532 | 40-50 mid recovery
+NOMUSDT      | Price Low1=0.00258 → Now=0.0023 (-10.85%) | RSI Low1=47.01 → Live=52.16 (+5.15) | Price=0.00232 | 50-58 mid zone
+BANKUSDT     | Price Low1=0.038 → Now=0.0376 (-1.05%) | RSI Low1=34.57 → Live=40.45 (+5.88) | Price=0.0378 | 40-50 mid recovery
+METUSDT      | Price Low1=0.15 → Now=0.1485 (-1.0%) | RSI Low1=31.85 → Live=39.44 (+7.59) | Price=0.1486 | 30-40 oversold
+BREVUSDT     | Price Low1=0.1156 → Now=0.1135 (-1.82%) | RSI Low1=32.06 → Live=40.91 (+8.85) | Price=0.1142 | 40-50 mid recovery
+币安人生USDT     | Price Low1=0.3955 → Now=0.3914 (-1.04%) | RSI Low1=39.29 → Live=44.71 (+5.42) | Price=0.3931 | 40-50 mid recovery
+SENTUSDT     | Price Low1=0.01536 → Now=0.01524 (-0.78%) | RSI Low1=35.06 → Live=41.88 (+6.82) | Price=0.0153 | 40-50 mid recovery
+CFGUSDT      | Price Low1=0.2628 → Now=0.258 (-1.83%) | RSI Low1=31.72 → Live=44.41 (+12.69) | Price=0.26 | 40-50 mid recovery
+CHIPUSDT     | Price Low1=0.05684 → Now=0.055 (-3.24%) | RSI Low1=34.73 → Live=42.92 (+8.19) | Price=0.05505 | 40-50 mid recovery
+MEGAUSDT     | Price Low1=0.09677 → Now=0.09277 (-4.13%) | RSI Low1=28.91 → Live=40.17 (+11.26) | Price=0.09394 | 40-50 mid recovery
+Total: 109
+
+
+=== MATCHES === 2026-05-16 18:06 UTC
+FDUSDUSDT    | 1h RSI: 43.43 → 50.98 | Manual Live RSI: 50.0 | RSIIndicator Live RSI: 50.98 | Price: 0.9982
+Total: 1
+
+
+=== MATCHES === 2026-05-16 18:34 UTC
+ONGUSDT      | 1h RSI: 49.49 → 52.65 | Manual Live RSI: 43.7 | RSIIndicator Live RSI: 51.75 | Price: 0.06665
+DGBUSDT      | 1h RSI: 49.68 → 52.82 | Manual Live RSI: 52.63 | RSIIndicator Live RSI: 51.1 | Price: 0.0037
+STEEMUSDT    | 1h RSI: 48.33 → 51.33 | Manual Live RSI: 48.17 | RSIIndicator Live RSI: 50.21 | Price: 0.05724
+POLYXUSDT    | 1h RSI: 49.66 → 50.71 | Manual Live RSI: 47.06 | RSIIndicator Live RSI: 50.71 | Price: 0.0566
+DYMUSDT      | 1h RSI: 49.81 → 51.16 | Manual Live RSI: 45.71 | RSIIndicator Live RSI: 51.16 | Price: 0.0229
+POLUSDT      | 1h RSI: 51.45 → 52.45 | Manual Live RSI: 50.0 | RSIIndicator Live RSI: 51.31 | Price: 0.0909
+KAITOUSDT    | 1h RSI: 45.55 → 48.61 | Manual Live RSI: 57.87 | RSIIndicator Live RSI: 53.01 | Price: 0.4465
+WCTUSDT      | 1h RSI: 50.01 → 52.07 | Manual Live RSI: 49.06 | RSIIndicator Live RSI: 53.11 | Price: 0.0621
+AWEUSDT      | 1h RSI: 45.1 → 51.15 | Manual Live RSI: 48.09 | RSIIndicator Live RSI: 51.6 | Price: 0.05563
+AVNTUSDT     | 1h RSI: 47.65 → 51.59 | Manual Live RSI: 49.3 | RSIIndicator Live RSI: 51.21 | Price: 0.1418
+YBUSDT       | 1h RSI: 47.51 → 52.06 | Manual Live RSI: 55.86 | RSIIndicator Live RSI: 56.96 | Price: 0.1109
+ZKPUSDT      | 1h RSI: 49.99 → 52.55 | Manual Live RSI: 53.45 | RSIIndicator Live RSI: 51.6 | Price: 0.0731
+NIGHTUSDT    | 1h RSI: 46.51 → 48.68 | Manual Live RSI: 41.6 | RSIIndicator Live RSI: 50.82 | Price: 0.03216
+AIGENSYNUSDT | 1h RSI: 45.12 → 51.07 | Manual Live RSI: 71.22 | RSIIndicator Live RSI: 55.52 | Price: 0.03765
+Total: 14
+
+
+=== HIDDEN BULLISH === 2026-05-16 18:36 UTC
+ENJUSDT      | Price Low1=0.04322 → Now=0.04259 (-1.46%) | RSI Low1=29.19 → Live=42.23 (+13.04) | Price=0.04305 | 40-50 mid recovery
+1INCHUSDT    | Price Low1=0.0964 → Now=0.0929 (-3.63%) | RSI Low1=34.2 → Live=41.05 (+6.85) | Price=0.0938 | 40-50 mid recovery
+CFXUSDT      | Price Low1=0.06818 → Now=0.06489 (-4.83%) | RSI Low1=34.13 → Live=45.15 (+11.02) | Price=0.06585 | 40-50 mid recovery
+MBOXUSDT     | Price Low1=0.012 → Now=0.0112 (-6.67%) | RSI Low1=38.16 → Live=45.38 (+7.22) | Price=0.0113 | 40-50 mid recovery
+GALAUSDT     | Price Low1=0.00354 → Now=0.00338 (-4.52%) | RSI Low1=29.17 → Live=39.9 (+10.73) | Price=0.0034 | 30-40 oversold
+RAREUSDT     | Price Low1=0.0172 → Now=0.0167 (-2.91%) | RSI Low1=36.47 → Live=56.07 (+19.6) | Price=0.0169 | 50-58 mid zone
+CITYUSDT     | Price Low1=0.559 → Now=0.556 (-0.54%) | RSI Low1=42.34 → Live=44.36 (+2.02) | Price=0.559 | 40-50 mid recovery
+NEXOUSDT     | Price Low1=0.907 → Now=0.851 (-6.17%) | RSI Low1=44.19 → Live=47.47 (+3.28) | Price=0.87 | 40-50 mid recovery
+HFTUSDT      | Price Low1=0.0142 → Now=0.0141 (-0.7%) | RSI Low1=30.29 → Live=44.21 (+13.92) | Price=0.0142 | 40-50 mid recovery
+ACEUSDT      | Price Low1=0.127 → Now=0.115 (-9.45%) | RSI Low1=29.01 → Live=36.78 (+7.77) | Price=0.116 | 30-40 oversold
+PORTALUSDT   | Price Low1=0.00925 → Now=0.00909 (-1.73%) | RSI Low1=33.13 → Live=47.16 (+14.03) | Price=0.00919 | 40-50 mid recovery
+WIFUSDT      | Price Low1=0.212 → Now=0.198 (-6.6%) | RSI Low1=30.21 → Live=38.69 (+8.48) | Price=0.199 | 30-40 oversold
+ZROUSDT      | Price Low1=1.379 → Now=1.274 (-7.61%) | RSI Low1=29.43 → Live=38.14 (+8.71) | Price=1.289 | 30-40 oversold
+BIOUSDT      | Price Low1=0.0413 → Now=0.0398 (-3.63%) | RSI Low1=30.0 → Live=39.04 (+9.04) | Price=0.0404 | 30-40 oversold
+LAYERUSDT    | Price Low1=0.0974 → Now=0.0943 (-3.18%) | RSI Low1=31.94 → Live=52.89 (+20.95) | Price=0.0953 | 50-58 mid zone
+WALUSDT      | Price Low1=0.0811 → Now=0.0722 (-10.97%) | RSI Low1=33.62 → Live=35.79 (+2.17) | Price=0.0724 | 30-40 oversold
+Total: 16
+
+
+=== MATCHES === 2026-05-16 18:37 UTC
+INJUSDT      | 1h RSI: 46.99 → 49.24 | Manual Live RSI: 52.97 | RSIIndicator Live RSI: 52.22 | Price: 4.796
+Total: 1
+
+
+=== MATCHES === 2026-05-16 18:40 UTC
+PIVXUSDT     | 1h RSI: 33.67 → 50.44 | Manual Live RSI: 55.36 | RSIIndicator Live RSI: 51.98 | Price: 0.0674
+NXPCUSDT     | 1h RSI: 39.16 → 46.66 | Manual Live RSI: 35.14 | RSIIndicator Live RSI: 50.78 | Price: 0.3387
+Total: 2
+
+
+=== HIDDEN BULLISH === 2026-05-16 18:42 UTC
+XLMUSDT      | Price Low1=0.1537 → Now=0.152 (-1.11%) | RSI Low1=29.27 → Live=35.77 (+6.5) | Price=0.152 | 30-40 oversold
+MBOXUSDT     | Price Low1=0.012 → Now=0.0112 (-6.67%) | RSI Low1=38.16 → Live=41.37 (+3.21) | Price=0.0112 | 40-50 mid recovery
+HFTUSDT      | Price Low1=0.0142 → Now=0.0141 (-0.7%) | RSI Low1=30.29 → Live=48.12 (+17.83) | Price=0.0143 | 40-50 mid recovery
+SYNUSDT      | Price Low1=0.0509 → Now=0.05 (-1.77%) | RSI Low1=32.7 → Live=50.96 (+18.26) | Price=0.0507 | 50-58 mid zone
+HAEDALUSDT   | Price Low1=0.03204 → Now=0.03082 (-3.81%) | RSI Low1=30.12 → Live=34.63 (+4.51) | Price=0.03084 | 30-40 oversold
+Total: 5
+
+
+=== MATCHES === 2026-05-16 18:43 UTC
+BTTCUSDT     | 1h RSI: 44.98 → 52.27 | Manual Live RSI: 50.0 | RSIIndicator Live RSI: 52.27 | Price: 3.3e-07
+Total: 1
+
+
+=== MATCHES === 2026-05-16 18:46 UTC
+FDUSDUSDT    | 1h RSI: 43.43 → 50.98 | Manual Live RSI: 50.0 | RSIIndicator Live RSI: 50.98 | Price: 0.9982
+PORTALUSDT   | 1h RSI: 43.01 → 46.48 | Manual Live RSI: 46.32 | RSIIndicator Live RSI: 52.12 | Price: 0.00927
+Total: 2
+
+
+=== HIDDEN BULLISH === 2026-05-16 18:47 UTC
+HFTUSDT      | Price Low1=0.0142 → Now=0.0141 (-0.7%) | RSI Low1=30.29 → Live=44.21 (+13.92) | Price=0.0142 | 40-50 mid recovery
+ACEUSDT      | Price Low1=0.127 → Now=0.115 (-9.45%) | RSI Low1=29.01 → Live=40.54 (+11.53) | Price=0.117 | 40-50 mid recovery
+PORTALUSDT   | Price Low1=0.00925 → Now=0.00909 (-1.73%) | RSI Low1=33.13 → Live=50.96 (+17.83) | Price=0.00925 | 50-58 mid zone
+TNSRUSDT     | Price Low1=0.0412 → Now=0.0378 (-8.25%) | RSI Low1=36.42 → Live=40.38 (+3.96) | Price=0.0382 | 40-50 mid recovery
+SCRUSDT      | Price Low1=0.04725 → Now=0.04544 (-3.83%) | RSI Low1=30.17 → Live=32.23 (+2.06) | Price=0.04568 | 30-40 oversold
+Total: 5
+
+
+=== MATCHES === 2026-05-16 18:51 UTC
+DUSDT        | 1h RSI: 45.12 → 48.88 | Manual Live RSI: 35.75 | RSIIndicator Live RSI: 50.1 | Price: 0.01355
+CUSDT        | 1h RSI: 45.24 → 47.75 | Manual Live RSI: 54.37 | RSIIndicator Live RSI: 53.51 | Price: 0.0767
+Total: 2
+
+=== MATCHES === 2026-05-16 19:00 UTC
+MBOXUSDT     | 1h RSI: 45.39 → 50.22 | Manual Live RSI: 50.0 | RSIIndicator Live RSI: 50.22 | Price: 0.0114
+PYRUSDT      | 1h RSI: 48.89 → 51.64 | Manual Live RSI: 60.0 | RSIIndicator Live RSI: 51.64 | Price: 0.27
+SYNUSDT      | 1h RSI: 44.97 → 52.02 | Manual Live RSI: 51.06 | RSIIndicator Live RSI: 52.02 | Price: 0.0508
+EDENUSDT     | 1h RSI: 45.42 → 50.87 | Manual Live RSI: 51.81 | RSIIndicator Live RSI: 50.87 | Price: 0.0372
+Total: 4
+
+
+=== MATCHES === 2026-05-16 19:06 UTC
+ZAMAUSDT     | 1h RSI: 46.66 → 49.0 | Manual Live RSI: 53.53 | RSIIndicator Live RSI: 50.04 | Price: 0.02672
+AIGENSYNUSDT | 1h RSI: 51.07 → 52.7 | Manual Live RSI: 65.88 | RSIIndicator Live RSI: 50.82 | Price: 0.03674
+Total: 2
+
+
+=== MATCHES === 2026-05-16 19:08 UTC
+INJUSDT      | 1h RSI: 49.24 → 52.86 | Manual Live RSI: 53.08 | RSIIndicator Live RSI: 51.36 | Price: 4.788
+Total: 1
+
+
+=== MATCHES === 2026-05-16 19:11 UTC
+NXPCUSDT     | 1h RSI: 46.66 → 49.98 | Manual Live RSI: 37.15 | RSIIndicator Live RSI: 51.35 | Price: 0.339
+OPNUSDT      | 1h RSI: 46.4 → 47.47 | Manual Live RSI: 49.69 | RSIIndicator Live RSI: 51.0 | Price: 0.1684
+Total: 2
+
+
+=== HIDDEN BULLISH === 2026-05-16 19:13 UTC
+ADAUSDT      | Price Low1=0.2568 → Now=0.255 (-0.7%) | RSI Low1=32.85 → Live=36.73 (+3.88) | Low1=29h ago | Price=0.2553 | 30-40 oversold
+XLMUSDT      | Price Low1=0.1537 → Now=0.152 (-1.11%) | RSI Low1=29.27 → Live=36.35 (+7.08) | Low1=29h ago | Price=0.1521 | 30-40 oversold
+LINKUSDT     | Price Low1=9.96 → Now=9.73 (-2.31%) | RSI Low1=33.9 → Live=36.49 (+2.59) | Low1=29h ago | Price=9.76 | 30-40 oversold
+FETUSDT      | Price Low1=0.201 → Now=0.1972 (-1.89%) | RSI Low1=30.62 → Live=38.67 (+8.05) | Low1=29h ago | Price=0.1977 | 30-40 oversold
+THETAUSDT    | Price Low1=0.208 → Now=0.205 (-1.44%) | RSI Low1=31.49 → Live=36.24 (+4.75) | Low1=29h ago | Price=0.206 | 30-40 oversold
+ENJUSDT      | Price Low1=0.04322 → Now=0.0428 (-0.97%) | RSI Low1=29.19 → Live=39.66 (+10.47) | Low1=29h ago | Price=0.04291 | 30-40 oversold
+RVNUSDT      | Price Low1=0.00586 → Now=0.0056 (-4.44%) | RSI Low1=37.54 → Live=43.57 (+6.03) | Low1=56h ago | Price=0.00561 | 40-50 mid recovery
+OGNUSDT      | Price Low1=0.02238 → Now=0.02205 (-1.47%) | RSI Low1=30.18 → Live=36.65 (+6.47) | Low1=29h ago | Price=0.02213 | 30-40 oversold
+CHRUSDT      | Price Low1=0.02265 → Now=0.02206 (-2.6%) | RSI Low1=35.34 → Live=42.63 (+7.29) | Low1=29h ago | Price=0.02225 | 40-50 mid recovery
+BELUSDT      | Price Low1=0.1088 → Now=0.1071 (-1.56%) | RSI Low1=31.31 → Live=37.05 (+5.74) | Low1=29h ago | Price=0.1072 | 30-40 oversold
+NEARUSDT     | Price Low1=1.509 → Now=1.497 (-0.8%) | RSI Low1=36.3 → Live=40.0 (+3.7) | Low1=30h ago | Price=1.497 | 30-40 oversold
+FILUSDT      | Price Low1=0.979 → Now=0.974 (-0.51%) | RSI Low1=30.55 → Live=38.1 (+7.55) | Low1=29h ago | Price=0.976 | 30-40 oversold
+1INCHUSDT    | Price Low1=0.0964 → Now=0.0935 (-3.01%) | RSI Low1=34.2 → Live=40.5 (+6.3) | Low1=64h ago | Price=0.0937 | 40-50 mid recovery
+CELOUSDT     | Price Low1=0.0863 → Now=0.08389 (-2.79%) | RSI Low1=28.41 → Live=34.45 (+6.04) | Low1=29h ago | Price=0.08396 | 30-40 oversold
+SKLUSDT      | Price Low1=0.00646 → Now=0.00634 (-1.86%) | RSI Low1=30.67 → Live=39.99 (+9.32) | Low1=29h ago | Price=0.00637 | 30-40 oversold
+CKBUSDT      | Price Low1=0.001493 → Now=0.001484 (-0.6%) | RSI Low1=32.54 → Live=35.99 (+3.45) | Low1=29h ago | Price=0.001484 | 30-40 oversold
+CFXUSDT      | Price Low1=0.06818 → Now=0.06511 (-4.5%) | RSI Low1=34.13 → Live=41.61 (+7.48) | Low1=30h ago | Price=0.06515 | 40-50 mid recovery
+TKOUSDT      | Price Low1=0.0562 → Now=0.0554 (-1.42%) | RSI Low1=35.01 → Live=39.04 (+4.03) | Low1=28h ago | Price=0.0556 | 30-40 oversold
+TLMUSDT      | Price Low1=0.001878 → Now=0.00186 (-0.96%) | RSI Low1=29.16 → Live=32.97 (+3.81) | Low1=30h ago | Price=0.001861 | 30-40 oversold
+SLPUSDT      | Price Low1=0.000686 → Now=0.000677 (-1.31%) | RSI Low1=31.66 → Live=37.6 (+5.94) | Low1=29h ago | Price=0.000677 | 30-40 oversold
+GTCUSDT      | Price Low1=0.102 → Now=0.098 (-3.92%) | RSI Low1=31.31 → Live=39.02 (+7.71) | Low1=25h ago | Price=0.099 | 30-40 oversold
+C98USDT      | Price Low1=0.0211 → Now=0.0198 (-6.16%) | RSI Low1=32.34 → Live=37.45 (+5.11) | Low1=64h ago | Price=0.0198 | 30-40 oversold
+QUICKUSDT    | Price Low1=0.00977 → Now=0.00967 (-1.02%) | RSI Low1=32.6 → Live=39.76 (+7.16) | Low1=21h ago | Price=0.00968 | 30-40 oversold
+XVGUSDT      | Price Low1=0.003303 → Now=0.003246 (-1.73%) | RSI Low1=33.8 → Live=39.03 (+5.23) | Low1=29h ago | Price=0.003254 | 30-40 oversold
+MBOXUSDT     | Price Low1=0.012 → Now=0.0112 (-6.67%) | RSI Low1=38.16 → Live=54.54 (+16.38) | Low1=62h ago | Price=0.0115 | 50-58 mid zone
+WAXPUSDT     | Price Low1=0.00662 → Now=0.00645 (-2.57%) | RSI Low1=36.95 → Live=45.71 (+8.76) | Low1=56h ago | Price=0.00647 | 40-50 mid recovery
+GALAUSDT     | Price Low1=0.00354 → Now=0.00339 (-4.24%) | RSI Low1=29.17 → Live=38.16 (+8.99) | Low1=64h ago | Price=0.00339 | 30-40 oversold
+FIDAUSDT     | Price Low1=0.01645 → Now=0.01634 (-0.67%) | RSI Low1=29.13 → Live=40.1 (+10.97) | Low1=29h ago | Price=0.01644 | 40-50 mid recovery
+CITYUSDT     | Price Low1=0.559 → Now=0.556 (-0.54%) | RSI Low1=42.34 → Live=48.75 (+6.41) | Low1=29h ago | Price=0.564 | 40-50 mid recovery
+BICOUSDT     | Price Low1=0.0252 → Now=0.0239 (-5.16%) | RSI Low1=34.5 → Live=41.55 (+7.05) | Low1=64h ago | Price=0.024 | 40-50 mid recovery
+HIGHUSDT     | Price Low1=0.196 → Now=0.191 (-2.55%) | RSI Low1=30.16 → Live=39.92 (+9.76) | Low1=22h ago | Price=0.193 | 30-40 oversold
+PEOPLEUSDT   | Price Low1=0.00729 → Now=0.00717 (-1.65%) | RSI Low1=31.13 → Live=34.79 (+3.66) | Low1=29h ago | Price=0.00719 | 30-40 oversold
+JASMYUSDT    | Price Low1=0.00608 → Now=0.00595 (-2.14%) | RSI Low1=29.92 → Live=38.21 (+8.29) | Low1=22h ago | Price=0.00595 | 30-40 oversold
+SPELLUSDT    | Price Low1=0.0001633 → Now=0.0001619 (-0.86%) | RSI Low1=31.89 → Live=40.11 (+8.22) | Low1=29h ago | Price=0.0001624 | 40-50 mid recovery
+SCRTUSDT     | Price Low1=0.0884 → Now=0.0858 (-2.94%) | RSI Low1=29.37 → Live=35.33 (+5.96) | Low1=29h ago | Price=0.086 | 30-40 oversold
+GMTUSDT      | Price Low1=0.01143 → Now=0.01118 (-2.19%) | RSI Low1=28.04 → Live=34.2 (+6.16) | Low1=29h ago | Price=0.01118 | 30-40 oversold
+NEXOUSDT     | Price Low1=0.907 → Now=0.867 (-4.41%) | RSI Low1=44.19 → Live=47.49 (+3.3) | Low1=40h ago | Price=0.87 | 40-50 mid recovery
+HFTUSDT      | Price Low1=0.0142 → Now=0.0141 (-0.7%) | RSI Low1=30.29 → Live=44.74 (+14.45) | Low1=29h ago | Price=0.0142 | 40-50 mid recovery
+MAGICUSDT    | Price Low1=0.067 → Now=0.0639 (-4.63%) | RSI Low1=40.74 → Live=45.25 (+4.51) | Low1=63h ago | Price=0.0641 | 40-50 mid recovery
+SYNUSDT      | Price Low1=0.0509 → Now=0.05 (-1.77%) | RSI Low1=32.7 → Live=52.01 (+19.31) | Low1=29h ago | Price=0.0508 | 50-58 mid zone
+ARBUSDT      | Price Low1=0.1225 → Now=0.1202 (-1.88%) | RSI Low1=28.54 → Live=36.26 (+7.72) | Low1=29h ago | Price=0.1203 | 30-40 oversold
+PEPEUSDT     | Price Low1=3.82e-06 → Now=3.76e-06 (-1.57%) | RSI Low1=31.41 → Live=39.31 (+7.9) | Low1=29h ago | Price=3.78e-06 | 30-40 oversold
+FLOKIUSDT    | Price Low1=3.239e-05 → Now=3.201e-05 (-1.17%) | RSI Low1=33.77 → Live=41.41 (+7.64) | Low1=29h ago | Price=3.202e-05 | 40-50 mid recovery
+SEIUSDT      | Price Low1=0.06316 → Now=0.06248 (-1.08%) | RSI Low1=31.54 → Live=43.28 (+11.74) | Low1=27h ago | Price=0.0626 | 40-50 mid recovery
+MEMEUSDT     | Price Low1=0.000546 → Now=0.000535 (-2.01%) | RSI Low1=31.32 → Live=34.79 (+3.47) | Low1=29h ago | Price=0.000535 | 30-40 oversold
+BEAMXUSDT    | Price Low1=0.001817 → Now=0.001797 (-1.1%) | RSI Low1=29.84 → Live=44.26 (+14.42) | Low1=29h ago | Price=0.001801 | 40-50 mid recovery
+VANRYUSDT    | Price Low1=0.005318 → Now=0.005187 (-2.46%) | RSI Low1=29.43 → Live=33.74 (+4.31) | Low1=29h ago | Price=0.005205 | 30-40 oversold
+MANTAUSDT    | Price Low1=0.077 → Now=0.07561 (-1.81%) | RSI Low1=31.74 → Live=34.03 (+2.29) | Low1=29h ago | Price=0.0759 | 30-40 oversold
+PORTALUSDT   | Price Low1=0.00925 → Now=0.00914 (-1.19%) | RSI Low1=33.13 → Live=49.72 (+16.59) | Low1=29h ago | Price=0.00923 | 40-50 mid recovery
+AXLUSDT      | Price Low1=0.0615 → Now=0.0607 (-1.3%) | RSI Low1=32.1 → Live=43.33 (+11.23) | Low1=29h ago | Price=0.0611 | 40-50 mid recovery
+SAGAUSDT     | Price Low1=0.02314 → Now=0.02242 (-3.11%) | RSI Low1=33.0 → Live=40.76 (+7.76) | Low1=29h ago | Price=0.02281 | 40-50 mid recovery
+TNSRUSDT     | Price Low1=0.0412 → Now=0.0379 (-8.01%) | RSI Low1=36.42 → Live=39.23 (+2.81) | Low1=56h ago | Price=0.0381 | 30-40 oversold
+DOGSUSDT     | Price Low1=5.55e-05 → Now=5.5e-05 (-0.9%) | RSI Low1=36.6 → Live=41.45 (+4.85) | Low1=29h ago | Price=5.51e-05 | 40-50 mid recovery
+HMSTRUSDT    | Price Low1=0.0001559 → Now=0.0001546 (-0.83%) | RSI Low1=30.21 → Live=39.99 (+9.78) | Low1=29h ago | Price=0.0001547 | 30-40 oversold
+EIGENUSDT    | Price Low1=0.1988 → Now=0.191 (-3.92%) | RSI Low1=29.91 → Live=32.83 (+2.92) | Low1=28h ago | Price=0.1913 | 30-40 oversold
+1MBABYDOGEUSDT | Price Low1=0.0004255 → Now=0.0004167 (-2.07%) | RSI Low1=34.06 → Live=37.67 (+3.61) | Low1=29h ago | Price=0.0004184 | 30-40 oversold
+SCRUSDT      | Price Low1=0.04725 → Now=0.04544 (-3.83%) | RSI Low1=30.17 → Live=32.86 (+2.69) | Low1=28h ago | Price=0.0457 | 30-40 oversold
+USUALUSDT    | Price Low1=0.01408 → Now=0.01394 (-0.99%) | RSI Low1=28.79 → Live=36.72 (+7.93) | Low1=29h ago | Price=0.01399 | 30-40 oversold
+MOVEUSDT     | Price Low1=0.0181 → Now=0.0173 (-4.42%) | RSI Low1=33.68 → Live=40.84 (+7.16) | Low1=56h ago | Price=0.0173 | 40-50 mid recovery
+VELODROMEUSDT | Price Low1=0.01632 → Now=0.01579 (-3.25%) | RSI Low1=30.36 → Live=35.72 (+5.36) | Low1=29h ago | Price=0.01586 | 30-40 oversold
+1000CATUSDT  | Price Low1=0.00192 → Now=0.00188 (-2.08%) | RSI Low1=32.69 → Live=40.64 (+7.95) | Low1=29h ago | Price=0.00189 | 40-50 mid recovery
+PENGUUSDT    | Price Low1=0.008546 → Now=0.008469 (-0.9%) | RSI Low1=29.97 → Live=34.02 (+4.05) | Low1=30h ago | Price=0.008472 | 30-40 oversold
+BIOUSDT      | Price Low1=0.0413 → Now=0.0399 (-3.39%) | RSI Low1=30.0 → Live=33.24 (+3.24) | Low1=30h ago | Price=0.0401 | 30-40 oversold
+SOLVUSDT     | Price Low1=0.00425 → Now=0.00421 (-0.94%) | RSI Low1=29.1 → Live=44.47 (+15.37) | Low1=24h ago | Price=0.00423 | 40-50 mid recovery
+LAYERUSDT    | Price Low1=0.0974 → Now=0.0949 (-2.57%) | RSI Low1=31.94 → Live=54.47 (+22.53) | Low1=59h ago | Price=0.0956 | 50-58 mid zone
+TSTUSDT      | Price Low1=0.01843 → Now=0.01812 (-1.68%) | RSI Low1=29.39 → Live=36.51 (+7.12) | Low1=30h ago | Price=0.01814 | 30-40 oversold
+REDUSDT      | Price Low1=0.1334 → Now=0.1299 (-2.62%) | RSI Low1=33.7 → Live=36.52 (+2.82) | Low1=29h ago | Price=0.1302 | 30-40 oversold
+PARTIUSDT    | Price Low1=0.0595 → Now=0.0592 (-0.5%) | RSI Low1=46.37 → Live=49.11 (+2.74) | Low1=29h ago | Price=0.0599 | 40-50 mid recovery
+MUBARAKUSDT  | Price Low1=0.01441 → Now=0.01402 (-2.71%) | RSI Low1=28.15 → Live=36.46 (+8.31) | Low1=30h ago | Price=0.01411 | 30-40 oversold
+VIRTUALUSDT  | Price Low1=0.7385 → Now=0.7269 (-1.57%) | RSI Low1=31.15 → Live=39.63 (+8.48) | Low1=30h ago | Price=0.728 | 30-40 oversold
+BIGTIMEUSDT  | Price Low1=0.01339 → Now=0.01267 (-5.38%) | RSI Low1=28.5 → Live=38.9 (+10.4) | Low1=64h ago | Price=0.01269 | 30-40 oversold
+HYPERUSDT    | Price Low1=0.1087 → Now=0.1056 (-2.85%) | RSI Low1=38.49 → Live=44.77 (+6.28) | Low1=23h ago | Price=0.106 | 40-50 mid recovery
+SYRUPUSDT    | Price Low1=0.2215 → Now=0.2164 (-2.3%) | RSI Low1=29.36 → Live=33.22 (+3.86) | Low1=29h ago | Price=0.2167 | 30-40 oversold
+HAEDALUSDT   | Price Low1=0.03204 → Now=0.03082 (-3.81%) | RSI Low1=30.12 → Live=34.48 (+4.36) | Low1=24h ago | Price=0.03083 | 30-40 oversold
+SOPHUSDT     | Price Low1=0.00824 → Now=0.00816 (-0.97%) | RSI Low1=33.86 → Live=40.94 (+7.08) | Low1=29h ago | Price=0.00818 | 40-50 mid recovery
+LINEAUSDT    | Price Low1=0.003573 → Now=0.00352 (-1.48%) | RSI Low1=29.13 → Live=39.1 (+9.97) | Low1=30h ago | Price=0.003522 | 30-40 oversold
+PUMPUSDT     | Price Low1=0.001773 → Now=0.00175 (-1.3%) | RSI Low1=29.46 → Live=40.08 (+10.62) | Low1=30h ago | Price=0.001753 | 40-50 mid recovery
+WLFIUSDT     | Price Low1=0.0649 → Now=0.0615 (-5.24%) | RSI Low1=30.43 → Live=32.67 (+2.24) | Low1=28h ago | Price=0.0616 | 30-40 oversold
+SKYUSDT      | Price Low1=0.07194 → Now=0.06992 (-2.81%) | RSI Low1=41.85 → Live=45.29 (+3.44) | Low1=38h ago | Price=0.06996 | 40-50 mid recovery
+FUSDT        | Price Low1=0.00541 → Now=0.00531 (-1.85%) | RSI Low1=29.48 → Live=40.8 (+11.32) | Low1=29h ago | Price=0.00531 | 40-50 mid recovery
+BANKUSDT     | Price Low1=0.038 → Now=0.0377 (-0.79%) | RSI Low1=34.57 → Live=39.2 (+4.63) | Low1=29h ago | Price=0.0377 | 30-40 oversold
+METUSDT      | Price Low1=0.15 → Now=0.1484 (-1.07%) | RSI Low1=31.85 → Live=42.32 (+10.47) | Low1=29h ago | Price=0.1492 | 40-50 mid recovery
+BREVUSDT     | Price Low1=0.1156 → Now=0.1137 (-1.64%) | RSI Low1=32.06 → Live=39.05 (+6.99) | Low1=29h ago | Price=0.1137 | 30-40 oversold
+币安人生USDT     | Price Low1=0.3955 → Now=0.3918 (-0.94%) | RSI Low1=39.29 → Live=46.01 (+6.72) | Low1=28h ago | Price=0.3941 | 40-50 mid recovery
+SENTUSDT     | Price Low1=0.01536 → Now=0.01527 (-0.59%) | RSI Low1=35.06 → Live=41.13 (+6.07) | Low1=29h ago | Price=0.01528 | 40-50 mid recovery
+CFGUSDT      | Price Low1=0.2628 → Now=0.2576 (-1.98%) | RSI Low1=31.72 → Live=42.55 (+10.83) | Low1=29h ago | Price=0.2589 | 40-50 mid recovery
+CHIPUSDT     | Price Low1=0.05684 → Now=0.05484 (-3.52%) | RSI Low1=34.73 → Live=41.88 (+7.15) | Low1=29h ago | Price=0.05487 | 40-50 mid recovery
+MEGAUSDT     | Price Low1=0.09677 → Now=0.09321 (-3.68%) | RSI Low1=28.91 → Live=37.09 (+8.18) | Low1=29h ago | Price=0.09324 | 30-40 oversold
+Total: 88
+
+
+=== HIDDEN BULLISH === 2026-05-16 19:19 UTC
+AUDIOUSDT    | Price Low1=0.01998 → Now=0.01986 (-0.6%) | RSI Low1=30.28 → Live=34.35 (+4.07) | Low1=9h ago | Price=0.01993 | 30-40 oversold
+Total: 1
+
+
+=== MATCHES === 2026-05-16 19:20 UTC
+NEXOUSDT     | 1h RSI: 46.66 → 48.25 | Manual Live RSI: 50.0 | RSIIndicator Live RSI: 50.63 | Price: 0.874
+币安人生USDT     | 1h RSI: 44.44 → 46.56 | Manual Live RSI: 53.81 | RSIIndicator Live RSI: 50.16 | Price: 0.3976
+Total: 2
+
+
+=== HIDDEN BULLISH === 2026-05-16 19:24 UTC
+PSGUSDT      | Price: 1.047 → 1.058 (+1.05%) | RSI: 50.44 → 50.1 (-0.34) | 11h apart | Signal 5h ago | Live RSI=56.31 | 50-60 mid zone
+ASTERUSDT    | Price: 0.654 → 0.655 (+0.15%) | RSI: 31.73 → 30.82 (-0.91) | 20h apart | Signal 10h ago | Live RSI=55.33 | 50-60 mid zone
+VICUSDT      | Price: 0.0559 → 0.0573 (+2.5%) | RSI: 46.51 → 45.02 (-1.49) | 42h apart | Signal 11h ago | Live RSI=63.83 | 50-60 mid zone
+CHZUSDT      | Price: 0.04265 → 0.04304 (+0.91%) | RSI: 41.97 → 40.25 (-1.72) | 18h apart | Signal 12h ago | Live RSI=69.66 | 50-60 mid zone
+ZBTUSDT      | Price: 0.152 → 0.1554 (+2.24%) | RSI: 51.37 → 50.61 (-0.76) | 10h apart | Signal 12h ago | Live RSI=57.65 | 50-60 mid zone
+HOLOUSDT     | Price: 0.0717 → 0.0723 (+0.84%) | RSI: 36.9 → 36.33 (-0.57) | 10h apart | Signal 18h ago | Live RSI=56.53 | 50-60 mid zone
+DUSKUSDT     | Price: 0.1429 → 0.145 (+1.47%) | RSI: 53.0 → 51.35 (-1.65) | 8h apart | Signal 22h ago | Live RSI=42.47 | 40-50 mid recovery
+CGPTUSDT     | Price: 0.03832 → 0.03879 (+1.23%) | RSI: 58.74 → 53.7 (-5.04) | 10h apart | Signal 25h ago | Live RSI=43.55 | 40-50 mid recovery
+BABYUSDT     | Price: 0.01819 → 0.01824 (+0.27%) | RSI: 55.99 → 46.13 (-9.86) | 11h apart | Signal 28h ago | Live RSI=57.84 | 50-60 mid zone
+NXPCUSDT     | Price: 0.3266 → 0.338 (+3.49%) | RSI: 42.32 → 33.51 (-8.81) | 36h apart | Signal 28h ago | Live RSI=51.0 | 50-60 mid zone
+AWEUSDT      | Price: 0.05535 → 0.0554 (+0.09%) | RSI: 52.0 → 41.24 (-10.76) | 16h apart | Signal 28h ago | Live RSI=52.15 | 50-60 mid zone
+Total: 11
+
+
+=== HIDDEN BULLISH === 2026-05-16 19:29 UTC
+PSGUSDT      | Price HL: 1.047 → 1.058 (+1.05%) | RSI LL: 50.4379 → 50.0991 (-0.34) | 11h apart | Signal 5h ago | Live RSI=55.98 | 50-60 mid zone
+ASTERUSDT    | Price HL: 0.654 → 0.655 (+0.15%) | RSI LL: 31.732 → 30.8179 (-0.91) | 20h apart | Signal 10h ago | Live RSI=53.7 | 50-60 mid zone
+VICUSDT      | Price HL: 0.0559 → 0.0573 (+2.5%) | RSI LL: 46.507 → 45.0198 (-1.49) | 42h apart | Signal 11h ago | Live RSI=62.86 | 50-60 mid zone
+CHZUSDT      | Price HL: 0.04265 → 0.04304 (+0.91%) | RSI LL: 41.9721 → 40.2481 (-1.72) | 18h apart | Signal 12h ago | Live RSI=72.34 | 50-60 mid zone
+ZBTUSDT      | Price HL: 0.152 → 0.1554 (+2.24%) | RSI LL: 51.3666 → 50.6104 (-0.76) | 10h apart | Signal 12h ago | Live RSI=58.1 | 50-60 mid zone
+HOLOUSDT     | Price HL: 0.0717 → 0.0723 (+0.84%) | RSI LL: 36.9016 → 36.3279 (-0.57) | 10h apart | Signal 18h ago | Live RSI=56.53 | 50-60 mid zone
+DUSKUSDT     | Price HL: 0.1429 → 0.145 (+1.47%) | RSI LL: 53.0034 → 51.3474 (-1.66) | 8h apart | Signal 22h ago | Live RSI=42.98 | 40-50 mid recovery
+CGPTUSDT     | Price HL: 0.03832 → 0.03879 (+1.23%) | RSI LL: 58.7407 → 53.7043 (-5.04) | 10h apart | Signal 25h ago | Live RSI=43.94 | 40-50 mid recovery
+BABYUSDT     | Price HL: 0.01819 → 0.01824 (+0.27%) | RSI LL: 55.9905 → 46.1307 (-9.86) | 11h apart | Signal 28h ago | Live RSI=57.48 | 50-60 mid zone
+NXPCUSDT     | Price HL: 0.3266 → 0.338 (+3.49%) | RSI LL: 42.3194 → 33.5109 (-8.81) | 36h apart | Signal 28h ago | Live RSI=51.5 | 50-60 mid zone
+AWEUSDT      | Price HL: 0.05535 → 0.0554 (+0.09%) | RSI LL: 52.0046 → 41.2428 (-10.76) | 16h apart | Signal 28h ago | Live RSI=51.36 | 50-60 mid zone
+CFXUSDT      | Price HL: 0.06788 → 0.06818 (+0.44%) | RSI LL: 48.8806 → 34.1251 (-14.76) | 34h apart | Signal 30h ago | Live RSI=42.35 | 40-50 mid recovery
+AIUSDT       | Price HL: 0.0268 → 0.0271 (+1.12%) | RSI LL: 47.5956 → 42.9191 (-4.68) | 20h apart | Signal 30h ago | Live RSI=56.35 | 50-60 mid zone
+KERNELUSDT   | Price HL: 0.0629 → 0.0638 (+1.43%) | RSI LL: 52.5103 → 45.5599 (-6.95) | 15h apart | Signal 30h ago | Live RSI=46.01 | 40-50 mid recovery
+Total: 14
+
+
+=== MATCHES === 2026-05-16 19:31 UTC
+MBOXUSDT     | 1h RSI: 45.39 → 50.22 | Manual Live RSI: 55.56 | RSIIndicator Live RSI: 54.55 | Price: 0.0115
+PYRUSDT      | 1h RSI: 48.89 → 51.64 | Manual Live RSI: 60.0 | RSIIndicator Live RSI: 51.64 | Price: 0.27
+SYNUSDT      | 1h RSI: 44.97 → 52.02 | Manual Live RSI: 57.41 | RSIIndicator Live RSI: 58.66 | Price: 0.0515
+EDENUSDT     | 1h RSI: 45.42 → 50.87 | Manual Live RSI: 55.06 | RSIIndicator Live RSI: 55.64 | Price: 0.0378
+Total: 4
+
+
+=== MATCHES === 2026-05-16 19:36 UTC
+ZAMAUSDT     | 1h RSI: 46.66 → 49.0 | Manual Live RSI: 55.62 | RSIIndicator Live RSI: 52.01 | Price: 0.0268
+Total: 1
+
+
+=== MATCHES === 2026-05-16 19:39 UTC
+INJUSDT      | 1h RSI: 49.24 → 52.86 | Manual Live RSI: 55.19 | RSIIndicator Live RSI: 53.21 | Price: 4.808
+Total: 1
+
+
+=== MATCHES === 2026-05-16 19:42 UTC
+NXPCUSDT     | 1h RSI: 46.66 → 49.98 | Manual Live RSI: 37.92 | RSIIndicator Live RSI: 52.01 | Price: 0.3394
+OPNUSDT      | 1h RSI: 46.4 → 47.47 | Manual Live RSI: 49.07 | RSIIndicator Live RSI: 50.34 | Price: 0.1682
+Total: 2
+
+
+=== MATCHES === 2026-05-16 19:53 UTC
+NEXOUSDT     | 1h RSI: 46.66 → 48.25 | Manual Live RSI: 50.62 | RSIIndicator Live RSI: 51.37 | Price: 0.875
+Total: 1
+
+
+=== MATCHES === 2026-05-16 20:01 UTC
+ORCAUSDT     | 1h RSI: 50.95 → 52.4 | Manual Live RSI: 32.56 | RSIIndicator Live RSI: 51.98 | Price: 1.506
+AIXBTUSDT    | 1h RSI: 51.2 → 52.3 | Manual Live RSI: 47.73 | RSIIndicator Live RSI: 52.3 | Price: 0.0324
+DUSDT        | 1h RSI: 48.88 → 50.95 | Manual Live RSI: 47.13 | RSIIndicator Live RSI: 50.95 | Price: 0.01358
+SAPIENUSDT   | 1h RSI: 49.82 → 51.55 | Manual Live RSI: 65.11 | RSIIndicator Live RSI: 51.55 | Price: 0.1277
+Total: 4
+
+
+=== MATCHES === 2026-05-16 20:07 UTC
+CITYUSDT     | 1h RSI: 45.9 → 48.76 | Manual Live RSI: 54.32 | RSIIndicator Live RSI: 50.63 | Price: 0.566
+ZAMAUSDT     | 1h RSI: 48.99 → 52.94 | Manual Live RSI: 62.05 | RSIIndicator Live RSI: 52.12 | Price: 0.02681
+Total: 2
+
+
+=== MATCHES === 2026-05-16 20:10 UTC
+BTTCUSDT     | 1h RSI: 45.75 → 52.18 | Manual Live RSI: 50.0 | RSIIndicator Live RSI: 52.18 | Price: 3.3e-07
+Total: 1
+
+
+=== MATCHES === 2026-05-16 20:13 UTC
+OPNUSDT      | 1h RSI: 47.47 → 50.33 | Manual Live RSI: 62.12 | RSIIndicator Live RSI: 51.4 | Price: 0.1685
+Total: 1
+
+
+=== MATCHES === 2026-05-16 20:18 UTC
+KAIAUSDT     | 1h RSI: 44.76 → 47.86 | Manual Live RSI: 47.37 | RSIIndicator Live RSI: 50.84 | Price: 0.0461
+Total: 1
+
+
+=== MATCHES === 2026-05-16 20:26 UTC
+RADUSDT      | 1h RSI: 37.79 → 39.11 | Manual Live RSI: 64.0 | RSIIndicator Live RSI: 53.04 | Price: 0.312
+NEXOUSDT     | 1h RSI: 48.25 → 51.37 | Manual Live RSI: 49.37 | RSIIndicator Live RSI: 51.37 | Price: 0.875
+Total: 2
+
+
+=== MATCHES === 2026-05-16 20:32 UTC
+ORCAUSDT     | 1h RSI: 50.95 → 52.4 | Manual Live RSI: 33.85 | RSIIndicator Live RSI: 53.14 | Price: 1.512
+DUSDT        | 1h RSI: 48.88 → 50.95 | Manual Live RSI: 48.02 | RSIIndicator Live RSI: 51.75 | Price: 0.01361
+AIXBTUSDT    | 1h RSI: 51.2 → 52.3 | Manual Live RSI: 52.08 | RSIIndicator Live RSI: 56.51 | Price: 0.0328
+SAPIENUSDT   | 1h RSI: 49.82 → 51.55 | Manual Live RSI: 65.55 | RSIIndicator Live RSI: 52.22 | Price: 0.128
+Total: 4
+
+
+=== MATCHES === 2026-05-16 20:38 UTC
+ZAMAUSDT     | 1h RSI: 48.99 → 52.94 | Manual Live RSI: 59.88 | RSIIndicator Live RSI: 50.57 | Price: 0.02675
+Total: 1
+
+
+=== MATCHES === 2026-05-16 20:40 UTC
+BTTCUSDT     | 1h RSI: 45.75 → 52.18 | Manual Live RSI: 50.0 | RSIIndicator Live RSI: 52.18 | Price: 3.3e-07
+Total: 1
+
+
+=== MATCHES === 2026-05-16 20:43 UTC
+OPNUSDT      | 1h RSI: 47.47 → 50.33 | Manual Live RSI: 61.83 | RSIIndicator Live RSI: 51.05 | Price: 0.1684
+Total: 1
+
+
+=== MATCHES === 2026-05-16 20:57 UTC
+RADUSDT      | 1h RSI: 37.79 → 39.11 | Manual Live RSI: 68.97 | RSIIndicator Live RSI: 58.83 | Price: 0.32
+NEXOUSDT     | 1h RSI: 48.25 → 51.37 | Manual Live RSI: 50.62 | RSIIndicator Live RSI: 52.9 | Price: 0.877
+Total: 2
+
+
+=== MATCHES === 2026-05-16 21:00 UTC
+USTCUSDT     | 1h RSI: 47.25 → 50.17 | Manual Live RSI: 63.86 | RSIIndicator Live RSI: 50.17 | Price: 0.00649
+2ZUSDT       | 1h RSI: 43.52 → 50.59 | Manual Live RSI: 66.41 | RSIIndicator Live RSI: 50.79 | Price: 0.09197
+KATUSDT      | 1h RSI: 47.16 → 51.26 | Manual Live RSI: 67.0 | RSIIndicator Live RSI: 51.26 | Price: 0.00873
+AIGENSYNUSDT | 1h RSI: 47.83 → 51.96 | Manual Live RSI: 75.31 | RSIIndicator Live RSI: 51.9 | Price: 0.03693
+Total: 4
+
+
+=== MATCHES === 2026-05-16 21:03 UTC
+SAPIENUSDT   | 1h RSI: 51.54 → 52.65 | Manual Live RSI: 61.5 | RSIIndicator Live RSI: 52.65 | Price: 0.1282
+Total: 1
+
+
+=== MATCHES === 2026-05-16 21:09 UTC
+USTCUSDT     | 1h RSI: 47.25 → 50.17 | Manual Live RSI: 64.71 | RSIIndicator Live RSI: 51.33 | Price: 0.00651
+2ZUSDT       | 1h RSI: 43.52 → 50.59 | Manual Live RSI: 69.12 | RSIIndicator Live RSI: 54.93 | Price: 0.09266
+SAPIENUSDT   | 1h RSI: 51.54 → 52.65 | Manual Live RSI: 61.5 | RSIIndicator Live RSI: 52.65 | Price: 0.1282
+OPNUSDT      | 1h RSI: 50.33 → 51.75 | Manual Live RSI: 78.9 | RSIIndicator Live RSI: 52.83 | Price: 0.1689
+AIGENSYNUSDT | 1h RSI: 47.83 → 51.96 | Manual Live RSI: 74.29 | RSIIndicator Live RSI: 51.32 | Price: 0.03683
+Total: 5
+
+
+=== MATCHES === 2026-05-16 21:15 UTC
+UUSDT        | 1h RSI: 46.8 → 52.87 | Manual Live RSI: 57.14 | RSIIndicator Live RSI: 52.87 | Price: 1.0002
+Total: 1
+
+
+=== MATCHES === 2026-05-16 21:23 UTC
+DGBUSDT      | 1h RSI: 47.75 → 49.53 | Manual Live RSI: 62.86 | RSIIndicator Live RSI: 51.31 | Price: 0.0037
+Total: 1
+
+
+=== MATCHES === 2026-05-16 21:40 UTC
+USTCUSDT     | 1h RSI: 47.25 → 50.17 | Manual Live RSI: 66.67 | RSIIndicator Live RSI: 54.01 | Price: 0.00656
+SAHARAUSDT   | 1h RSI: 44.86 → 47.52 | Manual Live RSI: 67.41 | RSIIndicator Live RSI: 50.67 | Price: 0.03646
+2ZUSDT       | 1h RSI: 43.52 → 50.59 | Manual Live RSI: 70.34 | RSIIndicator Live RSI: 56.77 | Price: 0.09301
+OPNUSDT      | 1h RSI: 50.33 → 51.75 | Manual Live RSI: 75.45 | RSIIndicator Live RSI: 50.21 | Price: 0.1682
+AIGENSYNUSDT | 1h RSI: 47.83 → 51.96 | Manual Live RSI: 74.9 | RSIIndicator Live RSI: 51.67 | Price: 0.03689
+Total: 5
+
+
+=== MATCHES === 2026-05-16 21:48 UTC
+PARTIUSDT    | 1h RSI: 46.0 → 48.96 | Manual Live RSI: 52.89 | RSIIndicator Live RSI: 50.9 | Price: 0.0602
+Total: 1
+
+
+=== MATCHES === 2026-05-16 21:54 UTC
+UUSDT        | 1h RSI: 46.8 → 52.87 | Manual Live RSI: 57.14 | RSIIndicator Live RSI: 52.87 | Price: 1.0002
+Total: 1
+
+
+=== MATCHES === 2026-05-16 21:57 UTC
+DGBUSDT      | 1h RSI: 47.75 → 49.53 | Manual Live RSI: 63.89 | RSIIndicator Live RSI: 52.98 | Price: 0.00371
+Total: 1
+
+
+=== MATCHES === 2026-05-16 22:02 UTC
+POLUSDT      | 1h RSI: 51.31 → 52.6 | Manual Live RSI: 80.65 | RSIIndicator Live RSI: 52.6 | Price: 0.091
+CUSDT        | 1h RSI: 46.02 → 48.72 | Manual Live RSI: 52.38 | RSIIndicator Live RSI: 50.32 | Price: 0.0761
+MIRAUSDT     | 1h RSI: 50.86 → 52.98 | Manual Live RSI: 74.36 | RSIIndicator Live RSI: 52.98 | Price: 0.0785
+FFUSDT       | 1h RSI: 48.02 → 51.28 | Manual Live RSI: 52.17 | RSIIndicator Live RSI: 50.66 | Price: 0.08912
+ZAMAUSDT     | 1h RSI: 49.83 → 51.11 | Manual Live RSI: 62.16 | RSIIndicator Live RSI: 51.38 | Price: 0.02678
+Total: 5
+
+
+=== MATCHES === 2026-05-16 22:19 UTC
+USTCUSDT     | 1h RSI: 50.17 → 51.89 | Manual Live RSI: 60.26 | RSIIndicator Live RSI: 51.26 | Price: 0.00651
+PARTIUSDT    | 1h RSI: 48.96 → 52.25 | Manual Live RSI: 59.82 | RSIIndicator Live RSI: 52.25 | Price: 0.0605
+Total: 2
+
+
+=== MATCHES === 2026-05-16 22:28 UTC
+DGBUSDT      | 1h RSI: 49.53 → 51.31 | Manual Live RSI: 61.76 | RSIIndicator Live RSI: 54.76 | Price: 0.00372
+Total: 1
+
+
+=== MATCHES === 2026-05-16 22:30 UTC
+DYMUSDT      | 1h RSI: 45.55 → 47.25 | Manual Live RSI: 59.37 | RSIIndicator Live RSI: 50.57 | Price: 0.0228
+Total: 1
+
+
+=== MATCHES === 2026-05-16 22:33 UTC
+POLUSDT      | 1h RSI: 51.31 → 52.6 | Manual Live RSI: 78.12 | RSIIndicator Live RSI: 51.15 | Price: 0.0909
+MIRAUSDT     | 1h RSI: 50.86 → 52.98 | Manual Live RSI: 72.5 | RSIIndicator Live RSI: 51.78 | Price: 0.0784
+Total: 2
+
+
+=== MATCHES === 2026-05-16 22:47 UTC
+FFUSDT       | 1h RSI: 48.02 → 51.28 | Manual Live RSI: 52.09 | RSIIndicator Live RSI: 50.59 | Price: 0.0891
+Total: 1
+
+
+=== MATCHES === 2026-05-16 22:50 UTC
+USTCUSDT     | 1h RSI: 50.17 → 51.89 | Manual Live RSI: 63.41 | RSIIndicator Live RSI: 54.7 | Price: 0.00657
+Total: 1
+
