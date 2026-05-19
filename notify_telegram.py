@@ -45,10 +45,13 @@ def send_telegram(text: str, parse_mode: Optional[str] = None) -> bool:
 def format_matches_message(matches: List[dict], header: str) -> str:
     lines = [header, f"Total: {len(matches)}", ""]
     for m in matches[:15]:
+        live_rsi = m.get("indicator_live_rsi", m.get("live_rsi"))
+        two_day = m.get("two_day_pct")
+        two_day_part = f" | 2d: {two_day}%" if two_day is not None else ""
         lines.append(
             f"{m['symbol']}\n"
             f"  1h RSI: {m['rsi_prev']} → {m['rsi_closed']}\n"
-            f"  Live RSI: {m['indicator_live_rsi']} | 2d: {m.get('two_day_pct')}%"
+            f"  Live RSI: {live_rsi}{two_day_part}"
             f" | ${m.get('current_price')}"
         )
     if len(matches) > 15:

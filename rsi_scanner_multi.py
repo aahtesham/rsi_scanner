@@ -111,6 +111,39 @@ def two_day_uptrend_ok(df_1h: pd.DataFrame) -> tuple:
         return False, round((end / start - 1) * 100, 2) if start else None
     return True, round((end / start - 1) * 100, 2)
 
+def is_making_higher_lows(rsi_series: pd.Series, lookback: int = 10) -> bool:
+    """
+    Check RSI troughs are rising = healthy uptrend structure.
+    """
+    rsi = rsi_series.dropna().values[-lookback:]
+    
+    troughs = []
+    for i in range(1, len(rsi) - 1):
+        if rsi[i] < rsi[i-1] and rsi[i] < rsi[i+1]:
+            troughs.append(rsi[i])
+    
+    if len(troughs) < 2:
+        return False
+    
+    return troughs[-1] > troughs[-2]
+
+def is_making_higher_highs(rsi_series: pd.Series, lookback: int = 10) -> bool:
+    """
+    Check that recent RSI local peaks are ascending (higher highs).
+    Returns False if coin is making lower highs = downtrend.
+    """
+    rsi = rsi_series.dropna().values[-lookback:]
+    
+    peaks = []
+    for i in range(1, len(rsi) - 1):
+        if rsi[i] > rsi[i-1] and rsi[i] > rsi[i+1]:
+            peaks.append(rsi[i])
+    
+    if len(peaks) < 2:
+        return False  # not enough data to confirm uptrend
+    
+    # Last peak must be higher than previous peak
+    return peaks[-1] > peaks[-2]
 
 # -------------------------------
 # Process each symbol
@@ -152,6 +185,13 @@ def process_symbol(symbol):
         rsi_prev   = rsi.iloc[-3]
         long_slope = rsi_closed - rsi.iloc[-5]   # 4-candle momentum
 
+        # ✅ NEW: reject lower high / lower low patterns
+        if not is_making_higher_highs(rsi, lookback=12):
+            return None
+
+        if not is_making_higher_lows(rsi, lookback=12):
+            return None
+        
         # ✅ fix: restored upper limit
         if not (rsi_prev < rsi_closed ):
             return None
@@ -240,7 +280,7 @@ def scan():
             f.write(f"Total: {len(matches)}\n\n")
         if NOTIFY_TELEGRAM and telegram_configured():
             ok = send_telegram(
-                format_matches_message(matches, f"RSI matches — {scan_timestamp()}")
+                format_matches_message(matches, f"Perfect Match— {scan_timestamp()}")
             )
             if ok:
                 logger.info("Telegram sent (%s matches)", len(matches))
