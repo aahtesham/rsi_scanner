@@ -42,18 +42,27 @@ def send_telegram(text: str, parse_mode: Optional[str] = None) -> bool:
         return False
 
 
-def format_matches_message(matches: List[dict], header: str) -> str:
-    lines = [header, f"Total: {len(matches)}", ""]
-    for m in matches[:15]:
-        live_rsi = m.get("indicator_live_rsi", m.get("live_rsi"))
-        two_day = m.get("two_day_pct")
-        two_day_part = f" | 2d: {two_day}%" if two_day is not None else ""
+def format_matches_message(matches, title="RSI Matches"):
+    lines = [f"🔔 *{title}*\n"]
+    
+    for m in matches:
+        live_rsi   = m.get("indicator_live_rsi", m.get("live_rsi"))
+        mode       = m.get("mode", "")
+        score      = m.get("score", "")
+        volume     = m.get("volume", "")
+        quote_vol  = m.get("quote_volume", "")
+
+        mode_part    = f"Mode: {mode} | "    if mode              else ""
+        score_part   = f"Score: {score} | "  if score             else ""
+        vol_part     = f"Vol: {volume} | "   if volume            else ""
+        qvol_part    = f"QVol: {quote_vol}"  if quote_vol         else ""
+
         lines.append(
-            f"{m['symbol']}\n"
-            f"  1h RSI: {m['rsi_prev']} → {m['rsi_closed']}\n"
-            f"  Live RSI: {live_rsi}{two_day_part}"
-            f" | ${m.get('current_price')}"
+            f"📊 *{m['symbol']}* | {mode_part} | {score_part}\n"
+            f"  RSI: `{m['rsi_prev']} → {m['rsi_closed']}` | Live: `{live_rsi}`\n"
+            f"  Price: `{m.get('price')}`\n"
+            f"   {vol_part} | {qvol_part}"
         )
-    if len(matches) > 15:
-        lines.append(f"\n… +{len(matches) - 15} more (see results.txt)")
-    return "\n".join(lines)
+
+    
+    return "\n\n".join(lines)

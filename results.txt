@@ -759,3 +759,420 @@ Total: 1
 ALGOUSDT     | 1h RSI: 49.2 → 51.92 | Manual Live RSI: 62.96 | Live RSI: 53.26 | Price: 0.1082
 Total: 1
 
+
+=== MATCHES === 2026-05-19 09:12 UTC
+VICUSDT      | 1h RSI: 44.34 → 52.93 | Manual Live RSI: 71.88 | Live RSI: 54.2 | Price: 0.0603
+Total: 1
+
+
+=== MATCHES === 2026-05-19 09:19 UTC
+ALGOUSDT     | 1h RSI: 49.2 → 51.92 | Manual Live RSI: 65.12 | Live RSI: 56.32 | Price: 0.1087
+Total: 1
+
+
+=== MATCHES === 2026-05-19 09:25 UTC
+EURUSDT      | 1h RSI: 48.0 → 50.84 | Manual Live RSI: 46.34 | Live RSI: 53.58 | Price: 1.1653
+Total: 1
+
+
+=== MATCHES === 2026-05-19 10:13 UTC
+IDUSDT       | 1h RSI: 49.63 → 52.43 | Manual Live RSI: 68.42 | Live RSI: 55.13 | Price: 0.0293
+LAYERUSDT    | 1h RSI: 50.5 → 51.99 | Manual Live RSI: 57.76 | Live RSI: 53.01 | Price: 0.0911
+Total: 2
+
+
+=== MATCHES === 2026-05-19 10:20 UTC
+PEOPLEUSDT   | 1h RSI: 48.89 → 50.87 | Manual Live RSI: 65.08 | Live RSI: 54.66 | Price: 0.00693
+SYNUSDT      | 1h RSI: 49.29 → 51.62 | Manual Live RSI: 50.0 | Live RSI: 53.9 | Price: 0.0506
+MAVUSDT      | 1h RSI: 50.02 → 52.46 | Manual Live RSI: 58.68 | Live RSI: 54.37 | Price: 0.01393
+SCRUSDT      | 1h RSI: 50.27 → 51.93 | Manual Live RSI: 61.54 | Live RSI: 53.59 | Price: 0.04473
+HEMIUSDT     | 1h RSI: 47.96 → 51.48 | Manual Live RSI: 54.41 | Live RSI: 55.96 | Price: 0.00788
+Total: 5
+
+
+=== MATCHES === 2026-05-19 10:26 UTC
+QKCUSDT      | 1h RSI: 48.11 → 51.87 | Manual Live RSI: 52.87 | Live RSI: 53.68 | Price: 0.002969
+Total: 1
+
+
+=== MATCHES === 2026-05-19 10:32 UTC
+GTCUSDT      | 1h RSI: 42.67 → 47.21 | Manual Live RSI: 57.14 | Live RSI: 54.89 | Price: 0.098
+Total: 1
+
+
+=== MATCHES === 2026-05-19 10:38 UTC
+GTCUSDT      | 1h RSI: 42.67 → 47.21 | Manual Live RSI: 60.0 | Live RSI: 57.95 | Price: 0.099
+SPELLUSDT    | 1h RSI: 49.65 → 50.81 | Manual Live RSI: 57.43 | Live RSI: 53.13 | Price: 0.0001603
+Total: 2
+
+
+=== MATCHES === 2026-05-19 10:44 UTC
+GTCUSDT      | 1h RSI: 42.67 → 47.21 | Manual Live RSI: 57.14 | Live RSI: 54.89 | Price: 0.098
+WOOUSDT      | 1h RSI: 47.85 → 52.7 | Manual Live RSI: 66.67 | Live RSI: 57.0 | Price: 0.0171
+ZKUSDT       | 1h RSI: 47.35 → 49.49 | Manual Live RSI: 57.25 | Live RSI: 53.2 | Price: 0.01523
+Total: 3
+
+
+=== MATCHES === 2026-05-19 10:50 UTC
+WINUSDT      | 1h RSI: 48.1 → 51.57 | Manual Live RSI: 56.96 | Live RSI: 53.26 | Price: 1.93e-05
+MINAUSDT     | 1h RSI: 48.43 → 50.81 | Manual Live RSI: 60.78 | Live RSI: 54.21 | Price: 0.0578
+ARBUSDT      | 1h RSI: 47.85 → 50.36 | Manual Live RSI: 57.45 | Live RSI: 53.39 | Price: 0.1175
+Total: 3
+
+
+=== MATCHES === 2026-05-19 10:56 UTC
+GTCUSDT      | 1h RSI: 42.67 → 47.21 | Manual Live RSI: 60.0 | Live RSI: 57.95 | Price: 0.099
+1000CHEEMSUSDT | 1h RSI: 48.04 → 50.1 | Manual Live RSI: 57.69 | Live RSI: 53.09 | Price: 0.000587
+Total: 2
+
+
+=== MATCHES === 2026-05-19 11:02 UTC
+ONEUSDT      | 1h RSI: 46.15 → 50.09 | Manual Live RSI: 66.67 | Live RSI: 53.74 | Price: 0.00207
+CHRUSDT      | 1h RSI: 49.66 → 51.0 | Manual Live RSI: 72.8 | Live RSI: 58.99 | Price: 0.02182
+VELODROMEUSDT | 1h RSI: 50.08 → 52.18 | Manual Live RSI: 66.91 | Live RSI: 55.02 | Price: 0.01519
+Total: 3
+
+
+=== MATCHES === 2026-05-19 11:33 UTC
+AUDIOUSDT    | 1h RSI: 45.96 → 49.16 | Manual Live RSI: 66.41 | Live RSI: 55.27 | Price: 0.01939
+Total: 1
+
+
+=== MATCHES === 2026-05-19 11:39 UTC
+FOGOUSDT     | 1h RSI: 43.75 → 46.55 | Manual Live RSI: 59.86 | Live RSI: 54.3 | Price: 0.01689
+Total: 1
+
+
+=== MATCHES === 2026-05-19 13:12 (+03:00)
+HOLOUSDT     | 1h RSI: 56.3 → 60.67 | Manual Live RSI: 70.37 | RSIIndicator Live RSI: 59.08 | 2d up: 4.2% | Price: 0.0792
+Total: 1
+
+
+=== MATCHES === 2026-05-19 13:44 (+03:00)
+HOLOUSDT     | 1h RSI: 56.3 → 60.67 | Manual Live RSI: 67.86 | RSIIndicator Live RSI: 57.57 | 2d up: 4.2% | Price: 0.0791
+Total: 1
+
+
+=== MATCHES === 2026-05-19 14:10 UTC
+SAHARAUSDT   | 1h RSI: 48.47 → 49.49 | Manual Live RSI: 61.9 | Live RSI: 53.57 | Price: 0.03413
+Total: 1
+
+
+=== MATCHES === 2026-05-19 18:22 UTC
+INITUSDT     | 1h RSI: 49.44 → 51.99 | Manual Live RSI: 47.06 | Live RSI: 53.67 | Price: 0.0846
+Total: 1
+
+
+=== PRO LEVELS MATCHES === 2026-05-19 18:38
+KITEUSDT     | 1h RSI: 58.57 → 52.29 | Manual Live RSI: 56.94 | RSIIndicator Live RSI: 57.01 | Price: 0.2344 | Mode: HIGH | Score: 3 | Volume: 1662506.4 | Quote Volume: 379650.62
+Total: 1
+
+
+=== PRO LEVELS MATCHES === 2026-05-19 19:03
+GALAUSDT     | 1h RSI: 46.81 → 49.1 | Manual Live RSI: 43.75 | RSIIndicator Live RSI: 49.1 | Price: 0.00335 | Mode: LOW | Score: 2 | Volume: 17456478.6 | Quote Volume: 58570.97
+AXLUSDT      | 1h RSI: 48.01 → 51.41 | Manual Live RSI: 56.58 | RSIIndicator Live RSI: 52.09 | Price: 0.0599 | Mode: LOW | Score: 2 | Volume: 1075012.05 | Quote Volume: 65173.83
+BANANAS31USDT | 1h RSI: 50.63 → 51.9 | Manual Live RSI: 60.21 | RSIIndicator Live RSI: 54.02 | Price: 0.009926 | Mode: LOW | Score: 2 | Volume: 3213557.4 | Quote Volume: 31679.26
+Total: 3
+
+
+=== PRO LEVELS MATCHES === 2026-05-19 19:18
+GALAUSDT     | 1h RSI: 46.81 → 49.1 | Manual Live RSI: 43.75 | RSIIndicator Live RSI: 49.1 | Price: 0.00335 | Mode: LOW | Score: 2 | Volume: 17487646.6 | Quote Volume: 58675.39
+BANANAS31USDT | 1h RSI: 50.63 → 51.9 | Manual Live RSI: 59.94 | RSIIndicator Live RSI: 53.7 | Price: 0.009919 | Mode: LOW | Score: 2 | Volume: 3292600.6 | Quote Volume: 32463.03
+Total: 2
+
+
+=== PRO LEVELS MATCHES === 2026-05-19 19:22
+GALAUSDT     | 1h RSI: 46.81 → 49.1 | Manual Live RSI: 43.75 | RSIIndicator Live RSI: 49.1 | Price: 0.00335 | Mode: LOW | Score: 2 | Volume: 17491875.0 | Quote Volume: 58689.55
+BANANAS31USDT | 1h RSI: 50.63 → 51.9 | Manual Live RSI: 61.66 | RSIIndicator Live RSI: 55.71 | Price: 0.009965 | Mode: LOW | Score: 2 | Volume: 3312636.5 | Quote Volume: 32668.04
+Total: 2
+
+
+=== PRO LEVELS MATCHES === 2026-05-19 19:28
+AXLUSDT      | 1h RSI: 48.01 → 51.41 | Manual Live RSI: 56.58 | RSIIndicator Live RSI: 52.09 | Price: 0.0599 | Mode: LOW | Score: 2 | Volume: 1080113.27 | Quote Volume: 65479.39
+Total: 1
+
+
+=== PRO LEVELS MATCHES === 2026-05-19 19:34
+ONDOUSDT     | 1h RSI: 43.52 → 47.18 | Manual Live RSI: 38.53 | RSIIndicator Live RSI: 52.22 | Price: 0.3731 | Mode: LOW | Score: 2 | Volume: 3329145.91 | Quote Volume: 1237239.44
+KITEUSDT     | 1h RSI: 52.29 → 56.9 | Manual Live RSI: 60.29 | RSIIndicator Live RSI: 58.27 | Price: 0.2355 | Mode: HIGH | Score: 3 | Volume: 1539556.71 | Quote Volume: 352521.27
+Total: 2
+
+
+=== PRO LEVELS MATCHES === 2026-05-19 19:52
+GALAUSDT     | 1h RSI: 46.81 → 49.1 | Manual Live RSI: 47.06 | RSIIndicator Live RSI: 51.35 | Price: 0.00336 | Mode: LOW | Score: 2 | Volume: 18176470.1 | Quote Volume: 60990.23
+BANANAS31USDT | 1h RSI: 50.63 → 51.9 | Manual Live RSI: 60.59 | RSIIndicator Live RSI: 54.47 | Price: 0.009936 | Mode: LOW | Score: 2 | Volume: 3531309.3 | Quote Volume: 34836.82
+Total: 2
+
+
+=== PRO LEVELS MATCHES === 2026-05-19 19:59
+AXLUSDT      | 1h RSI: 48.01 → 51.41 | Manual Live RSI: 57.14 | RSIIndicator Live RSI: 52.75 | Price: 0.06 | Mode: LOW | Score: 2 | Volume: 1085077.27 | Quote Volume: 65777.88
+Total: 1
+
+
+=== PRO LEVELS MATCHES === 2026-05-19 20:05
+IOTAUSDT     | 1h RSI: 43.52 → 54.44 | Manual Live RSI: 44.44 | RSIIndicator Live RSI: 50.91 | Price: 0.0558 | Mode: LOW | Score: 2 | Volume: 840016.2 | Quote Volume: 46804.59
+SCUSDT       | 1h RSI: 47.76 → 54.0 | Manual Live RSI: 58.06 | RSIIndicator Live RSI: 55.15 | Price: 0.000922 | Mode: LOW | Score: 3 | Volume: 3786402.1 | Quote Volume: 3475.97
+RSRUSDT      | 1h RSI: 46.14 → 53.17 | Manual Live RSI: 49.57 | RSIIndicator Live RSI: 52.39 | Price: 0.001768 | Mode: LOW | Score: 2 | Volume: 6224480.15 | Quote Volume: 10970.8
+WOOUSDT      | 1h RSI: 44.39 → 54.45 | Manual Live RSI: 54.55 | RSIIndicator Live RSI: 54.45 | Price: 0.017 | Mode: LOW | Score: 4 | Volume: 681737.65 | Quote Volume: 11476.92
+VANRYUSDT    | 1h RSI: 44.14 → 52.61 | Manual Live RSI: 55.65 | RSIIndicator Live RSI: 52.74 | Price: 0.005113 | Mode: LOW | Score: 3 | Volume: 1197160.2 | Quote Volume: 6065.07
+ONDOUSDT     | 1h RSI: 47.18 → 54.47 | Manual Live RSI: 37.96 | RSIIndicator Live RSI: 54.53 | Price: 0.3772 | Mode: LOW | Score: 4 | Volume: 3307185.45 | Quote Volume: 1226721.79
+KMNOUSDT     | 1h RSI: 44.97 → 52.77 | Manual Live RSI: 42.67 | RSIIndicator Live RSI: 51.12 | Price: 0.02009 | Mode: LOW | Score: 2 | Volume: 2214955.4 | Quote Volume: 44778.92
+Total: 7
+
+
+=== PRO LEVELS MATCHES === 2026-05-19 20:11
+HOTUSDT      | 1h RSI: 47.83 → 49.83 | Manual Live RSI: 58.33 | RSIIndicator Live RSI: 53.67 | Price: 0.000402 | Mode: LOW | Score: 2 | Volume: 25987607.6 | Quote Volume: 10489.03
+Total: 1
+
+
+=== PRO LEVELS MATCHES === 2026-05-19 21:26
+GPSUSDT      | 1h RSI: 51.95 → 53.72 | Manual Live RSI: 58.97 | RSIIndicator Live RSI: 57.89 | Price: 0.00756 | Mode: LOW | Score: 4 | Volume: 3484544.37 | Quote Volume: 25930.12
+Total: 1
+
+
+=== PRO LEVELS MATCHES === 2026-05-19 21:32
+EDENUSDT     | 1h RSI: 73.1 → 78.56 | Manual Live RSI: 80.04 | RSIIndicator Live RSI: 79.96 | Price: 0.0899 | Mode: HIGH | Score: 3 | Volume: 22241986.76 | Quote Volume: 1656157.81
+Total: 1
+
+
+=== PRO LEVELS MATCHES === 2026-05-19 21:46
+ETCUSDT      | Mode: EARLY_CATCHUP | 1h RSI: 57.09 → 61.29 | Live RSI: 67.07 | Price: 9.13 | Score: 4
+GPSUSDT      | Mode: LOW | 1h RSI: 51.95 → 53.72 | Live RSI: 54.62 | Price: 0.00752 | Score: 4
+BANANAS31USDT | Mode: EARLY_CATCHUP | 1h RSI: 52.15 → 58.95 | Live RSI: 64.47 | Price: 0.01019 | Score: 3
+EULUSDT      | Mode: EARLY_CATCHUP | 1h RSI: 54.32 → 59.38 | Live RSI: 65.67 | Price: 1.294 | Score: 3
+Total: 4
+
+
+=== PRO LEVELS MATCHES === 2026-05-19 22:03
+ETCUSDT      | Mode: EARLY_CATCHUP | 1h RSI: 61.29 → 65.52 | Live RSI: 67.18 | Price: 9.13 | Score: 4
+MAVUSDT      | Mode: LOW | 1h RSI: 46.02 → 54.61 | Live RSI: 59.27 | Price: 0.01394 | Score: 4
+LUMIAUSDT    | Mode: EARLY_CATCHUP | 1h RSI: 59.41 → 60.49 | Live RSI: 61.94 | Price: 0.1003 | Score: 3
+EULUSDT      | Mode: EARLY_CATCHUP | 1h RSI: 59.38 → 65.13 | Live RSI: 66.81 | Price: 1.298 | Score: 3
+Total: 4
+
+
+=== PRO LEVELS MATCHES === 2026-05-19 22:36
+ETCUSDT      | Mode: EARLY_CATCHUP | 1h RSI: 61.29 → 65.52 | Live RSI: 63.39 | Price: 9.08 | Score: 4
+MAVUSDT      | Mode: LOW | 1h RSI: 46.02 → 54.61 | Live RSI: 57.97 | Price: 0.01391 | Score: 4
+EULUSDT      | Mode: EARLY_CATCHUP | 1h RSI: 59.38 → 65.13 | Live RSI: 59.58 | Price: 1.281 | Score: 3
+Total: 3
+
+
+=== PRO LEVELS MATCHES === 2026-05-19 23:04
+HOTUSDT      | Mode: LOW | 1h RSI: 45.75 → 50.15 | Live RSI: 50.15 | Price: 0.0004 | Score: 2
+Total: 1
+
+
+=== PRO LEVELS MATCHES === 2026-05-19 23:09
+MORPHOUSDT   | Mode: EARLY_CATCHUP | 1h RSI: 59.96 → 61.14 | Live RSI: 63.46 | Price: 1.787 | Score: 3
+Total: 1
+
+
+=== PRO LEVELS MATCHES === 2026-05-19 23:15
+KITEUSDT     | Mode: EARLY_CATCHUP | 1h RSI: 58.03 → 61.4 | Live RSI: 62.22 | Price: 0.2409 | Score: 2
+Total: 1
+
+
+=== PRO LEVELS MATCHES === 2026-05-19 23:37
+HOTUSDT      | Mode: LOW | 1h RSI: 45.75 → 50.15 | Live RSI: 48.05 | Price: 0.000399 | Score: 2
+BATUSDT      | Mode: EARLY_CATCHUP | 1h RSI: 57.31 → 58.02 | Live RSI: 63.85 | Price: 0.0995 | Score: 1
+Total: 2
+
+
+=== PRO LEVELS MATCHES === 2026-05-19 23:41
+HOTUSDT      | Mode: LOW | 1h RSI: 45.75 → 50.15 | Live RSI: 46.12 | Price: 0.000398 | Score: 2
+BATUSDT      | Mode: EARLY_CATCHUP | 1h RSI: 57.31 → 58.02 | Live RSI: 65.46 | Price: 0.0998 | Score: 1
+MORPHOUSDT   | Mode: EARLY_CATCHUP | 1h RSI: 59.96 → 61.14 | Live RSI: 64.25 | Price: 1.79 | Score: 3
+Total: 3
+
+
+=== PRO LEVELS MATCHES === 2026-05-19 23:49
+HOTUSDT      | 1h RSI: 45.75 → 50.15 | Manual Live RSI: 40.91 | RSIIndicator Live RSI: 48.05 | Price: 0.000399 | Mode: LOW | Score: 2 | Volume: 17463560.7 | Quote Volume: 7002.26
+Total: 1
+
+
+=== PRO LEVELS MATCHES === 2026-05-20 00:00
+ONTUSDT      | 1h RSI: 50.61 → 52.86 | Manual Live RSI: 42.26 | RSIIndicator Live RSI: 52.99 | Price: 0.06346 | Mode: LOW | Score: 2 | Volume: 3694062.9 | Quote Volume: 236567.59
+ATOMUSDT     | 1h RSI: 48.57 → 51.87 | Manual Live RSI: 47.74 | RSIIndicator Live RSI: 52.42 | Price: 2.061 | Mode: LOW | Score: 3 | Volume: 65297.76 | Quote Volume: 134297.39
+DODOUSDT     | 1h RSI: 48.69 → 53.33 | Manual Live RSI: 52.23 | RSIIndicator Live RSI: 52.69 | Price: 0.01874 | Mode: LOW | Score: 2 | Volume: 4307164.51 | Quote Volume: 80951.8
+VICUSDT      | 1h RSI: 49.29 → 51.33 | Manual Live RSI: 42.03 | RSIIndicator Live RSI: 52.02 | Price: 0.0608 | Mode: BALANCED | Score: 2 | Volume: 1051266.52 | Quote Volume: 63907.04
+VANAUSDT     | 1h RSI: 46.38 → 48.6 | Manual Live RSI: 39.45 | RSIIndicator Live RSI: 48.6 | Price: 1.48 | Mode: LOW | Score: 2 | Volume: 36173.56 | Quote Volume: 53670.04
+VIRTUALUSDT  | 1h RSI: 45.67 → 48.71 | Manual Live RSI: 34.78 | RSIIndicator Live RSI: 48.88 | Price: 0.7116 | Mode: LOW | Score: 2 | Volume: 187700.61 | Quote Volume: 133346.14
+NEWTUSDT     | 1h RSI: 41.6 → 52.86 | Manual Live RSI: 48.0 | RSIIndicator Live RSI: 53.73 | Price: 0.0729 | Mode: LOW | Score: 3 | Volume: 704230.69 | Quote Volume: 51080.08
+ZAMAUSDT     | 1h RSI: 49.47 → 53.39 | Manual Live RSI: 34.31 | RSIIndicator Live RSI: 52.09 | Price: 0.02702 | Mode: LOW | Score: 3 | Volume: 1944457.6 | Quote Volume: 52471.21
+Total: 8
+
+
+=== PRO LEVELS MATCHES === 2026-05-20 00:14
+NEIROUSDT    | 1h RSI: 45.93 → 50.63 | Manual Live RSI: 42.89 | RSIIndicator Live RSI: 52.81 | Price: 8.92e-05 | Mode: LOW | Score: 2 | Volume: 523115997.3 | Quote Volume: 46343.51
+Total: 1
+
+
+=== PRO LEVELS MATCHES === 2026-05-20 00:31
+ATOMUSDT     | 1h RSI: 48.57 → 51.87 | Manual Live RSI: 46.27 | RSIIndicator Live RSI: 50.71 | Price: 2.055 | Mode: LOW | Score: 2 | Volume: 72441.02 | Quote Volume: 148976.4
+VANAUSDT     | 1h RSI: 46.38 → 48.6 | Manual Live RSI: 37.72 | RSIIndicator Live RSI: 46.52 | Price: 1.475 | Mode: LOW | Score: 2 | Volume: 36641.42 | Quote Volume: 54359.94
+VIRTUALUSDT  | 1h RSI: 45.67 → 48.71 | Manual Live RSI: 35.33 | RSIIndicator Live RSI: 49.3 | Price: 0.7121 | Mode: LOW | Score: 2 | Volume: 193297.01 | Quote Volume: 137331.35
+NEWTUSDT     | 1h RSI: 41.6 → 52.86 | Manual Live RSI: 49.02 | RSIIndicator Live RSI: 54.57 | Price: 0.073 | Mode: LOW | Score: 3 | Volume: 734940.59 | Quote Volume: 53321.95
+ZAMAUSDT     | 1h RSI: 49.47 → 53.39 | Manual Live RSI: 37.86 | RSIIndicator Live RSI: 54.9 | Price: 0.02709 | Mode: LOW | Score: 3 | Volume: 1999054.5 | Quote Volume: 53950.36
+Total: 5
+
+
+=== PRO LEVELS MATCHES === 2026-05-20 00:37
+DODOUSDT     | 1h RSI: 48.69 → 53.33 | Manual Live RSI: 52.9 | RSIIndicator Live RSI: 53.33 | Price: 0.01876 | Mode: LOW | Score: 2 | Volume: 4392546.79 | Quote Volume: 82553.57
+Total: 1
+
+
+=== PRO LEVELS MATCHES === 2026-05-20 01:02
+LTCUSDT      | 1h RSI: 49.66 → 51.2 | Manual Live RSI: 49.24 | RSIIndicator Live RSI: 50.37 | Price: 54.2 | Mode: LOW | Score: 2 | Volume: 9863.7 | Quote Volume: 532932.7
+NEWTUSDT     | 1h RSI: 52.86 → 53.73 | Manual Live RSI: 50.0 | RSIIndicator Live RSI: 51.67 | Price: 0.0727 | Mode: LOW | Score: 2 | Volume: 736756.63 | Quote Volume: 53453.36
+Total: 2
+
+
+=== PRO LEVELS MATCHES === 2026-05-20 01:32
+LTCUSDT      | 1h RSI: 49.66 → 51.2 | Manual Live RSI: 48.02 | RSIIndicator Live RSI: 49.04 | Price: 54.15 | Mode: LOW | Score: 2 | Volume: 10098.88 | Quote Volume: 545665.92
+NEWTUSDT     | 1h RSI: 52.86 → 53.73 | Manual Live RSI: 50.0 | RSIIndicator Live RSI: 51.67 | Price: 0.0727 | Mode: LOW | Score: 2 | Volume: 759078.5 | Quote Volume: 55076.16
+Total: 2
+
+
+=== PRO LEVELS MATCHES === 2026-05-20 02:00
+VICUSDT      | 1h RSI: 47.88 → 50.73 | Manual Live RSI: 42.37 | RSIIndicator Live RSI: 51.45 | Price: 0.0607 | Mode: BALANCED | Score: 2 | Volume: 842918.44 | Quote Volume: 51314.89
+HOLOUSDT     | 1h RSI: 50.99 → 54.06 | Manual Live RSI: 42.31 | RSIIndicator Live RSI: 54.06 | Price: 0.0789 | Mode: LOW | Score: 2 | Volume: 1071456.44 | Quote Volume: 84335.74
+Total: 2
+
+
+=== PRO LEVELS MATCHES === 2026-05-20 02:03
+LTCUSDT      | 1h RSI: 51.2 → 52.51 | Manual Live RSI: 51.78 | RSIIndicator Live RSI: 51.62 | Price: 54.25 | Mode: LOW | Score: 2 | Volume: 8513.68 | Quote Volume: 459813.37
+Total: 1
+
+
+=== PRO LEVELS MATCHES === 2026-05-20 02:05
+DODOUSDT     | 1h RSI: 46.78 → 51.52 | Manual Live RSI: 51.32 | RSIIndicator Live RSI: 52.06 | Price: 0.01872 | Mode: LOW | Score: 2 | Volume: 4281812.58 | Quote Volume: 80364.16
+Total: 1
+
+
+=== PRO LEVELS MATCHES === 2026-05-20 02:30
+VICUSDT      | 1h RSI: 47.88 → 50.73 | Manual Live RSI: 41.38 | RSIIndicator Live RSI: 50.73 | Price: 0.0606 | Mode: BALANCED | Score: 2 | Volume: 857597.87 | Quote Volume: 52204.46
+HOLOUSDT     | 1h RSI: 50.99 → 54.06 | Manual Live RSI: 46.43 | RSIIndicator Live RSI: 56.96 | Price: 0.0791 | Mode: LOW | Score: 2 | Volume: 1116636.41 | Quote Volume: 87909.55
+Total: 2
+
+
+=== PRO LEVELS MATCHES === 2026-05-20 02:33
+LTCUSDT      | 1h RSI: 51.2 → 52.51 | Manual Live RSI: 55.12 | RSIIndicator Live RSI: 55.35 | Price: 54.39 | Mode: LOW | Score: 3 | Volume: 8807.75 | Quote Volume: 475818.74
+Total: 1
+
+
+=== PRO LEVELS MATCHES === 2026-05-20 02:36
+DODOUSDT     | 1h RSI: 46.78 → 51.52 | Manual Live RSI: 53.77 | RSIIndicator Live RSI: 54.6 | Price: 0.01882 | Mode: LOW | Score: 2 | Volume: 4329971.85 | Quote Volume: 81271.33
+Total: 1
+
+
+=== PRO LEVELS MATCHES === 2026-05-20 03:01
+ETCUSDT      | 1h RSI: 49.76 → 53.0 | Manual Live RSI: 56.06 | RSIIndicator Live RSI: 52.1 | Price: 8.96 | Mode: LOW | Score: 3 | Volume: 17043.68 | Quote Volume: 154142.33
+VANAUSDT     | 1h RSI: 43.82 → 48.61 | Manual Live RSI: 52.48 | RSIIndicator Live RSI: 48.61 | Price: 1.478 | Mode: LOW | Score: 2 | Volume: 27400.64 | Quote Volume: 40509.47
+Total: 2
+
+
+=== PRO LEVELS MATCHES === 2026-05-20 03:31
+ETCUSDT      | 1h RSI: 49.76 → 53.0 | Manual Live RSI: 52.11 | RSIIndicator Live RSI: 48.0 | Price: 8.91 | Mode: LOW | Score: 2 | Volume: 17623.54 | Quote Volume: 159305.94
+VANAUSDT     | 1h RSI: 43.82 → 48.61 | Manual Live RSI: 52.94 | RSIIndicator Live RSI: 49.08 | Price: 1.479 | Mode: LOW | Score: 2 | Volume: 28534.48 | Quote Volume: 42186.42
+Total: 2
+
+
+=== PRO LEVELS MATCHES === 2026-05-20 04:02
+JASMYUSDT    | 1h RSI: 50.18 → 51.19 | Manual Live RSI: 60.0 | RSIIndicator Live RSI: 51.19 | Price: 0.00564 | Mode: LOW | Score: 2 | Volume: 7748694.18 | Quote Volume: 43816.15
+Total: 1
+
+
+=== PRO LEVELS MATCHES === 2026-05-20 04:32
+JASMYUSDT    | 1h RSI: 50.18 → 51.19 | Manual Live RSI: 56.25 | RSIIndicator Live RSI: 48.04 | Price: 0.00561 | Mode: LOW | Score: 2 | Volume: 9257346.75 | Quote Volume: 52279.56
+Total: 1
+
+
+=== PRO LEVELS MATCHES === 2026-05-20 05:02
+QTUMUSDT     | 1h RSI: 48.63 → 50.75 | Manual Live RSI: 52.17 | RSIIndicator Live RSI: 51.82 | Price: 0.888 | Mode: LOW | Score: 3 | Volume: 121602.57 | Quote Volume: 107622.13
+AXSUSDT      | 1h RSI: 46.18 → 50.13 | Manual Live RSI: 53.73 | RSIIndicator Live RSI: 50.78 | Price: 1.171 | Mode: LOW | Score: 2 | Volume: 44322.17 | Quote Volume: 51934.55
+JASMYUSDT    | 1h RSI: 51.19 → 52.24 | Manual Live RSI: 58.14 | RSIIndicator Live RSI: 52.24 | Price: 0.00565 | Mode: LOW | Score: 3 | Volume: 9617984.3 | Quote Volume: 54403.99
+ZROUSDT      | 1h RSI: 47.23 → 51.87 | Manual Live RSI: 51.02 | RSIIndicator Live RSI: 51.33 | Price: 1.331 | Mode: LOW | Score: 2 | Volume: 42469.4 | Quote Volume: 56692.89
+Total: 4
+
+
+=== PRO LEVELS MATCHES === 2026-05-20 05:33
+QTUMUSDT     | 1h RSI: 48.63 → 50.75 | Manual Live RSI: 48.94 | RSIIndicator Live RSI: 48.59 | Price: 0.885 | Mode: LOW | Score: 3 | Volume: 122589.47 | Quote Volume: 108495.37
+AXSUSDT      | 1h RSI: 46.18 → 50.13 | Manual Live RSI: 52.24 | RSIIndicator Live RSI: 49.48 | Price: 1.169 | Mode: LOW | Score: 2 | Volume: 46309.85 | Quote Volume: 54257.87
+JASMYUSDT    | 1h RSI: 51.19 → 52.24 | Manual Live RSI: 56.82 | RSIIndicator Live RSI: 51.06 | Price: 0.00564 | Mode: LOW | Score: 2 | Volume: 9802675.11 | Quote Volume: 55445.54
+ZROUSDT      | 1h RSI: 47.23 → 51.87 | Manual Live RSI: 48.08 | RSIIndicator Live RSI: 48.31 | Price: 1.325 | Mode: LOW | Score: 2 | Volume: 43596.9 | Quote Volume: 58185.65
+VANAUSDT     | 1h RSI: 47.73 → 53.6 | Manual Live RSI: 57.45 | RSIIndicator Live RSI: 57.9 | Price: 1.5 | Mode: LOW | Score: 4 | Volume: 27244.52 | Quote Volume: 40347.49
+Total: 5
+
+
+=== PRO LEVELS MATCHES === 2026-05-20 06:00
+ONDOUSDT     | 1h RSI: 51.21 → 52.96 | Manual Live RSI: 50.99 | RSIIndicator Live RSI: 53.05 | Price: 0.3721 | Mode: LOW | Score: 2 | Volume: 1470708.82 | Quote Volume: 541429.59
+MORPHOUSDT   | 1h RSI: 49.21 → 52.89 | Manual Live RSI: 51.43 | RSIIndicator Live RSI: 52.15 | Price: 1.768 | Mode: LOW | Score: 3 | Volume: 22845.88 | Quote Volume: 40713.66
+Total: 2
+
+
+=== PRO LEVELS MATCHES === 2026-05-20 06:31
+ONDOUSDT     | 1h RSI: 51.21 → 52.96 | Manual Live RSI: 54.6 | RSIIndicator Live RSI: 56.42 | Price: 0.3761 | Mode: LOW | Score: 2 | Volume: 1566165.79 | Quote Volume: 577332.62
+MORPHOUSDT   | 1h RSI: 49.21 → 52.89 | Manual Live RSI: 52.52 | RSIIndicator Live RSI: 53.22 | Price: 1.771 | Mode: LOW | Score: 3 | Volume: 23577.68 | Quote Volume: 42009.79
+Total: 2
+
+
+=== PRO LEVELS MATCHES === 2026-05-20 07:01
+CRVUSDT      | 1h RSI: 49.7 → 52.74 | Manual Live RSI: 60.54 | RSIIndicator Live RSI: 53.93 | Price: 0.235 | Mode: LOW | Score: 4 | Volume: 278979.85 | Quote Volume: 65003.31
+RENDERUSDT   | 1h RSI: 49.49 → 53.04 | Manual Live RSI: 60.11 | RSIIndicator Live RSI: 53.58 | Price: 1.831 | Mode: LOW | Score: 4 | Volume: 52016.08 | Quote Volume: 94896.72
+Total: 2
+
+
+=== PRO LEVELS MATCHES === 2026-05-20 07:15
+ZROUSDT      | 1h RSI: 48.79 → 49.33 | Manual Live RSI: 55.32 | RSIIndicator Live RSI: 52.56 | Price: 1.333 | Mode: LOW | Score: 2 | Volume: 41243.31 | Quote Volume: 55009.02
+Total: 1
+
+
+=== PRO LEVELS MATCHES === 2026-05-20 07:32
+CRVUSDT      | 1h RSI: 49.7 → 52.74 | Manual Live RSI: 60.81 | RSIIndicator Live RSI: 54.22 | Price: 0.2351 | Mode: LOW | Score: 4 | Volume: 291755.61 | Quote Volume: 68006.91
+RENDERUSDT   | 1h RSI: 49.49 → 53.04 | Manual Live RSI: 60.11 | RSIIndicator Live RSI: 53.58 | Price: 1.831 | Mode: LOW | Score: 4 | Volume: 54021.53 | Quote Volume: 98568.71
+Total: 2
+
+
+=== PRO LEVELS MATCHES === 2026-05-20 07:37
+ENJUSDT      | 1h RSI: 47.7 → 50.81 | Manual Live RSI: 32.5 | RSIIndicator Live RSI: 52.5 | Price: 0.04614 | Mode: LOW | Score: 2 | Volume: 5197247.98 | Quote Volume: 244437.28
+Total: 1
+
+
+=== PRO LEVELS MATCHES === 2026-05-20 07:45
+ZROUSDT      | 1h RSI: 48.79 → 49.33 | Manual Live RSI: 57.14 | RSIIndicator Live RSI: 54.5 | Price: 1.337 | Mode: LOW | Score: 2 | Volume: 43704.54 | Quote Volume: 58300.45
+Total: 1
+
+
+=== PRO LEVELS MATCHES === 2026-05-20 08:02
+TIAUSDT      | 1h RSI: 44.21 → 50.87 | Manual Live RSI: 50.39 | RSIIndicator Live RSI: 51.48 | Price: 0.3912 | Mode: LOW | Score: 2 | Volume: 203748.89 | Quote Volume: 78991.63
+ENAUSDT      | 1h RSI: 51.62 → 54.01 | Manual Live RSI: 60.0 | RSIIndicator Live RSI: 54.62 | Price: 0.1046 | Mode: LOW | Score: 4 | Volume: 3660874.38 | Quote Volume: 380035.3
+POLUSDT      | 1h RSI: 49.45 → 52.9 | Manual Live RSI: 61.54 | RSIIndicator Live RSI: 53.36 | Price: 0.09024 | Mode: LOW | Score: 4 | Volume: 1017027.29 | Quote Volume: 91032.63
+Total: 3
+
+
+=== PRO LEVELS MATCHES === 2026-05-20 08:13
+SHIBUSDT     | 1h RSI: 48.52 → 50.91 | Manual Live RSI: 55.56 | RSIIndicator Live RSI: 53.25 | Price: 5.73e-06 | Mode: LOW | Score: 2 | Volume: 12514937573.1 | Quote Volume: 71282.15
+Total: 1
+
+
+=== PRO LEVELS MATCHES === 2026-05-20 08:32
+TIAUSDT      | 1h RSI: 44.21 → 50.87 | Manual Live RSI: 57.72 | RSIIndicator Live RSI: 57.3 | Price: 0.3956 | Mode: LOW | Score: 3 | Volume: 218772.44 | Quote Volume: 84932.48
+ENAUSDT      | 1h RSI: 51.62 → 54.01 | Manual Live RSI: 65.79 | RSIIndicator Live RSI: 60.35 | Price: 0.1057 | Mode: LOW | Score: 4 | Volume: 3813646.78 | Quote Volume: 396217.69
+POLUSDT      | 1h RSI: 49.45 → 52.9 | Manual Live RSI: 66.1 | RSIIndicator Live RSI: 58.32 | Price: 0.09073 | Mode: LOW | Score: 4 | Volume: 1118499.46 | Quote Volume: 100245.43
+Total: 3
+
+
+=== PRO LEVELS MATCHES === 2026-05-20 08:43
+SHIBUSDT     | 1h RSI: 48.52 → 50.91 | Manual Live RSI: 60.0 | RSIIndicator Live RSI: 57.31 | Price: 5.75e-06 | Mode: LOW | Score: 2 | Volume: 12941248576.6 | Quote Volume: 73746.42
+Total: 1
+
+
+=== PRO LEVELS MATCHES === 2026-05-20 09:00
+QTUMUSDT     | 1h RSI: 45.66 → 52.55 | Manual Live RSI: 53.19 | RSIIndicator Live RSI: 52.55 | Price: 0.888 | Mode: LOW | Score: 4 | Volume: 132819.8 | Quote Volume: 117513.02
+STORJUSDT    | 1h RSI: 44.56 → 47.38 | Manual Live RSI: 31.68 | RSIIndicator Live RSI: 47.38 | Price: 0.1152 | Mode: LOW | Score: 3 | Volume: 357935.0 | Quote Volume: 41212.74
+WBETHUSDT    | 1h RSI: 46.63 → 54.73 | Manual Live RSI: 54.35 | RSIIndicator Live RSI: 55.27 | Price: 2331.99 | Mode: LOW | Score: 4 | Volume: 32.39 | Quote Volume: 75201.99
+ORDIUSDT     | 1h RSI: 51.74 → 54.17 | Manual Live RSI: 43.14 | RSIIndicator Live RSI: 54.17 | Price: 4.141 | Mode: LOW | Score: 3 | Volume: 18437.01 | Quote Volume: 75339.55
+RONINUSDT    | 1h RSI: 42.86 → 48.04 | Manual Live RSI: 33.85 | RSIIndicator Live RSI: 47.54 | Price: 0.1074 | Mode: BALANCED | Score: 2 | Volume: 1147164.69 | Quote Volume: 121789.5
+Total: 5
+

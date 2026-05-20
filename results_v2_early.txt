@@ -1,0 +1,348 @@
+
+=== EARLY CATCH-UP V2 === 2026-05-19 23:53
+BATUSDT      | RSI: 57.31 → 58.02 | Live: 65.96 | Price: 0.0999 | Score: 1 | VolSpike: True
+MORPHOUSDT   | RSI: 59.97 → 61.14 | Live: 67.35 | Price: 1.803 | Score: 3 | VolSpike: False
+Total: 2
+
+
+=== EARLY CATCH-UP V2 === 2026-05-20 00:10
+USUALUSDT    | RSI: 50.77 → 58.48 | Live: 61.71 | Price: 0.01405 | Score: 4 | VolSpike: True
+Total: 1
+
+
+=== EARLY CATCH-UP V2 === 2026-05-20 00:20
+IOUSDT       | RSI: 52.15 → 55.62 | Live: 63.09 | Price: 0.1441 | Score: 2 | VolSpike: True
+KATUSDT      | RSI: 44.73 → 53.11 | Live: 58.53 | Price: 0.00832 | Score: 3 | VolSpike: False
+Total: 2
+
+
+=== EARLY CATCH-UP V2 === 2026-05-20 00:26
+ARUSDT       | RSI: 57.09 → 63.44 | Live: 65.28 | Price: 2.18 | Score: 4 | VolSpike: False
+Total: 1
+
+
+=== EARLY CATCH-UP V2 === 2026-05-20 00:43
+USUALUSDT    | RSI: 50.77 → 58.48 | Live: 64.48 | Price: 0.01414 | Score: 4 | VolSpike: True
+Total: 1
+
+
+=== EARLY CATCH-UP V2 === 2026-05-20 00:54
+IOUSDT       | RSI: 52.15 → 55.62 | Live: 64.98 | Price: 0.1451 | Score: 2 | VolSpike: True
+KATUSDT      | RSI: 44.73 → 53.11 | Live: 63.76 | Price: 0.00842 | Score: 3 | VolSpike: True
+Total: 2
+
+
+=== EARLY CATCH-UP V2 === 2026-05-20 01:04
+SYSUSDT      | RSI: 49.7 → 59.75 | Live: 63.98 | Price: 0.00477 | Score: 4 | VolSpike: True
+Total: 1
+
+
+=== EARLY CATCH-UP V2 === 2026-05-20 01:15
+PSGUSDT      | RSI: 34.55 → 50.53 | Live: 61.2 | Price: 1.012 | Score: 3 | VolSpike: True
+Total: 1
+
+
+=== EARLY CATCH-UP V2 === 2026-05-20 01:26
+IOUSDT       | RSI: 55.62 → 65.16 | Live: 62.08 | Price: 0.1443 | Score: 3 | VolSpike: True
+KITEUSDT     | RSI: 60.42 → 62.87 | Live: 62.87 | Price: 0.2418 | Score: 3 | VolSpike: False
+KATUSDT      | RSI: 53.11 → 61.32 | Live: 56.41 | Price: 0.00831 | Score: 3 | VolSpike: True
+Total: 3
+
+
+=== EARLY CATCH-UP V2 === 2026-05-20 01:48
+PSGUSDT      | RSI: 34.55 → 50.53 | Live: 61.56 | Price: 1.013 | Score: 3 | VolSpike: True
+Total: 1
+
+
+=== EARLY CATCH-UP V2 === 2026-05-20 01:59
+IOUSDT       | RSI: 55.62 → 65.16 | Live: 60.81 | Price: 0.1439 | Score: 3 | VolSpike: True
+KATUSDT      | RSI: 53.11 → 61.32 | Live: 60.44 | Price: 0.00836 | Score: 3 | VolSpike: True
+Total: 2
+
+
+=== EARLY CATCH-UP V2 === 2026-05-20 02:21
+JSTUSDT      | RSI: 62.48 → 65.4 | Live: 66.57 | Price: 0.09194 | Score: 3 | VolSpike: True
+Total: 1
+
+
+=== EARLY CATCH-UP V2 === 2026-05-20 03:05
+FIDAUSDT     | RSI: 49.15 → 55.96 | Live: 59.2 | Price: 0.02197 | Score: 3 | VolSpike: False
+EPICUSDT     | RSI: 52.94 → 58.96 | Live: 61.1 | Price: 0.312 | Score: 3 | VolSpike: True
+EULUSDT      | RSI: 53.73 → 62.38 | Live: 63.83 | Price: 1.306 | Score: 4 | VolSpike: True
+KATUSDT      | RSI: 59.59 → 63.47 | Live: 65.51 | Price: 0.00846 | Score: 3 | VolSpike: False
+Total: 4
+
+
+=== EARLY CATCH-UP V2 === 2026-05-20 03:21
+QTUMUSDT     | RSI: 43.2 → 46.49 | Live: 67.06 | Price: 0.913 | Score: 2 | VolSpike: True
+Total: 1
+
+
+=== EARLY CATCH-UP V2 === 2026-05-20 03:38
+EULUSDT      | RSI: 53.73 → 62.38 | Live: 65.82 | Price: 1.315 | Score: 4 | VolSpike: True
+Total: 1
+
+
+=== EARLY CATCH-UP V2 === 2026-05-20 03:43
+EPICUSDT     | RSI: 52.94 → 58.96 | Live: 60.06 | Price: 0.311 | Score: 3 | VolSpike: True
+Total: 1
+
+
+=== EARLY CATCH-UP V2 === 2026-05-20 04:16
+GPSUSDT      | RSI: 58.76 → 59.54 | Live: 61.12 | Price: 0.00762 | Score: 3 | VolSpike: False
+PROVEUSDT    | RSI: 40.35 → 54.2 | Live: 58.81 | Price: 0.2286 | Score: 3 | VolSpike: True
+EULUSDT      | RSI: 62.38 → 65.18 | Live: 67.97 | Price: 1.325 | Score: 3 | VolSpike: True
+Total: 3
+
+
+=== EARLY CATCH-UP V2 === 2026-05-20 04:54
+KMNOUSDT     | RSI: 52.81 → 58.66 | Live: 65.41 | Price: 0.0208 | Score: 3 | VolSpike: True
+PROVEUSDT    | RSI: 40.35 → 54.2 | Live: 59.05 | Price: 0.2287 | Score: 3 | VolSpike: True
+Total: 2
+
+
+=== EARLY CATCH-UP V2 === 2026-05-20 05:00
+ALGOUSDT     | RSI: 57.98 → 60.94 | Live: 65.64 | Price: 0.1155 | Score: 2 | VolSpike: False
+PENGUUSDT    | RSI: 55.63 → 60.99 | Live: 61.23 | Price: 0.008767 | Score: 3 | VolSpike: False
+Total: 2
+
+
+=== EARLY CATCH-UP V2 === 2026-05-20 05:05
+C98USDT      | RSI: 47.35 → 59.95 | Live: 59.95 | Price: 0.0195 | Score: 4 | VolSpike: True
+Total: 1
+
+
+=== EARLY CATCH-UP V2 === 2026-05-20 05:27
+ALTUSDT      | RSI: 51.33 → 56.33 | Live: 59.05 | Price: 0.00679 | Score: 3 | VolSpike: True
+Total: 1
+
+
+=== EARLY CATCH-UP V2 === 2026-05-20 05:33
+ALGOUSDT     | RSI: 60.94 → 65.64 | Live: 67.06 | Price: 0.1161 | Score: 3 | VolSpike: False
+Total: 1
+
+
+=== EARLY CATCH-UP V2 === 2026-05-20 05:44
+VANAUSDT     | RSI: 47.73 → 53.6 | Live: 60.25 | Price: 1.507 | Score: 4 | VolSpike: True
+Total: 1
+
+
+=== EARLY CATCH-UP V2 === 2026-05-20 06:00
+DEXEUSDT     | RSI: 61.84 → 65.44 | Live: 65.62 | Price: 14.197 | Score: 4 | VolSpike: True
+Total: 1
+
+
+=== EARLY CATCH-UP V2 === 2026-05-20 06:17
+VANAUSDT     | RSI: 53.6 → 59.61 | Live: 63.14 | Price: 1.516 | Score: 4 | VolSpike: True
+Total: 1
+
+
+=== EARLY CATCH-UP V2 === 2026-05-20 06:49
+VANAUSDT     | RSI: 53.6 → 59.61 | Live: 60.3 | Price: 1.507 | Score: 4 | VolSpike: True
+Total: 1
+
+
+=== EARLY CATCH-UP V2 === 2026-05-20 07:06
+DYDXUSDT     | RSI: 60.39 → 61.54 | Live: 64.71 | Price: 0.14814 | Score: 3 | VolSpike: False
+Total: 1
+
+
+=== EARLY CATCH-UP V2 === 2026-05-20 07:11
+MANAUSDT     | RSI: 49.98 → 56.58 | Live: 59.46 | Price: 0.0894 | Score: 3 | VolSpike: True
+SANDUSDT     | RSI: 50.62 → 54.31 | Live: 57.71 | Price: 0.0714 | Score: 3 | VolSpike: True
+Total: 2
+
+
+=== EARLY CATCH-UP V2 === 2026-05-20 07:17
+ALTUSDT      | RSI: 55.12 → 59.8 | Live: 61.53 | Price: 0.00682 | Score: 3 | VolSpike: True
+Total: 1
+
+
+=== EARLY CATCH-UP V2 === 2026-05-20 07:22
+VANAUSDT     | RSI: 59.61 → 61.93 | Live: 62.59 | Price: 1.514 | Score: 3 | VolSpike: True
+Total: 1
+
+
+=== EARLY CATCH-UP V2 === 2026-05-20 07:39
+DYDXUSDT     | RSI: 60.39 → 61.54 | Live: 65.43 | Price: 0.14849 | Score: 3 | VolSpike: False
+Total: 1
+
+
+=== EARLY CATCH-UP V2 === 2026-05-20 07:44
+MANAUSDT     | RSI: 49.98 → 56.58 | Live: 60.76 | Price: 0.0896 | Score: 3 | VolSpike: True
+Total: 1
+
+
+=== EARLY CATCH-UP V2 === 2026-05-20 07:50
+ALTUSDT      | RSI: 55.12 → 59.8 | Live: 63.86 | Price: 0.00685 | Score: 3 | VolSpike: True
+OPNUSDT      | RSI: 46.24 → 52.89 | Live: 56.93 | Price: 0.1744 | Score: 3 | VolSpike: True
+Total: 2
+
+
+=== EARLY CATCH-UP V2 === 2026-05-20 07:55
+LAUSDT       | RSI: 51.03 → 53.46 | Live: 58.36 | Price: 0.1134 | Score: 3 | VolSpike: False
+Total: 1
+
+
+=== EARLY CATCH-UP V2 === 2026-05-20 08:01
+TLMUSDT      | RSI: 48.91 → 57.87 | Live: 57.87 | Price: 0.001787 | Score: 3 | VolSpike: True
+INITUSDT     | RSI: 49.55 → 58.99 | Live: 59.8 | Price: 0.0849 | Score: 4 | VolSpike: True
+WLFIUSDT     | RSI: 47.3 → 56.45 | Live: 57.77 | Price: 0.0609 | Score: 3 | VolSpike: True
+Total: 3
+
+
+=== EARLY CATCH-UP V2 === 2026-05-20 08:06
+NEIROUSDT    | RSI: 51.34 → 54.66 | Live: 57.76 | Price: 8.987e-05 | Score: 2 | VolSpike: True
+YBUSDT       | RSI: 56.98 → 60.48 | Live: 61.82 | Price: 0.1063 | Score: 4 | VolSpike: True
+Total: 2
+
+
+=== EARLY CATCH-UP V2 === 2026-05-20 08:12
+BTCUSDT      | RSI: 46.6 → 48.14 | Live: 58.4 | Price: 77233.13 | Score: 2 | VolSpike: False
+ZENUSDT      | RSI: 54.04 → 56.61 | Live: 58.61 | Price: 6.088 | Score: 3 | VolSpike: True
+LUNAUSDT     | RSI: 48.6 → 54.57 | Live: 59.63 | Price: 0.0637 | Score: 3 | VolSpike: True
+CELOUSDT     | RSI: 46.76 → 48.71 | Live: 56.27 | Price: 0.08081 | Score: 2 | VolSpike: True
+SSVUSDT      | RSI: 53.11 → 65.81 | Live: 67.08 | Price: 2.608 | Score: 3 | VolSpike: True
+WBTCUSDT     | RSI: 46.59 → 48.09 | Live: 58.01 | Price: 76980.83 | Score: 2 | VolSpike: True
+STRKUSDT     | RSI: 50.86 → 54.52 | Live: 57.89 | Price: 0.041 | Score: 3 | VolSpike: False
+DOGSUSDT     | RSI: 49.43 → 53.08 | Live: 59.39 | Price: 5.6e-05 | Score: 3 | VolSpike: False
+ONDOUSDT     | RSI: 52.56 → 57.08 | Live: 62.11 | Price: 0.3833 | Score: 3 | VolSpike: False
+CFGUSDT      | RSI: 56.31 → 57.82 | Live: 59.67 | Price: 0.2893 | Score: 4 | VolSpike: False
+Total: 10
+
+
+=== EARLY CATCH-UP V2 === 2026-05-20 08:17
+MANAUSDT     | RSI: 56.58 → 63.13 | Live: 63.13 | Price: 0.09 | Score: 3 | VolSpike: True
+XVSUSDT      | RSI: 50.49 → 57.39 | Live: 61.27 | Price: 2.79 | Score: 3 | VolSpike: True
+PEOPLEUSDT   | RSI: 48.37 → 52.98 | Live: 57.1 | Price: 0.00688 | Score: 3 | VolSpike: True
+BONKUSDT     | RSI: 47.41 → 49.09 | Live: 57.76 | Price: 6e-06 | Score: 3 | VolSpike: True
+Total: 4
+
+
+=== EARLY CATCH-UP V2 === 2026-05-20 08:23
+OPNUSDT      | RSI: 52.89 → 56.54 | Live: 59.33 | Price: 0.1756 | Score: 4 | VolSpike: False
+Total: 1
+
+
+=== EARLY CATCH-UP V2 === 2026-05-20 08:28
+WINUSDT      | RSI: 53.91 → 61.97 | Live: 64.64 | Price: 1.944e-05 | Score: 4 | VolSpike: True
+DYMUSDT      | RSI: 48.47 → 62.85 | Live: 67.37 | Price: 0.026 | Score: 3 | VolSpike: True
+FORMUSDT     | RSI: 48.51 → 52.46 | Live: 55.53 | Price: 0.2303 | Score: 4 | VolSpike: True
+LAUSDT       | RSI: 53.46 → 59.52 | Live: 62.17 | Price: 0.1144 | Score: 4 | VolSpike: False
+ASTERUSDT    | RSI: 49.48 → 55.18 | Live: 62.73 | Price: 0.66 | Score: 3 | VolSpike: False
+Total: 5
+
+
+=== EARLY CATCH-UP V2 === 2026-05-20 08:33
+FILUSDT      | RSI: 47.7 → 50.72 | Live: 60.52 | Price: 0.959 | Score: 3 | VolSpike: True
+TLMUSDT      | RSI: 48.91 → 57.87 | Live: 58.28 | Price: 0.001788 | Score: 3 | VolSpike: True
+ETHFIUSDT    | RSI: 49.98 → 54.52 | Live: 61.96 | Price: 0.38 | Score: 3 | VolSpike: True
+ENAUSDT      | RSI: 51.62 → 54.02 | Live: 59.9 | Price: 0.1056 | Score: 4 | VolSpike: False
+TNSRUSDT     | RSI: 51.89 → 58.98 | Live: 65.77 | Price: 0.039 | Score: 4 | VolSpike: False
+THEUSDT      | RSI: 46.62 → 54.97 | Live: 59.26 | Price: 0.0929 | Score: 3 | VolSpike: True
+INITUSDT     | RSI: 49.55 → 58.99 | Live: 60.58 | Price: 0.085 | Score: 4 | VolSpike: True
+2ZUSDT       | RSI: 49.96 → 60.5 | Live: 66.19 | Price: 0.09188 | Score: 3 | VolSpike: False
+ZAMAUSDT     | RSI: 55.17 → 60.45 | Live: 63.71 | Price: 0.02742 | Score: 3 | VolSpike: False
+Total: 9
+
+
+=== EARLY CATCH-UP V2 === 2026-05-20 08:39
+OGNUSDT      | RSI: 48.99 → 54.5 | Live: 58.92 | Price: 0.02193 | Score: 3 | VolSpike: True
+CRVUSDT      | RSI: 52.74 → 55.35 | Live: 59.63 | Price: 0.2371 | Score: 3 | VolSpike: False
+FLOKIUSDT    | RSI: 44.82 → 48.7 | Live: 58.37 | Price: 3.028e-05 | Score: 4 | VolSpike: True
+1000SATSUSDT | RSI: 47.34 → 52.03 | Live: 57.87 | Price: 1.342e-05 | Score: 3 | VolSpike: True
+NEIROUSDT    | RSI: 51.34 → 54.66 | Live: 61.67 | Price: 9.06e-05 | Score: 2 | VolSpike: True
+YBUSDT       | RSI: 56.98 → 60.48 | Live: 62.46 | Price: 0.1064 | Score: 4 | VolSpike: True
+Total: 6
+
+
+=== EARLY CATCH-UP V2 === 2026-05-20 08:44
+BTCUSDT      | RSI: 46.6 → 48.14 | Live: 57.47 | Price: 77183.21 | Score: 2 | VolSpike: True
+ZENUSDT      | RSI: 54.04 → 56.61 | Live: 60.11 | Price: 6.105 | Score: 3 | VolSpike: True
+LUNAUSDT     | RSI: 48.6 → 54.57 | Live: 58.71 | Price: 0.0636 | Score: 3 | VolSpike: True
+CELOUSDT     | RSI: 46.76 → 48.71 | Live: 56.91 | Price: 0.08088 | Score: 2 | VolSpike: True
+WBTCUSDT     | RSI: 46.59 → 48.09 | Live: 59.44 | Price: 77059.94 | Score: 2 | VolSpike: True
+JTOUSDT      | RSI: 41.57 → 46.42 | Live: 53.92 | Price: 0.417 | Score: 3 | VolSpike: False
+JUPUSDT      | RSI: 45.79 → 52.48 | Live: 60.16 | Price: 0.1998 | Score: 2 | VolSpike: True
+STRKUSDT     | RSI: 50.86 → 54.52 | Live: 59.88 | Price: 0.0412 | Score: 3 | VolSpike: True
+DOGSUSDT     | RSI: 49.43 → 53.08 | Live: 62.54 | Price: 5.65e-05 | Score: 3 | VolSpike: False
+ONDOUSDT     | RSI: 52.56 → 57.08 | Live: 64.45 | Price: 0.387 | Score: 3 | VolSpike: True
+Total: 10
+
+
+=== EARLY CATCH-UP V2 === 2026-05-20 08:50
+MANAUSDT     | RSI: 56.58 → 63.13 | Live: 63.72 | Price: 0.0901 | Score: 3 | VolSpike: True
+XVSUSDT      | RSI: 50.49 → 57.39 | Live: 67.24 | Price: 2.83 | Score: 3 | VolSpike: True
+SUPERUSDT    | RSI: 47.96 → 55.05 | Live: 56.47 | Price: 0.1121 | Score: 3 | VolSpike: True
+PEOPLEUSDT   | RSI: 48.37 → 52.98 | Live: 58.9 | Price: 0.0069 | Score: 3 | VolSpike: True
+Total: 4
+
+
+=== EARLY CATCH-UP V2 === 2026-05-20 08:55
+BONKUSDT     | RSI: 47.41 → 49.09 | Live: 57.76 | Price: 6e-06 | Score: 3 | VolSpike: True
+HMSTRUSDT    | RSI: 49.34 → 54.07 | Live: 57.83 | Price: 0.0001495 | Score: 3 | VolSpike: True
+REDUSDT      | RSI: 53.27 → 60.37 | Live: 61.34 | Price: 0.128 | Score: 3 | VolSpike: True
+OPNUSDT      | RSI: 52.89 → 56.54 | Live: 59.7 | Price: 0.1758 | Score: 4 | VolSpike: False
+Total: 4
+
+
+=== EARLY CATCH-UP V2 === 2026-05-20 09:01
+BNBUSDT      | RSI: 46.59 → 55.14 | Live: 55.58 | Price: 642.79 | Score: 3 | VolSpike: True
+SNXUSDT      | RSI: 48.76 → 58.66 | Live: 58.66 | Price: 0.31 | Score: 3 | VolSpike: True
+GRTUSDT      | RSI: 50.34 → 56.41 | Live: 56.04 | Price: 0.02501 | Score: 4 | VolSpike: True
+PENGUUSDT    | RSI: 53.68 → 63.05 | Live: 63.58 | Price: 0.008853 | Score: 3 | VolSpike: True
+FORMUSDT     | RSI: 52.46 → 59.68 | Live: 59.68 | Price: 0.2319 | Score: 4 | VolSpike: True
+PLUMEUSDT    | RSI: 50.94 → 60.42 | Live: 60.0 | Price: 0.01185 | Score: 3 | VolSpike: True
+XPLUSDT      | RSI: 50.77 → 55.61 | Live: 56.38 | Price: 0.0831 | Score: 3 | VolSpike: True
+KITEUSDT     | RSI: 62.49 → 63.23 | Live: 63.41 | Price: 0.2493 | Score: 2 | VolSpike: False
+Total: 8
+
+
+=== EARLY CATCH-UP V2 === 2026-05-20 09:06
+SANDUSDT     | RSI: 58.74 → 61.83 | Live: 60.26 | Price: 0.07171 | Score: 3 | VolSpike: False
+AVAXUSDT     | RSI: 48.35 → 56.21 | Live: 57.21 | Price: 9.202 | Score: 3 | VolSpike: True
+LDOUSDT      | RSI: 53.65 → 57.73 | Live: 58.7 | Price: 0.3584 | Score: 3 | VolSpike: True
+ENAUSDT      | RSI: 54.01 → 59.9 | Live: 60.88 | Price: 0.1058 | Score: 4 | VolSpike: False
+BANANAUSDT   | RSI: 51.79 → 59.09 | Live: 61.2 | Price: 3.844 | Score: 4 | VolSpike: True
+VIRTUALUSDT  | RSI: 46.39 → 57.07 | Live: 59.63 | Price: 0.7216 | Score: 4 | VolSpike: True
+ZAMAUSDT     | RSI: 60.45 → 65.59 | Live: 61.71 | Price: 0.02741 | Score: 3 | VolSpike: True
+Total: 7
+
+
+=== EARLY CATCH-UP V2 === 2026-05-20 09:12
+OGNUSDT      | RSI: 54.5 → 57.54 | Live: 58.66 | Price: 0.02192 | Score: 3 | VolSpike: True
+CRVUSDT      | RSI: 55.35 → 59.63 | Live: 60.14 | Price: 0.2373 | Score: 4 | VolSpike: False
+MASKUSDT     | RSI: 49.86 → 59.71 | Live: 59.71 | Price: 0.455 | Score: 3 | VolSpike: True
+FLOKIUSDT    | RSI: 48.69 → 59.78 | Live: 60.67 | Price: 3.041e-05 | Score: 4 | VolSpike: True
+NEIROUSDT    | RSI: 54.66 → 63.48 | Live: 65.24 | Price: 9.138e-05 | Score: 3 | VolSpike: True
+SIGNUSDT     | RSI: 47.94 → 56.01 | Live: 60.57 | Price: 0.01307 | Score: 3 | VolSpike: True
+NXPCUSDT     | RSI: 51.0 → 55.96 | Live: 57.59 | Price: 0.3199 | Score: 4 | VolSpike: True
+WLFIUSDT     | RSI: 56.45 → 62.32 | Live: 60.56 | Price: 0.0612 | Score: 3 | VolSpike: True
+YBUSDT       | RSI: 60.48 → 61.16 | Live: 62.55 | Price: 0.1064 | Score: 3 | VolSpike: True
+METUSDT      | RSI: 53.4 → 59.33 | Live: 61.11 | Price: 0.1445 | Score: 3 | VolSpike: True
+CHIPUSDT     | RSI: 49.88 → 59.02 | Live: 60.93 | Price: 0.04957 | Score: 3 | VolSpike: False
+Total: 11
+
+
+=== EARLY CATCH-UP V2 === 2026-05-20 09:17
+BTCUSDT      | RSI: 48.14 → 57.73 | Live: 59.25 | Price: 77275.0 | Score: 3 | VolSpike: True
+DOTUSDT      | RSI: 50.19 → 56.45 | Live: 57.73 | Price: 1.244 | Score: 3 | VolSpike: True
+SYNUSDT      | RSI: 51.93 → 56.38 | Live: 60.34 | Price: 0.0508 | Score: 3 | VolSpike: True
+WBTCUSDT     | RSI: 48.09 → 57.18 | Live: 58.49 | Price: 77001.71 | Score: 3 | VolSpike: True
+WBETHUSDT    | RSI: 46.63 → 54.73 | Live: 56.83 | Price: 2335.26 | Score: 4 | VolSpike: False
+JTOUSDT      | RSI: 46.42 → 54.66 | Live: 56.07 | Price: 0.4187 | Score: 4 | VolSpike: False
+STRKUSDT     | RSI: 54.52 → 61.68 | Live: 60.22 | Price: 0.0413 | Score: 3 | VolSpike: True
+DOGSUSDT     | RSI: 53.08 → 61.95 | Live: 58.95 | Price: 5.61e-05 | Score: 3 | VolSpike: True
+ONDOUSDT     | RSI: 57.08 → 61.71 | Live: 64.58 | Price: 0.3869 | Score: 3 | VolSpike: True
+MIRAUSDT     | RSI: 53.83 → 62.71 | Live: 63.55 | Price: 0.0791 | Score: 3 | VolSpike: True
+Total: 10
+
+
+=== EARLY CATCH-UP V2 === 2026-05-20 09:23
+ETHUSDT      | RSI: 46.87 → 54.76 | Live: 57.12 | Price: 2129.89 | Score: 3 | VolSpike: True
+XVSUSDT      | RSI: 57.39 → 64.5 | Live: 66.03 | Price: 2.82 | Score: 3 | VolSpike: True
+PEOPLEUSDT   | RSI: 52.98 → 59.75 | Live: 57.21 | Price: 0.00689 | Score: 4 | VolSpike: True
+JUPUSDT      | RSI: 52.48 → 61.45 | Live: 59.05 | Price: 0.1997 | Score: 4 | VolSpike: True
+2ZUSDT       | RSI: 60.5 → 65.42 | Live: 67.97 | Price: 0.09224 | Score: 3 | VolSpike: True
+Total: 5
+

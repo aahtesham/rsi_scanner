@@ -4,7 +4,7 @@ from datetime import datetime
 
 
 def _local_dt() -> datetime:
-    return datetime.now().astimezone()
+    return datetime.now()
 
 
 def scan_timestamp() -> str:
